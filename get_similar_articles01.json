@@ -1,0 +1,16 @@
+{
+    "articles_data": [
+        {
+            "domain": "bbc",
+            "title": "Shell still trading Russian gas despite pledge to stop",
+            "url": "https://www.bbc.com/news/business-66021325"
+        },
+        {
+            "domain": "time",
+            "title": "How Wagner's Prigozhin Used Telegram to Challenge Putin",
+            "url": "https://time.com/6290378/yevgeny-prigozhin-wagner-telegram/"
+        }
+    ],
+    "error_msg": "",
+    "succeeded": true
+}
