@@ -1,0 +1,19 @@
+[
+    {
+        "cluster_id": "c496247b-62cc-4c4e-9707-1f68face1763",
+        "articles_id": [
+            "5c811ee2-3d10-4554-a53b-b8f4b9dc24eb",
+            "6c89a828-7722-4b77-83c6-a0fda410574c"
+        ],
+        "main_article_id": "5c811ee2-3d10-4554-a53b-b8f4b9dc24eb",
+        "creation_time": "2023-06-07T20:27:41.247000",
+        "last_updated": "2023-06-07T20:27:41.247000",
+        "domains": [
+            "bbc",
+            "time"
+        ],
+        "categories": [
+            "politics"
+        ]
+    }
+]
