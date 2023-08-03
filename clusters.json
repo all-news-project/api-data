@@ -28,11 +28,15 @@
             "7e6fc62a-cae3-4662-b4de-1d9c26f781d5",
             "ab5ea341-eec9-463f-9626-575550a87784",
             "cbdc1863-850c-42c5-af4d-8f76e164fc9c",
-            "39b7acad-2c4f-4065-bfef-3ac829b1c282"
+            "39b7acad-2c4f-4065-bfef-3ac829b1c282",
+            "7afe995d-bac9-454b-98c8-6e4c4adaa556",
+            "19a5a11a-f1d5-441e-bc92-b9f2063a8faf",
+            "a97c8d54-f1c3-460a-8f42-94036b0199d2",
+            "e4710a04-d387-49a3-b5ea-8303d0bdc1c6"
         ],
         "main_article_id": "5339efea-5b1a-4110-be96-43877db432a2",
         "creation_time": "2023-08-01T11:49:17.897000",
-        "last_updated": "2023-08-01T11:49:17.927000",
+        "last_updated": "2023-08-03T13:55:43.650000",
         "domains": [
             "publicsource",
             "smithsonianmag",
@@ -42,7 +46,11 @@
             "azcentral",
             "the74million",
             "the-riotact",
-            "edsource"
+            "edsource",
+            "wesh",
+            "americafirstpolicy",
+            "commonwealthmagazine",
+            "crosscut"
         ],
         "categories": [],
         "trend": "The Complex History of School Choice"
@@ -85,18 +93,28 @@
             "6358528f-8e27-4b3c-b540-883f8bf91a98",
             "67e0e9f3-fb87-4a53-8ecb-ac1dd311d6da",
             "b50f9184-93cf-499a-a812-5d64e23781f5",
-            "b61648eb-f65b-48b0-87ee-d6d00ad748c3"
+            "b61648eb-f65b-48b0-87ee-d6d00ad748c3",
+            "847abb88-e5a6-4cd1-9ff2-18b7d8dfe98c",
+            "4e70efe9-9362-4d2a-862f-6c76edaf31c9",
+            "4a0cf017-15b7-4b19-bc3b-d42e74361cb1",
+            "b1138836-8313-4f02-b7c8-81a39bad9385",
+            "1c690031-a8d1-4e6d-8329-759543bff9a1"
         ],
         "main_article_id": "f77687b6-7c47-4ec6-88e4-1a1eef015125",
         "creation_time": "2023-08-01T11:49:20.785000",
-        "last_updated": "2023-08-01T11:49:20.808000",
+        "last_updated": "2023-08-03T13:55:18.523000",
         "domains": [
             "today",
             "spokanefavs",
             "pitchfork",
             "thebasscast",
             "ca",
-            "mtairynews"
+            "mtairynews",
+            "loudwire",
+            "losangelesblade",
+            "ultimateclassicrock",
+            "sportskeeda",
+            "byuiscroll1"
         ],
         "categories": [],
         "trend": "Polaris: Freedom Happens Now"
@@ -141,11 +159,15 @@
             "c532aa14-2e5b-4e06-9353-32aa25e3bac3",
             "87aba94f-cc39-4e74-8192-986266390165",
             "165bfb00-4bbe-4f92-b9f6-2e444ff8c7ea",
-            "e30a4c59-ae5e-4b78-bd84-ee26e980b864"
+            "e30a4c59-ae5e-4b78-bd84-ee26e980b864",
+            "e02c378e-f61c-4d2b-9bf3-b8f3639ecb1a",
+            "6ef1b97d-f320-439e-8a4d-c7eed607c3a0",
+            "0e0f77e9-aaa8-44e0-8593-fbaae4ee8bee",
+            "afd96f36-db55-45ea-b342-b7730deb4c0a"
         ],
         "main_article_id": "3cdbfa84-6079-4911-abe1-e8cbeb04e190",
         "creation_time": "2023-08-01T11:49:24.123000",
-        "last_updated": "2023-08-01T11:49:24.151000",
+        "last_updated": "2023-08-03T13:55:49.986000",
         "domains": [
             "apnews",
             "cnn",
@@ -154,7 +176,10 @@
             "facingsouth",
             "defense",
             "miamiherald",
-            "desiringgod"
+            "desiringgod",
+            "insurancejournal",
+            "wsws",
+            "washingtonpost"
         ],
         "categories": [],
         "trend": "History of child labor in the United States"
@@ -217,11 +242,15 @@
             "cc5acdc7-fddf-48f6-8cfe-cc2565ca12ad",
             "82e70e08-8b5e-484e-b07e-ed90ff2acc20",
             "807a7ead-f6aa-4b05-8efd-e4eebd206e83",
-            "81a82a09-d3e8-4182-a7a8-9f2f031e8be6"
+            "81a82a09-d3e8-4182-a7a8-9f2f031e8be6",
+            "885173d4-09ea-4607-9a89-c6c11281816d",
+            "584cb13a-b2d4-48a3-821b-e9724a43681e",
+            "2a7ccad5-b8ba-4b45-a8e8-88ffbaa5524e",
+            "86c10a86-3759-4d3b-ab09-6b0cd19a10b5"
         ],
         "main_article_id": "4f0a7288-572c-4728-98a5-f6bb01245175",
         "creation_time": "2023-08-01T11:49:28.650000",
-        "last_updated": "2023-08-01T11:49:28.677000",
+        "last_updated": "2023-08-03T13:55:41.094000",
         "domains": [
             "eastasiaforum",
             "featureshoot",
@@ -231,7 +260,11 @@
             "en",
             "forbes",
             "cbsnews",
-            "sportspromedia"
+            "sportspromedia",
+            "abcnews",
+            "furniturelightingdecor",
+            "entrepreneur",
+            "standard"
         ],
         "categories": [],
         "trend": "What is a Hashtag?"
@@ -277,14 +310,18 @@
             "cd97f3c6-d794-4fbb-949b-e0a4bc71eed3",
             "5ab4c7a3-e7d8-42c8-b27e-ec03d203f214",
             "369bec74-ac64-4447-bf18-ed91bab231de",
-            "ead04475-9f10-48e0-be5a-b94e7e5258ae"
+            "ead04475-9f10-48e0-be5a-b94e7e5258ae",
+            "c7f57b25-ebfa-4266-b6e0-7f0529ada33f",
+            "d9e89b8f-6afa-46cf-91f4-13d04c5f8287",
+            "16a95cd0-4244-4c8d-b51e-583e74c692f6"
         ],
         "main_article_id": "9a4b16fd-dda1-4896-92b9-d87a1af28d84",
         "creation_time": "2023-08-01T11:49:31.950000",
-        "last_updated": "2023-08-01T11:49:31.977000",
+        "last_updated": "2023-08-02T00:04:53.298000",
         "domains": [
             "nationalreview",
-            "highwaysmagazine"
+            "highwaysmagazine",
+            "kulr8"
         ],
         "categories": [],
         "trend": "National Review"
@@ -362,11 +399,12 @@
             "671457f8-905f-4867-ad79-0335b3f41581",
             "7082cb11-c789-429f-8ced-bb8ad7a75028",
             "0fb07ef0-ebd8-4743-b761-8d0192586b98",
-            "9cbe2311-f243-4ff8-bd42-98d8b205a19d"
+            "9cbe2311-f243-4ff8-bd42-98d8b205a19d",
+            "c7fc46f6-75f3-4f46-a9fd-b0bba3f3d18b"
         ],
         "main_article_id": "2fa9fc79-c2ca-4515-bc09-6f63d0448672",
         "creation_time": "2023-08-01T11:49:37.280000",
-        "last_updated": "2023-08-01T11:49:37.310000",
+        "last_updated": "2023-08-01T18:03:40.010000",
         "domains": [
             "theguardian",
             "forbes",
@@ -376,7 +414,8 @@
             "lexology",
             "wagingnonviolence",
             "finance",
-            "tni"
+            "tni",
+            "worldfinance"
         ],
         "categories": [],
         "trend": "Activism in the US"
@@ -422,11 +461,12 @@
             "7ebb5600-2510-4082-ae69-a4d1dda8daba",
             "a04a78ed-3117-42b6-981a-0626f70c1cfb",
             "563bf5e6-abe8-4237-b364-b1994a9812f5",
-            "278dc777-a3f0-4817-862a-ea6b061162fd"
+            "278dc777-a3f0-4817-862a-ea6b061162fd",
+            "8143fa98-a028-411a-9ca0-ecfedfda9756"
         ],
         "main_article_id": "d1182c7f-dab3-4de6-b647-9febd379198a",
         "creation_time": "2023-08-01T11:49:40.054000",
-        "last_updated": "2023-08-01T11:49:40.087000",
+        "last_updated": "2023-08-02T00:05:00.454000",
         "domains": [
             "reliefweb",
             "african",
@@ -452,11 +492,15 @@
             "aaba12bf-43a7-4801-9419-90345b2e1592",
             "ff4d918d-de3d-44c4-9ebf-37163f97e9b5",
             "9344ad8c-c656-431d-810e-81deee69c0b3",
-            "45c97530-8e07-4a30-bb93-04054a0f547c"
+            "45c97530-8e07-4a30-bb93-04054a0f547c",
+            "b20e9d7b-b9c6-41ce-9659-c4111fd1cdb6",
+            "fe9c03b0-2bd1-4b8f-81d4-bf316fa5dde3",
+            "056c370f-ba06-4023-9241-7befd3007607",
+            "95c0031d-f87d-4dbd-9381-0461c9704090"
         ],
         "main_article_id": "92f5d3e1-547d-42df-9b5f-61c487ee93f8",
         "creation_time": "2023-08-01T11:49:41.561000",
-        "last_updated": "2023-08-01T11:49:41.591000",
+        "last_updated": "2023-08-03T13:55:35.712000",
         "domains": [
             "npr",
             "nypost",
@@ -466,7 +510,11 @@
             "ucalgary",
             "now",
             "nationalgeographic",
-            "chathamhouse"
+            "chathamhouse",
+            "savethechildren",
+            "washingtonpost",
+            "theconversation",
+            "osce"
         ],
         "categories": [],
         "trend": "Feminists for Life"
@@ -510,11 +558,12 @@
             "2c3639c5-d429-4787-add2-ae5c1ddfc46c",
             "7d069cb4-a33f-4ae2-915d-009f18af3c65",
             "2283c38b-08cf-4e41-bc25-1da0448c5ea2",
-            "90e3142c-a1de-4b34-914e-c9af5727561d"
+            "90e3142c-a1de-4b34-914e-c9af5727561d",
+            "27551812-3599-4db3-b032-35eed1777142"
         ],
         "main_article_id": "6efc02b4-f3ed-423b-87ce-2d557acf75d0",
         "creation_time": "2023-08-01T11:49:44.332000",
-        "last_updated": "2023-08-01T11:49:44.359000",
+        "last_updated": "2023-08-01T18:03:56.875000",
         "domains": [
             "news",
             "analyticsindiamag",
@@ -524,7 +573,8 @@
             "syfy",
             "e-flux",
             "bloomington",
-            "dezeen"
+            "dezeen",
+            "donegaldaily"
         ],
         "categories": [],
         "trend": "Social Welfare History Project"
@@ -540,11 +590,15 @@
             "d50c8ade-029c-4f35-9163-96dfbd135410",
             "ae159f82-2f3c-420e-9f27-74e35fb6f209",
             "3cf76f8e-0287-4057-8582-1fd21f4f6c1d",
-            "994f6d7f-42b0-45b1-a8b9-3254bb03d189"
+            "994f6d7f-42b0-45b1-a8b9-3254bb03d189",
+            "3a4901ef-0de8-4edc-b076-814cb45afef5",
+            "c3851d93-c17c-412a-b85e-b2d1d2ee627b",
+            "5701d5e6-8c26-4816-b769-b2fc8e393ca9",
+            "2b563b02-7090-43ba-856f-18047e821087"
         ],
         "main_article_id": "fc7b2e22-bf16-41ca-b4eb-502b9cb40313",
         "creation_time": "2023-08-01T11:49:47.236000",
-        "last_updated": "2023-08-01T11:49:47.265000",
+        "last_updated": "2023-08-03T13:55:16.937000",
         "domains": [
             "npr"
         ],
@@ -620,11 +674,12 @@
             "28c29a60-75c2-487d-a92a-41a79d2c9d00",
             "d7593446-759f-41a0-a399-22fc80d4655c",
             "910eef8c-a49f-4dcf-98c3-fe6e19346b77",
-            "c8ab304b-a1ed-454a-8dd2-4d36ba402cc9"
+            "c8ab304b-a1ed-454a-8dd2-4d36ba402cc9",
+            "92aabbf6-ff35-49c9-a218-a888b9daa4ac"
         ],
         "main_article_id": "29681509-a804-48e5-88c6-bdd68972a741",
         "creation_time": "2023-08-01T11:49:51.864000",
-        "last_updated": "2023-08-01T11:49:51.893000",
+        "last_updated": "2023-08-02T00:04:25.396000",
         "domains": [
             "roadracingworld",
             "crash",
@@ -632,7 +687,8 @@
             "fia",
             "newyorker",
             "hcamag",
-            "smithsonianmag"
+            "smithsonianmag",
+            "runningmagazine"
         ],
         "categories": [],
         "trend": "Race Issues: World Mag"
@@ -648,11 +704,18 @@
             "661c2b97-3a46-4c7e-997f-3e567b561f20",
             "9399ba54-a98c-4943-99f2-8828ba9856e6",
             "677dc7aa-1de9-4246-9b0b-64af3b1f10c8",
-            "ebc571fd-9a7a-4aff-8bdc-376a5b45a0b8"
+            "ebc571fd-9a7a-4aff-8bdc-376a5b45a0b8",
+            "cedcae53-a09d-45ee-ab0f-82863c3b6cf5",
+            "9576fd5f-10c3-419e-84b0-52f1b8d67056",
+            "9d75eca4-df6d-450e-b45d-05ed2f767a63",
+            "9a814439-d515-4d5d-8946-aa3020b15a4a",
+            "9ac2992b-6a41-4906-a047-1548c895f1cf",
+            "3fdc98c7-4076-4c54-bd3d-396b092d6983",
+            "bb9c215e-3d40-42aa-9480-b844866dcbdf"
         ],
         "main_article_id": "96928350-0afd-4750-b5b7-9e9433bfc771",
         "creation_time": "2023-08-01T11:49:53.371000",
-        "last_updated": "2023-08-01T11:49:53.400000",
+        "last_updated": "2023-08-03T13:55:21.912000",
         "domains": [
             "ctvnews",
             "news",
@@ -662,7 +725,13 @@
             "bbc",
             "kfor",
             "newsnationnow",
-            "globalnews"
+            "globalnews",
+            "apnews",
+            "montanarightnow",
+            "windsor",
+            "outlookindia",
+            "nation",
+            "insidermedia"
         ],
         "categories": [],
         "trend": "Society Headlines: The Nation"
@@ -678,11 +747,13 @@
             "22524767-4191-4b2d-8eae-ba7286be8b8d",
             "2524e54d-a781-4dfd-8f19-d42c71ae685a",
             "2df4c5ca-c62a-4bad-a915-2bcce39db555",
-            "d5e56247-69b8-4e82-86d7-7fa5aae86aba"
+            "d5e56247-69b8-4e82-86d7-7fa5aae86aba",
+            "a0b75633-8b19-47ca-979a-452d89805e29",
+            "fe04c363-392a-4a88-9119-f6aa8e31559a"
         ],
         "main_article_id": "88e0f8a5-df7a-4d20-9e20-979526d7ae55",
         "creation_time": "2023-08-01T11:49:54.797000",
-        "last_updated": "2023-08-01T11:49:54.827000",
+        "last_updated": "2023-08-03T13:54:40.036000",
         "domains": [
             "factcheck",
             "channel4"
@@ -701,11 +772,13 @@
             "d5eb567c-d035-4e5a-9995-a96c340097f3",
             "a1e7f647-4559-42d5-b377-3aa448dcf845",
             "191c52aa-67a1-4cbc-8a45-88c15af161ff",
-            "08519844-83b5-4fa9-bfcd-a0a01ecdfcf4"
+            "08519844-83b5-4fa9-bfcd-a0a01ecdfcf4",
+            "45f57846-3e48-46f2-b30f-98a65aa95aba",
+            "21aa4f7c-1b2c-4959-a39c-94a3a469bfd1"
         ],
         "main_article_id": "d30894e2-3e91-479e-b6dd-33f91fc32621",
         "creation_time": "2023-08-01T11:49:56.393000",
-        "last_updated": "2023-08-01T11:49:56.420000",
+        "last_updated": "2023-08-02T00:04:27.592000",
         "domains": [
             "religionunplugged",
             "kenyans",
@@ -714,7 +787,9 @@
             "arabnews",
             "houstonpublicmedia",
             "press",
-            "napavalleyregister"
+            "napavalleyregister",
+            "thedowneypatriot",
+            "usun"
         ],
         "categories": [],
         "trend": "International Justice Mission"
@@ -730,11 +805,16 @@
             "fc8fe45d-529c-4ff3-92f9-1e440e0e290f",
             "dd11f340-7c52-4b9f-a64e-027edbcecefd",
             "d6f48241-0b8a-4f6c-a970-7e5e18d4d96a",
-            "d138a461-31db-4cd1-ba87-a433e69fd192"
+            "d138a461-31db-4cd1-ba87-a433e69fd192",
+            "a974d536-6484-41e0-87d7-dec02e8ef288",
+            "d1869358-44bf-4fa9-a31f-6882277b404e",
+            "e6bac658-f971-4301-8f9a-9bc3f1d6e9cc",
+            "cc4f0d65-8c0b-4575-a947-0a0e73db6cf9",
+            "6d0d7fa0-5b44-4403-b1d4-ce9127b14ccb"
         ],
         "main_article_id": "098d9d46-c586-478b-8555-d81e4c35dc30",
         "creation_time": "2023-08-01T11:49:58.077000",
-        "last_updated": "2023-08-01T11:49:58.109000",
+        "last_updated": "2023-08-03T13:54:49.889000",
         "domains": [
             "marijuanamoment",
             "navalnews",
@@ -743,7 +823,12 @@
             "bmcpsychiatry",
             "outlookindia",
             "indieshuffle",
-            "wnct"
+            "wnct",
+            "fortune",
+            "news",
+            "finovate",
+            "forestparkreview",
+            "pacom"
         ],
         "categories": [],
         "trend": "Campus Carry Tracker"
@@ -759,11 +844,14 @@
             "f0b9e470-3b3b-4124-baaa-93bfe8b4779e",
             "d3a6f499-df82-4e40-9402-00b8f1690602",
             "d23f8245-f118-494a-895d-4492358b742c",
-            "c5b15e58-67ca-45b4-89d0-d1ce94427db7"
+            "c5b15e58-67ca-45b4-89d0-d1ce94427db7",
+            "d92fcd91-545f-4571-a8c9-1c47ae119a4c",
+            "60b11893-53e1-406f-9b5a-daeb17eaafe4",
+            "a6679056-4e69-4971-84c6-745772eb59a9"
         ],
         "main_article_id": "a3e5aa70-c744-4306-b030-71b2fee43cb3",
         "creation_time": "2023-08-01T11:49:59.641000",
-        "last_updated": "2023-08-01T11:49:59.668000",
+        "last_updated": "2023-08-03T13:55:37.763000",
         "domains": [
             "eca",
             "www2",
@@ -773,7 +861,10 @@
             "shaheen",
             "vietnamnet",
             "peacenow",
-            "english"
+            "english",
+            "jis",
+            "monitor",
+            "indiaeducationdiary"
         ],
         "categories": [],
         "trend": "State Department: Office to Monitor and Combat Trafficking in Persons"
@@ -789,11 +880,16 @@
             "81fe1210-ff8f-451e-bc18-e851596ae4a9",
             "bdc26ca3-236a-4e20-be19-595e9c06b019",
             "6c5b0c8a-25b3-422d-9e5f-275a0cac4e64",
-            "d4f84ef7-7174-475b-b49b-e3077c01de98"
+            "d4f84ef7-7174-475b-b49b-e3077c01de98",
+            "c05036dd-1fcb-4a97-b5d0-0f330f78cd33",
+            "65a7a703-2ad6-4841-aaaf-2900cefc8084",
+            "2bc55dd8-9c38-4941-915b-d212eb3918de",
+            "7af32d27-2b95-4dec-bbc7-09cd6da15110",
+            "206861b8-d390-40a7-8b24-2b00050fc3b5"
         ],
         "main_article_id": "73077c62-7d7f-42ac-a9e0-26fad4462a52",
         "creation_time": "2023-08-01T11:50:01.295000",
-        "last_updated": "2023-08-01T11:50:01.322000",
+        "last_updated": "2023-08-03T13:55:10.779000",
         "domains": [
             "newsletter",
             "impactpolicies",
@@ -803,7 +899,11 @@
             "uk",
             "salvationarmy",
             "rte",
-            "navalnews"
+            "navalnews",
+            "verdict",
+            "occrp",
+            "washingtonpost",
+            "vancouver"
         ],
         "categories": [],
         "trend": "Anti-Slavery International"
@@ -818,11 +918,13 @@
             "bd59941a-d47f-440c-a58e-971dd61867b0",
             "a353ee35-97f5-4c63-beb0-0f0d54339f7e",
             "42383955-1a62-4099-8e24-ca9e7df8bc40",
-            "ac9ff5d2-670f-4dee-be68-5f5aa9718b0c"
+            "ac9ff5d2-670f-4dee-be68-5f5aa9718b0c",
+            "19168bfa-a41c-40c2-a3dd-6e6363c69c71",
+            "a190cbac-6f9f-4b23-a519-126a964d2130"
         ],
         "main_article_id": "6bfb7707-88fd-4782-bdc2-904c1b6e7b38",
         "creation_time": "2023-08-01T11:50:02.675000",
-        "last_updated": "2023-08-01T11:50:02.706000",
+        "last_updated": "2023-08-03T13:55:06.836000",
         "domains": [
             "wesh",
             "washingtonpost",
@@ -831,7 +933,9 @@
             "jewishaz",
             "prismreports",
             "citybeat",
-            "news"
+            "news",
+            "19thnews",
+            "dispatch"
         ],
         "categories": [],
         "trend": "Pew Research Center: Abortion"
@@ -846,11 +950,15 @@
             "779d2aea-e973-4b2d-a125-0ca3d89cee34",
             "4f58a2de-cad3-4e2e-9fc3-1d022aa5e7d2",
             "a1905a12-3271-4e52-9fb3-391a246eb185",
-            "9481d5ed-ce22-40a7-a0b3-c6fc0927c4ae"
+            "9481d5ed-ce22-40a7-a0b3-c6fc0927c4ae",
+            "9a2b6cad-18aa-4ae9-81a1-2b0a5d34e928",
+            "056ae96d-c619-437d-a986-cdca0488f824",
+            "b39e5fe8-66b4-4289-b3a8-dd65b84dcafd",
+            "b2c1cfca-cb3c-4740-8a6d-527c851c8c0b"
         ],
         "main_article_id": "2f270461-be94-44cb-ade4-90e2b3184dad",
         "creation_time": "2023-08-01T11:50:04.032000",
-        "last_updated": "2023-08-01T11:50:04.058000",
+        "last_updated": "2023-08-03T13:54:46.873000",
         "domains": [
             "uscis",
             "boundless",
@@ -859,7 +967,10 @@
             "btlaw",
             "cbia",
             "politico",
-            "cis"
+            "cis",
+            "financialexpress",
+            "jdsupra",
+            "klamathfallsnews"
         ],
         "categories": [],
         "trend": "US Citizenship and Immigration Services"
@@ -875,11 +986,14 @@
             "260bfa4e-1535-4f6a-a695-953241088cd9",
             "839d00b7-8e13-4902-b189-675d0a78d8fe",
             "1bc3681b-7a1b-4bc6-8149-0901f8075240",
-            "0c6ca0bf-c3b3-42ea-b19f-5e0ad6b1151b"
+            "0c6ca0bf-c3b3-42ea-b19f-5e0ad6b1151b",
+            "649ae13e-fb27-4d57-8da8-eb37389fe800",
+            "ffa77833-5df8-4b3b-9a41-40ed9a49c2e2",
+            "917e8346-336d-4f8a-85b0-351f6a234a48"
         ],
         "main_article_id": "870a63ac-e547-4e7d-a2df-9539fbe7d13a",
         "creation_time": "2023-08-01T11:50:05.394000",
-        "last_updated": "2023-08-01T11:50:05.424000",
+        "last_updated": "2023-08-02T00:04:26.415000",
         "domains": [
             "who",
             "outlookindia",
@@ -889,7 +1003,10 @@
             "weather",
             "nationalcrimeagency",
             "ctvnews",
-            "news"
+            "news",
+            "hindustantimes",
+            "abcnews",
+            "cleveland"
         ],
         "categories": [],
         "trend": "Coronavirus"
@@ -903,11 +1020,15 @@
             "47f807b4-c64d-4cd7-90e4-ef9354088c50",
             "7e938706-5fe5-4079-a0bc-6846dca8846a",
             "de4cb388-efe6-4e55-99b5-f41a8b5136b6",
-            "db096d8a-e4d9-40e9-9b05-3968a3012b06"
+            "db096d8a-e4d9-40e9-9b05-3968a3012b06",
+            "2d92e20c-403d-4040-9261-b35d803e718c",
+            "c39d652b-88cf-4844-90f5-08b39bac8225",
+            "db0bf6c0-bec5-4389-8cbf-05a8df621747",
+            "8d40c07a-e292-4177-a6b1-0a756008e580"
         ],
         "main_article_id": "63c7a3c0-b7f2-4c11-ad64-1805b24e9a9f",
         "creation_time": "2023-08-01T11:50:06.968000",
-        "last_updated": "2023-08-01T11:50:06.989000",
+        "last_updated": "2023-08-03T13:55:32.614000",
         "domains": [
             "indtoday",
             "ohiocapitaljournal",
@@ -915,7 +1036,11 @@
             "msmagazine",
             "columbusunderground",
             "whio",
-            "fedscoop"
+            "fedscoop",
+            "wdio",
+            "argusenglish",
+            "morganlewis",
+            "cincinnati"
         ],
         "categories": [],
         "trend": "Amenment 1 from the National Constitution Center"
@@ -931,17 +1056,21 @@
             "05d091cc-4d62-4775-a633-eb9e175c345c",
             "fe0fcb6f-8d69-4100-a129-ca4eb59dfe68",
             "9263476e-6275-48e6-b3c3-d9065c5921c7",
-            "cf5dac14-775e-4454-8519-5e9504d41fdc"
+            "cf5dac14-775e-4454-8519-5e9504d41fdc",
+            "c93c4d98-3f88-4f88-90e6-2c2bd261ce80",
+            "5f029a70-f1c6-429c-ad79-b9d7d09cde1e",
+            "f71e8ad3-35e0-46ed-8a61-8d8f4f71753d"
         ],
         "main_article_id": "afb1b814-d47d-4e46-88b9-123d7eccf092",
         "creation_time": "2023-08-01T11:50:08.474000",
-        "last_updated": "2023-08-01T11:50:08.502000",
+        "last_updated": "2023-08-02T00:04:46.022000",
         "domains": [
             "ucsusa",
             "blog",
             "ocregister",
             "washingtonpost",
-            "civileats"
+            "civileats",
+            "bostonherald"
         ],
         "categories": [],
         "trend": "Union of Concerned Scientists"
@@ -954,18 +1083,22 @@
             "2fa0bc10-7908-4953-aedf-21f9ab9ffcdd",
             "5a525608-2b0a-4460-992b-4b9c080f7301",
             "81f10989-f2d9-49cb-8c08-6415b2d5d167",
-            "4e7b583d-4023-49a7-9431-9d5eddb7e865"
+            "4e7b583d-4023-49a7-9431-9d5eddb7e865",
+            "b33229b0-736d-4418-8e74-82c61beb1459",
+            "4b4170fe-86e6-4b9c-b1aa-92c6f1e3d0bb"
         ],
         "main_article_id": "90ad9397-9031-4d53-8d81-6c7791668278",
         "creation_time": "2023-08-01T11:50:10.262000",
-        "last_updated": "2023-08-01T11:50:10.279000",
+        "last_updated": "2023-08-03T13:54:59.166000",
         "domains": [
             "apnews",
             "edmo",
             "cybersecuritynews",
             "publishersweekly",
             "spglobal",
-            "dvidshub"
+            "dvidshub",
+            "bookriot",
+            "uri"
         ],
         "categories": [],
         "trend": "Fake News: A Library Resource Round-up"
@@ -980,11 +1113,12 @@
             "75d1df80-a173-4279-a297-3874abdc33a2",
             "64729cbc-42d5-442d-8044-1bd4029eb9ac",
             "c8aa9b97-7b6d-41cf-a8a7-e4a8d0043531",
-            "11afdd19-0a3f-45cd-a576-7a251cbc580a"
+            "11afdd19-0a3f-45cd-a576-7a251cbc580a",
+            "bbafc287-df80-439d-a6d3-c75b1ced1de9"
         ],
         "main_article_id": "08752629-8cbe-438b-af40-235a5197e226",
         "creation_time": "2023-08-01T11:50:11.692000",
-        "last_updated": "2023-08-01T11:50:11.718000",
+        "last_updated": "2023-08-01T18:03:45.154000",
         "domains": [
             "northantstelegraph",
             "susqu",
@@ -993,7 +1127,8 @@
             "carnegieendowment",
             "travelweekly",
             "thegazette",
-            "glamourmagazine"
+            "glamourmagazine",
+            "forbes"
         ],
         "categories": [],
         "trend": "Ideas about Activism"
@@ -1009,11 +1144,14 @@
             "3943bf8a-fd34-4ddb-9122-545c8c6faeb9",
             "0eac5f60-6f78-4081-8c72-79ed30294050",
             "a9640374-ceb9-4bd3-af4b-5925712f7bcc",
-            "b35e62f0-2344-418c-a042-9582a4adbb0f"
+            "b35e62f0-2344-418c-a042-9582a4adbb0f",
+            "72d3cc0f-434f-4a0a-9709-77f34f9fd30d",
+            "96c570c1-4415-4f2e-86dd-1c2659a62fe5",
+            "07d5d2bf-ba7e-4d79-9e0f-16a2d93c9858"
         ],
         "main_article_id": "ef6ec522-e4ab-42c7-ba74-1ad05ebf0110",
         "creation_time": "2023-08-01T11:50:13.400000",
-        "last_updated": "2023-08-01T11:50:13.428000",
+        "last_updated": "2023-08-03T13:55:20.148000",
         "domains": [
             "kidscreen",
             "washingtonpost",
@@ -1022,7 +1160,10 @@
             "azcapitoltimes",
             "prnewswire",
             "jewishpress",
-            "marketplace"
+            "marketplace",
+            "nbcchicago",
+            "nnn",
+            "deseret"
         ],
         "categories": [],
         "trend": "Common Sense Media"
@@ -1038,11 +1179,13 @@
             "b7547d72-9c96-480a-bbdb-c2512ad79f28",
             "0a0f51d2-522e-41fe-a957-ca8317ea5cf6",
             "3d9e41f3-c903-4c43-86af-226ed754fa00",
-            "9f2fe96d-cb73-455c-b1fd-49a474c36251"
+            "9f2fe96d-cb73-455c-b1fd-49a474c36251",
+            "4bdeb3f5-0589-4dcb-a867-167c3e75979d",
+            "302e2b91-979d-4a7e-8bcf-7040a1f60883"
         ],
         "main_article_id": "18de405c-0e26-4119-b4e6-84eecf6d616e",
         "creation_time": "2023-08-01T11:50:15.025000",
-        "last_updated": "2023-08-01T11:50:15.054000",
+        "last_updated": "2023-08-01T18:03:28.682000",
         "domains": [
             "cdc",
             "bbc",
@@ -1094,11 +1237,13 @@
             "7456b47d-f5c7-4b9d-8289-4bfb2bd319a3",
             "e6a06180-c03c-455e-a43c-05e776d4090a",
             "a8c713c8-95c0-4d6a-9a78-fbdf6e49e5ea",
-            "bb589b4c-856d-4347-8542-5913ea34eb21"
+            "bb589b4c-856d-4347-8542-5913ea34eb21",
+            "9e57b14d-ef59-49d7-91b3-e2950dcf1ae4",
+            "7a9ac249-c491-4d5c-9821-480c08748cc3"
         ],
         "main_article_id": "8dbf077f-e04f-4e29-b34c-67d7ab9d5d1d",
         "creation_time": "2023-08-01T11:50:18.499000",
-        "last_updated": "2023-08-01T11:50:18.525000",
+        "last_updated": "2023-08-03T13:54:27.042000",
         "domains": [
             "mvariety",
             "globalaffairs",
@@ -1107,7 +1252,9 @@
             "washingtonpost",
             "thecradle",
             "theguardian",
-            "americas1stfreedom"
+            "americas1stfreedom",
+            "english",
+            "jamanetwork"
         ],
         "categories": [],
         "trend": "Arms Control Association"
@@ -1123,11 +1270,17 @@
             "2ebbbcd5-2ef0-4139-ae20-9f2ab9e57794",
             "a1cf50fa-f9a3-479b-a0b8-cab70a5152df",
             "7f24c374-37a3-484c-87b8-0d9414a132aa",
-            "cb1a7a0c-5e24-4c65-95db-af45341a3a66"
+            "cb1a7a0c-5e24-4c65-95db-af45341a3a66",
+            "ef3428b1-9604-490d-8e98-52f9f5485cab",
+            "79d8d432-ed07-4725-9234-3c7ff3b50552",
+            "055345e2-86a8-4fa5-97d5-276a1449492f",
+            "f72ce7f4-4f86-4c37-a892-eb44c5f7d7e4",
+            "14b83e50-cdb3-4a96-8d00-e70617b2d197",
+            "cc076b4c-9ae4-4b15-8808-1f0972d86b5e"
         ],
         "main_article_id": "4681ed89-d0ab-4767-98dd-6112c8feb2dc",
         "creation_time": "2023-08-01T11:50:21.341000",
-        "last_updated": "2023-08-01T11:50:21.370000",
+        "last_updated": "2023-08-03T13:55:00.427000",
         "domains": [
             "nationalreview",
             "blockclubchicago",
@@ -1137,7 +1290,13 @@
             "politico",
             "foley",
             "theintelligencer",
-            "cbsnews"
+            "cbsnews",
+            "catholicnewsagency",
+            "khqa",
+            "mackinac",
+            "11alive",
+            "gpb",
+            "thefire"
         ],
         "categories": [],
         "trend": "First Amendment Center"
@@ -1183,11 +1342,14 @@
             "e169916a-f481-4019-bd31-54094010113d",
             "64b6f86b-bab2-4472-828a-800525821fc5",
             "2d592cd2-0931-49e9-bfe6-624c3c38afe2",
-            "7c7914a4-fed7-4c17-845f-45a5169c5c6e"
+            "7c7914a4-fed7-4c17-845f-45a5169c5c6e",
+            "ca10edb5-167f-4fb8-91a5-86db1f8c3e35",
+            "34f08485-3a06-4541-9bb4-8564a5431518",
+            "7118da86-4a20-425f-92f2-25333a9072ab"
         ],
         "main_article_id": "e97f72f6-d046-4427-8c16-db0754797c4a",
         "creation_time": "2023-08-01T11:50:24.951000",
-        "last_updated": "2023-08-01T11:50:24.979000",
+        "last_updated": "2023-08-03T13:56:02.418000",
         "domains": [
             "nbcnews",
             "iccwbo",
@@ -1197,7 +1359,9 @@
             "nojitter",
             "thomsonreuters",
             "fagenwasanni",
-            "pib"
+            "pib",
+            "jdsupra",
+            "ipi"
         ],
         "categories": [],
         "trend": "Legal Information Institute"
@@ -1239,11 +1403,16 @@
             "a1b371dc-4c75-4142-92e7-c4dc8feca52e",
             "f4122987-2cdb-4d37-a93a-8eedc21f6554",
             "76bc8b13-846e-48da-bc3a-b5a69b8c583a",
-            "7b599ca2-6252-4542-a1fc-1d71b1ac0b5d"
+            "7b599ca2-6252-4542-a1fc-1d71b1ac0b5d",
+            "5c2a37f1-02a4-42e4-86de-4220d9a11dda",
+            "7c1c6f4b-20c0-4820-995f-edb29b552eb6",
+            "1087a033-55af-41be-af21-6cf4ff5385c4",
+            "18a5c215-2796-4fc5-9700-cc4241bbf91e",
+            "04072474-f92d-494d-9d27-b0cf19bf0553"
         ],
         "main_article_id": "1e3e03cc-7ca2-4038-a0d9-d623ba0941fa",
         "creation_time": "2023-08-01T11:50:29.053000",
-        "last_updated": "2023-08-01T11:50:29.082000",
+        "last_updated": "2023-08-03T13:55:31.063000",
         "domains": [
             "cfr",
             "businessinsider",
@@ -1252,7 +1421,12 @@
             "cnn",
             "thehill",
             "project-syndicate",
-            "wa"
+            "wa",
+            "arab-reform",
+            "insight",
+            "blogs",
+            "ctmirror",
+            "cbsnews"
         ],
         "categories": [],
         "trend": "Youth and Labor"
@@ -1297,11 +1471,13 @@
             "050613a8-2240-45e3-9914-ff73d7dcc90f",
             "de926498-cefd-48ea-950f-da10bea3d307",
             "0efe5a2f-b409-4fc7-921d-9c79b23bdd05",
-            "471f6d0c-fea1-4390-b0c0-830621debeb3"
+            "471f6d0c-fea1-4390-b0c0-830621debeb3",
+            "343c232e-404a-4bdd-9b91-414bd41052c6",
+            "ef1e2012-dd39-43b5-b994-979c36b06117"
         ],
         "main_article_id": "525fe781-1c06-4e03-babe-03689efc1f38",
         "creation_time": "2023-08-01T11:50:32.049000",
-        "last_updated": "2023-08-01T11:50:32.073000",
+        "last_updated": "2023-08-01T18:03:35.194000",
         "domains": [
             "asianews",
             "egyptindependent",
@@ -1310,7 +1486,9 @@
             "fagenwasanni",
             "ama-assn",
             "lexology",
-            "archstl"
+            "archstl",
+            "openglobalrights",
+            "ncr-iran"
         ],
         "categories": [],
         "trend": "Human Life and Dignity"
@@ -1326,11 +1504,12 @@
             "ed8039b3-0c96-4cb4-abcc-2367092d344f",
             "4e67f1bc-3ad4-4058-a2d4-57aa62b799e4",
             "ffeb7579-f988-4c73-a5cc-fe91e90b3e4f",
-            "84c121c5-665a-4610-9077-f1a555883096"
+            "84c121c5-665a-4610-9077-f1a555883096",
+            "607c9b89-30d5-4b5f-b3f2-9d762ec82726"
         ],
         "main_article_id": "96afa404-1ba3-458d-b1bb-aae709c74ebf",
         "creation_time": "2023-08-01T12:01:56.379000",
-        "last_updated": "2023-08-01T12:01:56.420000",
+        "last_updated": "2023-08-01T18:04:04.819000",
         "domains": [
             "eeas",
             "cfr",
@@ -1350,11 +1529,12 @@
             "b99b0cad-316a-45a4-9ec8-e80d4411d0cb",
             "6f9b2a95-81ee-45e3-b31e-7d6cfaa98a2d",
             "d0eb913d-ed08-406a-b219-50d62a93fc49",
-            "9f3d1e26-9f50-47ba-a3df-9354d0ed57fc"
+            "9f3d1e26-9f50-47ba-a3df-9354d0ed57fc",
+            "1adeca80-de43-484e-bd89-752f2ef43ae3"
         ],
         "main_article_id": "f1295e00-af19-4862-bf66-8d4e536adc30",
         "creation_time": "2023-08-01T12:01:58.499000",
-        "last_updated": "2023-08-01T12:01:58.513000",
+        "last_updated": "2023-08-01T18:03:49.120000",
         "domains": [
             "ohchr",
             "amnesty",
@@ -1363,7 +1543,8 @@
             "netherlandsandyou",
             "ec",
             "project-syndicate",
-            "brettonwoodsproject"
+            "brettonwoodsproject",
+            "unric"
         ],
         "categories": [],
         "trend": "The Universal Declaration of Human Rights"
@@ -1379,11 +1560,20 @@
             "f72e5f32-e5d2-433c-ba0e-257d23a94eb2",
             "7a447d01-96e0-466d-9b85-472cbb396c70",
             "09b75bbf-a27b-4a61-b4eb-7b67021d5765",
-            "35a8062d-2d2d-4406-a843-1da085894f82"
+            "35a8062d-2d2d-4406-a843-1da085894f82",
+            "9ecd904a-28ff-4ae7-83cd-b498b6512328",
+            "19a79124-2ca6-48fc-93ec-b1f2758c24e1",
+            "58bcc6cb-8dfc-46d2-be4e-ce74f75127d3",
+            "72188a10-de31-4c00-8fc2-a08acc9c53f9",
+            "a491f424-b7ee-49d8-97b6-98c3c633458e",
+            "f0832838-ae73-46e7-8d61-f6e26ae4ee40",
+            "a1111f91-e3e6-4a19-845b-426e128a8cbd",
+            "93aaba19-87cc-4d4b-accc-be9782261955",
+            "3183e06c-5c11-4e79-9c04-3ef7957dd996"
         ],
         "main_article_id": "675d34e6-3ecc-4262-83d3-0480d8ea1852",
         "creation_time": "2023-08-01T12:02:03.005000",
-        "last_updated": "2023-08-01T12:02:03.020000",
+        "last_updated": "2023-08-03T13:54:25.267000",
         "domains": [
             "news",
             "healthpolicy-watch",
@@ -1392,7 +1582,15 @@
             "news-medical",
             "acponline",
             "worldbank",
-            "odishatv"
+            "odishatv",
+            "sciencefocus",
+            "pnas",
+            "speakingofmedicine",
+            "beckershospitalreview",
+            "healthleadersmedia",
+            "policyoptions",
+            "cordis",
+            "whitehouse"
         ],
         "categories": [],
         "trend": "Pandemics"
@@ -1405,18 +1603,20 @@
             "040270c4-7be8-4746-813c-c3654f1fcc75",
             "4db2da76-7164-4b30-9f76-3a2f21f2649f",
             "2bac37ca-03e5-42eb-882c-198fccfe2dd5",
-            "1e1a54a1-0ffe-4160-b0c4-a6f4a7bfed8c"
+            "1e1a54a1-0ffe-4160-b0c4-a6f4a7bfed8c",
+            "c56d11bd-aee1-44c3-8d90-77228be5c567"
         ],
         "main_article_id": "abf69c4e-2456-4ab8-9091-0088faee6038",
         "creation_time": "2023-08-01T12:02:04.238000",
-        "last_updated": "2023-08-01T12:02:04.246000",
+        "last_updated": "2023-08-02T00:04:19.491000",
         "domains": [
             "thelocal",
             "unesco",
             "spglobal",
             "businessday",
             "chronline",
-            "world-nuclear-news"
+            "world-nuclear-news",
+            "axios"
         ],
         "categories": [],
         "trend": "International Election Guide"
@@ -1432,11 +1632,13 @@
             "415175ed-1018-461d-b0d7-054ee6c4b49b",
             "2359b212-15ea-4f6d-b12e-d87c03894683",
             "c9bf9c2d-3f59-40aa-a454-ebf3caaf5c8b",
-            "6950118c-429b-4c38-a85a-d81633ee3016"
+            "6950118c-429b-4c38-a85a-d81633ee3016",
+            "93f6d19a-067f-4934-86ce-2a44aef403d9",
+            "310583e2-79f7-41ea-b194-8d9c643a8f5f"
         ],
         "main_article_id": "6bbeb53a-1045-4aac-a769-cb96f9d3ad02",
         "creation_time": "2023-08-01T12:02:06.340000",
-        "last_updated": "2023-08-01T12:02:06.355000",
+        "last_updated": "2023-08-02T00:04:58.277000",
         "domains": [
             "aha",
             "facs",
@@ -1446,7 +1648,9 @@
             "medscape",
             "themessenger",
             "propublica",
-            "geaugamapleleaf"
+            "geaugamapleleaf",
+            "diverseeducation",
+            "masslive"
         ],
         "categories": [],
         "trend": "American Congress of Obstetricians and Gynecologists"
@@ -1522,11 +1726,12 @@
             "867e543c-86a1-4042-8662-a15176c2482b",
             "ccaa58e0-2063-4ca0-925d-0e1b8cb4563f",
             "15c3e687-eeec-4347-9906-1857ab893c6b",
-            "507abcc1-da2a-4054-a1c7-2afca66a7165"
+            "507abcc1-da2a-4054-a1c7-2afca66a7165",
+            "f05d2a68-6084-447a-a181-d6a9837bb457"
         ],
         "main_article_id": "602cb1a9-2252-4840-ad8e-37a6c46973c8",
         "creation_time": "2023-08-01T12:02:19.198000",
-        "last_updated": "2023-08-01T12:02:19.218000",
+        "last_updated": "2023-08-02T00:04:14.239000",
         "domains": [
             "cdc",
             "vox",
@@ -1535,7 +1740,8 @@
             "themessenger",
             "cnn",
             "kshb",
-            "news"
+            "news",
+            "news-medical"
         ],
         "categories": [],
         "trend": "CDC Reproductive Health"
@@ -1551,11 +1757,16 @@
             "f463ba66-367d-428b-a86e-e99815795712",
             "ae912bdf-7092-42e7-99e5-12d514760718",
             "eb4b762f-80b7-40a6-8d0f-c5cd19cdc825",
-            "d7043e2e-11ce-498c-a48c-9a4eaeb6d3f4"
+            "d7043e2e-11ce-498c-a48c-9a4eaeb6d3f4",
+            "03b2a838-13ae-4a68-a334-5af245cdb41d",
+            "885c5430-73f0-4c7d-81a2-6a6e29b02492",
+            "e32a3f5b-8487-4455-815a-d5b882cae7b7",
+            "7ead33d1-2b33-4179-814a-c3d805979f97",
+            "a08b3ec2-6542-4312-829e-a5312b754417"
         ],
         "main_article_id": "9378ea56-a38c-460f-b10b-20d9efe334de",
         "creation_time": "2023-08-01T12:02:20.375000",
-        "last_updated": "2023-08-01T12:02:20.397000",
+        "last_updated": "2023-08-03T13:54:41.359000",
         "domains": [
             "staradvertiser",
             "1news",
@@ -1565,7 +1776,12 @@
             "greekcitytimes",
             "themessenger",
             "spectrumlocalnews",
-            "defenseone"
+            "defenseone",
+            "montereycountyweekly",
+            "english",
+            "bnnbloomberg",
+            "nwaonline",
+            "arabnews"
         ],
         "categories": [],
         "trend": "The James Martin Center for Nonproliferation Studies"
@@ -1581,11 +1797,13 @@
             "6051d4e5-5925-4de9-ac12-2b83a51d4443",
             "3272c075-f10c-4545-a198-bf3dbee57318",
             "c759f1fd-773e-4a78-8fe4-93375ca36f19",
-            "47ae6e1c-cf85-4258-a99a-c660d3d2b86d"
+            "47ae6e1c-cf85-4258-a99a-c660d3d2b86d",
+            "7cae740d-c135-4df0-a0e3-10fbe8576d27",
+            "ca667f42-611b-401c-bc23-09997b1c5cef"
         ],
         "main_article_id": "3f9d62b7-c943-44f5-864e-b169923a9dab",
         "creation_time": "2023-08-01T12:02:21.796000",
-        "last_updated": "2023-08-01T12:02:21.818000",
+        "last_updated": "2023-08-02T00:04:44.193000",
         "domains": [
             "techcrunch",
             "reliefweb",
@@ -1595,7 +1813,9 @@
             "asianews",
             "utep",
             "wealthmanagement",
-            "news"
+            "news",
+            "ottplay",
+            "mensxp"
         ],
         "categories": [],
         "trend": "The Opportunity Project"
@@ -1611,11 +1831,16 @@
             "5078602c-5dab-4492-8bbc-08b196ca1085",
             "5d82468b-dc74-488b-b52d-4d48247e2285",
             "1af4d776-36f0-4279-ba87-8b0ea9def4e2",
-            "a9b1d22a-e0aa-42b8-9629-bbe6f91fac9f"
+            "a9b1d22a-e0aa-42b8-9629-bbe6f91fac9f",
+            "442cbaa7-4258-4b93-8f01-3696ee156100",
+            "fd586fe5-93be-4057-8f1f-f895d14a3056",
+            "a1e201e8-9303-4f64-a78a-210746914342",
+            "35b05138-691b-4039-9ef9-7b4c6522e027",
+            "5210d603-9720-46d2-ae8d-8d628b86a858"
         ],
         "main_article_id": "8d4a2dfa-a4da-4463-8f82-e31a3b5397eb",
         "creation_time": "2023-08-01T12:02:24.918000",
-        "last_updated": "2023-08-01T12:02:24.935000",
+        "last_updated": "2023-08-03T13:55:39.499000",
         "domains": [
             "seattletimes",
             "fox59",
@@ -1625,7 +1850,12 @@
             "news",
             "wymt",
             "npr",
-            "ksnt"
+            "ksnt",
+            "apnews",
+            "kansascity",
+            "missouriindependent",
+            "fox4kc",
+            "aclu"
         ],
         "categories": [],
         "trend": "ACLU"
@@ -1669,11 +1899,12 @@
             "50de3f83-239c-4dd8-a40b-810aaa486266",
             "ca682d64-26b6-459d-8d48-39ac198e8786",
             "6fa49791-862d-411a-a657-6f0715275d77",
-            "c9a95353-2fb6-439d-9d44-c16b14bfd0cd"
+            "c9a95353-2fb6-439d-9d44-c16b14bfd0cd",
+            "24f17335-2c0b-4077-8cfe-dd813118737f"
         ],
         "main_article_id": "168a9ec9-4da0-40c9-af13-87ebbe7dedfc",
         "creation_time": "2023-08-01T12:02:29.777000",
-        "last_updated": "2023-08-01T12:02:29.815000",
+        "last_updated": "2023-08-02T00:04:42.962000",
         "domains": [
             "newsweek"
         ],
@@ -1691,11 +1922,12 @@
             "f207db92-c5fb-444f-b296-2d537b01404b",
             "58fdeb58-9c39-468d-8223-a6841d96e361",
             "c20b1e5c-8e1c-41d6-a2c8-baf0d429e35b",
-            "c62c752e-afbc-4cf9-9568-abf0d8bebc0b"
+            "c62c752e-afbc-4cf9-9568-abf0d8bebc0b",
+            "f01bfd67-7821-49f0-8dd0-f96343686e24"
         ],
         "main_article_id": "48fe00ba-1abc-4aed-bad4-4298b1492e01",
         "creation_time": "2023-08-01T12:02:31.052000",
-        "last_updated": "2023-08-01T12:02:31.069000",
+        "last_updated": "2023-08-03T13:55:15.796000",
         "domains": [
             "manchestereveningnews",
             "eurosport",
@@ -1704,7 +1936,8 @@
             "talksport",
             "khaleejtimes",
             "merckgroup",
-            "reuters"
+            "reuters",
+            "hrw"
         ],
         "categories": [],
         "trend": "United We Dream"
@@ -1740,11 +1973,18 @@
             "208c71ef-72b2-4f80-a5e0-141f5ca95d81",
             "203a8c0f-4124-44fc-ab12-f5cd1cfa39cf",
             "ffb9c09b-4c12-4cf3-8269-88bb537b36eb",
-            "b1152f79-4a0b-4635-86dc-b2d96da28ff6"
+            "b1152f79-4a0b-4635-86dc-b2d96da28ff6",
+            "6b48f5f8-5b5f-48da-8089-07fbe71c1207",
+            "7e1c0409-0eef-42fd-b528-f0a74b982c29",
+            "4bdeb987-e717-4328-b859-1593f39bee7f",
+            "8d1840a9-6e19-4ee1-910a-7edae4dfb0de",
+            "e55c28fe-78fc-41c6-a6ac-c22a428ec2b9",
+            "e510367f-c064-4511-84f7-563d76457e90",
+            "ea7d5af2-99c5-4455-b5ce-eed5dbe0b5f6"
         ],
         "main_article_id": "53d3caf4-a419-41b2-881e-75ce6ea64153",
         "creation_time": "2023-08-01T12:02:34.388000",
-        "last_updated": "2023-08-01T12:02:34.403000",
+        "last_updated": "2023-08-03T13:55:52.595000",
         "domains": [
             "prnewswire",
             "apnews",
@@ -1754,7 +1994,13 @@
             "capito",
             "alaskabeacon",
             "energyportal",
-            "georgiarecorder"
+            "georgiarecorder",
+            "augustachronicle",
+            "energycommerce",
+            "epw",
+            "axios",
+            "dailyenergyinsider",
+            "powermag"
         ],
         "categories": [],
         "trend": "Nuclear Regulatory Commission"
@@ -1769,18 +2015,34 @@
             "e6bb66b6-04e8-4068-bf01-c4e980ff0f4e",
             "3dbe3c0a-8f06-4288-bbd4-e6789b124d50",
             "c7abbc07-dc84-4fc3-b119-c6ed491b58b4",
-            "ed2720d9-30bc-49ea-838c-daf57db6d977"
+            "ed2720d9-30bc-49ea-838c-daf57db6d977",
+            "19c23b63-03b1-4628-9864-3bd2a6bfae3b",
+            "6ff4ca9c-0d35-4cfc-9612-b9c0b29dd4df",
+            "1f06bfca-b693-4b1f-ae5d-7c9b1f63c5fb",
+            "658f4a40-c9ea-4032-b1c2-0daa7eac77c7",
+            "8f3ad131-0bb7-4038-9b4b-02efc2153fb6",
+            "471a0f47-06bb-4c71-a7ea-0503d06e2535",
+            "53c00a57-f57f-48c9-a299-d0230078dcf6",
+            "f557aabe-1718-49f6-8af5-feda4cc19b31",
+            "97dcdf57-ed92-4e95-82bc-a9d16604a7e7"
         ],
         "main_article_id": "85da5e9d-8656-4710-a84a-461e3e7743b8",
         "creation_time": "2023-08-01T12:02:35.531000",
-        "last_updated": "2023-08-01T12:02:35.543000",
+        "last_updated": "2023-08-03T13:54:31.823000",
         "domains": [
             "fmprc",
             "english",
             "aa",
             "in",
             "chinadaily",
-            "mfa"
+            "mfa",
+            "unocha",
+            "us",
+            "press",
+            "african",
+            "globaltimes",
+            "state",
+            "ca"
         ],
         "categories": [],
         "trend": "Office of Global Affairs"
@@ -1847,11 +2109,12 @@
             "e078b7b0-b4a9-457f-9567-1a5ef2917603",
             "5024c3d0-80dd-48f6-81cb-46dbc8e20bf9",
             "79f608fa-99f1-4995-965a-5da62b97b1ba",
-            "793eb598-8d23-449c-8268-3fd79b66bd27"
+            "793eb598-8d23-449c-8268-3fd79b66bd27",
+            "47ffbaf1-2236-4265-9ef5-5cb3c41dadd9"
         ],
         "main_article_id": "edffdb6c-d620-44d3-a688-7043625e8065",
         "creation_time": "2023-08-01T12:02:52.917000",
-        "last_updated": "2023-08-01T12:02:52.932000",
+        "last_updated": "2023-08-03T13:55:33.952000",
         "domains": [
             "prnewswire",
             "wric",
@@ -1876,11 +2139,13 @@
             "d95b1ba4-6ffa-42bb-94d4-331e34fe2187",
             "ff62b7fb-ee8f-4c94-be37-ff741c7693dc",
             "ac65f252-1b42-43b4-bf19-68ab4d714bad",
-            "8a65539d-810d-4327-94fa-db2f72db0b16"
+            "8a65539d-810d-4327-94fa-db2f72db0b16",
+            "59419eb2-8b4d-418a-b5fa-0f5eb9efba38",
+            "c6a443ba-0256-489e-b11c-bea8170900b9"
         ],
         "main_article_id": "30be2a2a-d5ff-4bc3-99c0-20259ed2e3e2",
         "creation_time": "2023-08-01T12:02:56.549000",
-        "last_updated": "2023-08-01T12:02:56.564000",
+        "last_updated": "2023-08-03T13:54:38.318000",
         "domains": [
             "cnn",
             "nbcbayarea",
@@ -1889,7 +2154,8 @@
             "nbcnews",
             "nytimes",
             "apnews",
-            "spectrumnews1"
+            "spectrumnews1",
+            "npr"
         ],
         "categories": [],
         "trend": "Black Lives Matter"
@@ -1905,11 +2171,13 @@
             "a522f6ca-397f-423c-9e44-1a55159d10d2",
             "22de02ce-e1f9-4db1-8c7a-9dcd9ac41a24",
             "a8b29011-22b8-4591-86df-655ab5d3b3dc",
-            "27151067-6591-4a64-8711-f71a9ddef500"
+            "27151067-6591-4a64-8711-f71a9ddef500",
+            "0f3f0b78-1d53-4cb0-8eb3-1f85c54c1ca8",
+            "853982c8-67f4-45dc-a685-b10650c4f0e6"
         ],
         "main_article_id": "c1507283-39a8-4600-92ac-eedff1290169",
         "creation_time": "2023-08-01T12:02:57.703000",
-        "last_updated": "2023-08-01T12:02:57.719000",
+        "last_updated": "2023-08-03T13:54:42.930000",
         "domains": [
             "pbs",
             "edition"
@@ -1981,11 +2249,12 @@
             "db50ae66-6cab-4aaf-bd0f-f60edbd757f3",
             "770eb9ca-7b76-4aba-89e3-d012ed52febb",
             "78460496-da8b-4757-9a26-82b63c777cf6",
-            "61dd36b5-4fda-4f5c-b367-ebac4eac9826"
+            "61dd36b5-4fda-4f5c-b367-ebac4eac9826",
+            "d9640613-0a12-4fb0-8f7d-27decfbcb6f1"
         ],
         "main_article_id": "14e2c711-a981-4345-8f4c-8673e2c770aa",
         "creation_time": "2023-08-01T12:03:04.103000",
-        "last_updated": "2023-08-01T12:03:04.144000",
+        "last_updated": "2023-08-02T00:04:40.992000",
         "domains": [
             "wctv",
             "aspistrategist",
@@ -1998,5 +2267,1298 @@
         ],
         "categories": [],
         "trend": "US Politics and Policy"
+    },
+    {
+        "cluster_id": "6474fd5b-e056-4dee-a81e-88fa33299945",
+        "articles_id": [
+            "50be47ea-8885-48cc-8823-b57247b05333",
+            "999f8585-eab7-4918-94bf-13f2731aef52",
+            "10c34158-6263-4f07-823b-a5cc639fb68f",
+            "ce486615-c37b-45ef-a2a8-90a5db698b40",
+            "609dde22-5a0f-4dcd-adf6-d546affc13de",
+            "7f01604c-9cfb-45ee-ae05-6398294ecfab",
+            "6b38729d-3fe0-4834-91a9-adde35d00a6d",
+            "5c391149-8c48-401c-94dd-f25a1cb4bb0e"
+        ],
+        "main_article_id": "50be47ea-8885-48cc-8823-b57247b05333",
+        "creation_time": "2023-08-01T18:03:10.853000",
+        "last_updated": "2023-08-01T18:03:10.868000",
+        "domains": [
+            "news",
+            "sciencealert",
+            "who",
+            "healthpolicy-watch",
+            "phila"
+        ],
+        "categories": [],
+        "trend": "World Health Organization"
+    },
+    {
+        "cluster_id": "16f8eab5-a24e-4a3e-a826-88d3f2dda33e",
+        "articles_id": [
+            "64393233-aa3f-4eb9-878c-2302afb1511c",
+            "f5aaca88-0b10-4247-b177-ef744c9a88e2",
+            "7a4d2f33-522e-46fa-953a-92d972e3cf52",
+            "b48b9128-9ba2-488f-a857-3bc440198aa9",
+            "a4f73722-9f9f-4b08-be08-3492cd523cec",
+            "d25c23dd-4d3b-4f59-9ebe-af846999c350",
+            "13989857-7d74-4195-b334-b8eb11173262",
+            "908f1928-bc37-43a0-905a-f560910f1b0f",
+            "de57a87c-0011-4d1e-906f-886c6da96354"
+        ],
+        "main_article_id": "64393233-aa3f-4eb9-878c-2302afb1511c",
+        "creation_time": "2023-08-01T18:03:11.796000",
+        "last_updated": "2023-08-01T18:03:11.811000",
+        "domains": [
+            "pewresearch",
+            "washingtonpost",
+            "businessinsider",
+            "space",
+            "universetoday"
+        ],
+        "categories": [],
+        "trend": "Pew Research Center"
+    },
+    {
+        "cluster_id": "3da5b14c-7720-40d4-bdaf-05bd58b3ebc0",
+        "articles_id": [
+            "af252420-f223-4ceb-ab5f-aee22937529e",
+            "a7dc9c1a-b2c6-4501-a589-5cab819c6204"
+        ],
+        "main_article_id": "af252420-f223-4ceb-ab5f-aee22937529e",
+        "creation_time": "2023-08-01T18:03:13.642000",
+        "last_updated": "2023-08-01T18:03:13.645000",
+        "domains": [
+            "cnnphilippines",
+            "dol"
+        ],
+        "categories": [],
+        "trend": "YouthRules!"
+    },
+    {
+        "cluster_id": "0a73feb4-506a-44ab-80b4-899e687f628d",
+        "articles_id": [
+            "086e4425-35f3-4fd4-beab-21a03e0db9e2",
+            "09a0ca2c-475b-4817-aebb-dba2d7584f18",
+            "f243316f-36d1-4f3d-a16a-89d0c44f296d",
+            "8ccb54f8-4dd9-4296-b6a7-9f9f79e6933c",
+            "6b72c178-3045-4d69-a116-5cd24cc5baf6",
+            "92ab6b27-a8f6-4ea4-9e8e-adfdcc16e231",
+            "47ca5d5c-ff23-4eea-872d-6d97687d494f",
+            "48f7b94e-bfde-4cb4-8cca-5e5c05ca7af1",
+            "d632ae03-8074-4ff7-a58e-ba320d8854a6"
+        ],
+        "main_article_id": "086e4425-35f3-4fd4-beab-21a03e0db9e2",
+        "creation_time": "2023-08-01T18:03:14.737000",
+        "last_updated": "2023-08-01T18:03:14.753000",
+        "domains": [
+            "pressenza",
+            "yankeeinstitute",
+            "uk",
+            "politico",
+            "pursuit",
+            "nytimes",
+            "english",
+            "pewtrusts"
+        ],
+        "categories": [],
+        "trend": "Nuclear Age Peace Foundation"
+    },
+    {
+        "cluster_id": "42699d5e-b465-4cce-95e7-f9aa23719597",
+        "articles_id": [
+            "159b6dea-bbb4-403d-a0ab-6b9aa6f60822",
+            "150041c3-d3bf-4bf9-83ab-47d415ca09e2",
+            "bf80bae9-9ee8-4f4d-a11f-8e2d5cdc673f",
+            "ec521202-6e35-4204-bd6a-6e7402bfb254",
+            "6e2e835f-cb2b-4047-8fd6-9cd788603046",
+            "b0addb10-0bf5-4e4a-88c3-3d94d741c1a0",
+            "dda626c0-01a9-46b2-919f-f42dbe67ca5e",
+            "81b14e55-acfc-4d3c-baee-d8168951150d",
+            "094ff19a-b2cd-47da-94ee-84b2055e431f",
+            "53c33e58-0e51-4e2a-92e3-102bfc4ea488",
+            "24e4c5bd-1050-4f3d-924f-a379ab3b58ea",
+            "8ae2e111-7021-4b05-847f-3156a4a70890",
+            "ab59dc94-5893-42c4-a032-25234a940079"
+        ],
+        "main_article_id": "159b6dea-bbb4-403d-a0ab-6b9aa6f60822",
+        "creation_time": "2023-08-01T18:03:15.988000",
+        "last_updated": "2023-08-03T13:54:56.613000",
+        "domains": [
+            "cnn",
+            "aldianews",
+            "citizen-times",
+            "nbcdfw",
+            "kxan",
+            "texastribune",
+            "independent",
+            "variety",
+            "kalw",
+            "cbsaustin",
+            "wwmt",
+            "bigbendsentinel"
+        ],
+        "categories": [],
+        "trend": "Roe v Wade"
+    },
+    {
+        "cluster_id": "aef5e67d-cb39-4b20-b4fb-6edd38796a91",
+        "articles_id": [
+            "9156fb8c-227b-4cbf-8533-0f7819c54410",
+            "2760163f-d18d-4500-acee-2d746ea80785",
+            "3958130a-9f01-4e7a-8494-05b83932e059",
+            "4a26b341-d756-4d7f-be9d-90587919454d",
+            "8684245c-9983-4fec-b78f-28459a026af2",
+            "7e6464fc-49ec-4f69-b1f8-60ab1b93abf1",
+            "02bf9eae-ece8-4a7d-90c3-fce6dba7e0bc"
+        ],
+        "main_article_id": "9156fb8c-227b-4cbf-8533-0f7819c54410",
+        "creation_time": "2023-08-01T18:03:17.146000",
+        "last_updated": "2023-08-01T18:03:17.157000",
+        "domains": [
+            "nbcnews",
+            "davisvanguard",
+            "nytimes",
+            "clickondetroit",
+            "cbsnews",
+            "facingsouth",
+            "menendez"
+        ],
+        "categories": [],
+        "trend": "National Immigration Law Center"
+    },
+    {
+        "cluster_id": "3213e008-ce44-4c14-8297-ec7ca4410d62",
+        "articles_id": [
+            "ae1cdd34-9b8b-4852-8b3b-cca91cb2ab23",
+            "5101a22c-d0fd-405e-bc1a-89962c80a7db",
+            "d1fd349f-980e-4cec-b492-c330cc018721",
+            "e5668ae2-8bc4-4696-b92c-a92a96b561a0",
+            "4afe27ff-fd9b-4703-89a4-cacd7f5554fe",
+            "fabd8e1b-db36-4c8c-b50f-418e7cc4fc32",
+            "4bcacda7-57dd-43df-bcd6-69aa3d42c050",
+            "14245eaf-cdf5-49b1-b4f6-cb2e8e5ceee4",
+            "5f92c165-a7b0-42c0-9c88-47240bb8d853"
+        ],
+        "main_article_id": "ae1cdd34-9b8b-4852-8b3b-cca91cb2ab23",
+        "creation_time": "2023-08-01T18:03:19.240000",
+        "last_updated": "2023-08-01T18:03:19.255000",
+        "domains": [
+            "dissentmagazine",
+            "jacobin",
+            "thenation",
+            "newstatesman",
+            "sightmagazine",
+            "mosaicmagazine",
+            "inparkmagazine"
+        ],
+        "categories": [],
+        "trend": "Dissent Magazine"
+    },
+    {
+        "cluster_id": "26ce54ea-a3b7-4def-8f75-c4f3bdbb4a65",
+        "articles_id": [
+            "90ad7657-7998-45ce-970c-c9a4ec8d0a8b",
+            "cf3a9a5a-6dcb-4ffd-9688-bb158203910c",
+            "54432229-6190-4cf1-bed3-cc6064ba6ab1"
+        ],
+        "main_article_id": "90ad7657-7998-45ce-970c-c9a4ec8d0a8b",
+        "creation_time": "2023-08-01T18:03:21.398000",
+        "last_updated": "2023-08-02T00:04:49.839000",
+        "domains": [
+            "reliefweb"
+        ],
+        "categories": [],
+        "trend": "ReliefWeb"
+    },
+    {
+        "cluster_id": "a92c90b1-7fa4-4dec-b27f-ea990bf2a943",
+        "articles_id": [
+            "99ada628-87c0-4769-9a8d-0069b821cfd6",
+            "37fbba99-1100-4e26-a502-4297c7bd53fa",
+            "c5d69ddb-6076-4021-b99e-5f058a473e4d"
+        ],
+        "main_article_id": "99ada628-87c0-4769-9a8d-0069b821cfd6",
+        "creation_time": "2023-08-01T18:03:22.823000",
+        "last_updated": "2023-08-01T18:03:22.829000",
+        "domains": [
+            "statemag",
+            "printmag",
+            "news24"
+        ],
+        "categories": [],
+        "trend": "RAND Corporation-Education and Literacy"
+    },
+    {
+        "cluster_id": "3405c98d-2b1e-411d-a427-8331ba065c1f",
+        "articles_id": [
+            "f63e900e-cfe8-4805-947c-0ddefe5451c6",
+            "19470c45-789b-451b-9011-7734f1a77510",
+            "a13bd4fc-6981-4dae-ae27-a1482229eaf4",
+            "9d93df12-ca1b-48a8-b00c-591535d11082",
+            "8ce7b292-b7a8-4759-a76c-357db8ab111a",
+            "91fb7c8c-dcaa-44e7-9b2c-cadeff83f941",
+            "cc59a404-8aa3-4fd7-bb68-50185e3bfefd",
+            "85a62903-9b7a-4bdc-80c8-b6e9de375dce",
+            "4d0ce910-4911-43f4-ac96-1ce7c2c4520c",
+            "8cbc334c-066e-4b73-89f8-02bb43a5e2a0",
+            "e3c40139-7a29-422c-a1d2-86602ee6d993",
+            "eb0921d3-45ad-4181-b441-55c61cbfa294",
+            "cd40848e-44ef-4e11-973b-48c88eb33a5d",
+            "f658cfa7-6cb9-404c-9463-cc02b887560d"
+        ],
+        "main_article_id": "f63e900e-cfe8-4805-947c-0ddefe5451c6",
+        "creation_time": "2023-08-01T18:03:25.139000",
+        "last_updated": "2023-08-03T13:55:23.600000",
+        "domains": [
+            "washingtonpost",
+            "rpl",
+            "hds",
+            "voanews",
+            "pbs",
+            "theconversation",
+            "nwaonline",
+            "justice",
+            "aclu",
+            "washingtonexaminer",
+            "apnews",
+            "news"
+        ],
+        "categories": [],
+        "trend": "Religion and Public Life"
+    },
+    {
+        "cluster_id": "13ec4808-a8a7-40ad-8545-a8171b3d31b1",
+        "articles_id": [
+            "cf10221a-2104-47c7-ac9c-aef8647d4e94",
+            "6d956e69-33c4-406a-b95f-514c0e4074e3",
+            "a2835fa1-f724-4e0e-b96b-15a1c4014c19",
+            "bd3294cd-dcb5-41aa-bb83-3ac9ff8126e3",
+            "b7248165-a583-49e7-b9f6-08a22a0ea0ae",
+            "aa3512ce-2f61-427b-b4bf-3fcf5386e68a",
+            "1d49244e-ae34-40ca-b143-5f72125bb5d5"
+        ],
+        "main_article_id": "cf10221a-2104-47c7-ac9c-aef8647d4e94",
+        "creation_time": "2023-08-01T18:03:27.537000",
+        "last_updated": "2023-08-01T18:03:27.549000",
+        "domains": [
+            "reliefweb",
+            "murray",
+            "dailytimes",
+            "the74million",
+            "murphy",
+            "rollcall",
+            "forbes"
+        ],
+        "categories": [],
+        "trend": "The Child Labor Education Project"
+    },
+    {
+        "cluster_id": "fe541aa6-3d0b-4acd-a306-d99025aabdd1",
+        "articles_id": [
+            "9265b269-457a-4a4f-acb3-85fbbe152cbb",
+            "400e15a5-4d57-40a9-9317-935934d88ca8",
+            "1558cd0a-217d-4cdd-b90a-35c4b9c2bacf",
+            "1c3d91a2-e10d-45db-9549-796610e48e0a",
+            "4f8862c0-bac4-4d8f-a062-3d438c329f74",
+            "94aaf6b3-31ff-4b99-8a8f-f9f89897edd5",
+            "838cb47b-0d3d-43c9-bd28-133b7c4f33f9",
+            "be7dbe81-8ad9-4e21-9ce8-2c4cc3bd4935",
+            "2b7eb507-5d8e-42d1-8a8a-c82c049cf73a",
+            "7696d01a-532b-4245-9195-98416404f63d",
+            "85aa3351-be73-43d6-974a-448da45c38a8",
+            "1a231cb7-4019-46a6-8b94-02807565cc39",
+            "c6a4be28-7a52-4d0c-b410-2217eeac9103"
+        ],
+        "main_article_id": "9265b269-457a-4a4f-acb3-85fbbe152cbb",
+        "creation_time": "2023-08-01T18:03:32.884000",
+        "last_updated": "2023-08-03T13:55:09.090000",
+        "domains": [
+            "cnn",
+            "mcdowellnews",
+            "helenair",
+            "sun-sentinel",
+            "vanityfair",
+            "uk",
+            "detroitnews",
+            "thehill",
+            "saportareport",
+            "aol"
+        ],
+        "categories": [],
+        "trend": "Senate election results 2018 - CNNcom"
+    },
+    {
+        "cluster_id": "a011d101-a9af-4f3f-95cb-18f509c66864",
+        "articles_id": [
+            "1596dbe7-7bfd-4fc8-b4b2-ea5d6ee23f3d",
+            "37608bc6-438d-447c-bc35-8747e391c8f4",
+            "3faa46ed-65a0-4507-ac53-8d952a92d888",
+            "6c49ebfb-5759-42c5-ae43-e5ac8150aeae",
+            "b39961ef-6dd5-4b30-a9fc-0fea7bb503f8",
+            "0d5fe05f-b6ad-459f-8ae2-9b06bf671e7c",
+            "c181d5d1-1fc6-46fb-8080-8543449f1e1d"
+        ],
+        "main_article_id": "1596dbe7-7bfd-4fc8-b4b2-ea5d6ee23f3d",
+        "creation_time": "2023-08-01T18:03:38.991000",
+        "last_updated": "2023-08-01T18:03:39.003000",
+        "domains": [
+            "apnews",
+            "sanjosespotlight",
+            "theglobeandmail",
+            "washingtonpost",
+            "abcnews",
+            "cbssports",
+            "politico"
+        ],
+        "categories": [],
+        "trend": "Gun Policy"
+    },
+    {
+        "cluster_id": "02bc8cd8-264c-49d1-af3f-fc5f940c4f4e",
+        "articles_id": [
+            "c46c2e45-e379-48ef-9698-53116aa4bf67",
+            "d61ac776-a07f-4169-b433-7c271883b0d1",
+            "d31b4ceb-6939-4cc7-8e2b-4edb6d48caae",
+            "4aecf24a-a4d8-402b-921f-3d0bd94100ba",
+            "ade73218-8ae2-44b8-809c-cce5453372bf",
+            "e00bfd24-e0a3-4b2a-a6c2-f80311804124",
+            "a31c81f5-cb98-4b33-9c67-8e1c73ea5eed",
+            "400c6ea2-fec0-48ee-afc2-d63081564b1f",
+            "9a71340f-6550-4201-8cc1-df823d12c2c5",
+            "3a5d3f58-aa1b-4268-80e2-f505530cb01b",
+            "1cf117d1-6da9-4995-8cb2-4bd31640aafb",
+            "8bf1a0b3-4c92-4ed7-a1e4-4272ac431065",
+            "46fbb048-aff7-4148-81e6-92089d754e24"
+        ],
+        "main_article_id": "c46c2e45-e379-48ef-9698-53116aa4bf67",
+        "creation_time": "2023-08-01T18:03:43.070000",
+        "last_updated": "2023-08-03T13:55:45.801000",
+        "domains": [
+            "nti",
+            "washingtonpost",
+            "geo",
+            "newsweek",
+            "nonproliferation",
+            "aa",
+            "fmprc",
+            "propakistani",
+            "politico",
+            "uk",
+            "bworldonline"
+        ],
+        "categories": [],
+        "trend": "Nuclear Threat Initiative"
+    },
+    {
+        "cluster_id": "19f0ef3c-3546-42b9-8e89-7e3524c50f2c",
+        "articles_id": [
+            "610b7d99-8f81-41f9-ba10-974ef2e0c536",
+            "0db155df-89c2-47e7-a372-a3aadf67be7c",
+            "18629550-0d6e-4ddd-9ee4-ad84d1bfafb7",
+            "f8e9531c-dcf1-47b6-a24b-cf7d7ae3ad36",
+            "396f2194-4c69-4a26-ba9d-8d419f32cce3",
+            "acd2911b-f589-4988-9e7f-536fe7176fe8",
+            "e75b1f6c-d538-4463-907e-3a559bab63da",
+            "58bbf904-87ad-4779-a94c-41b7be0ef2ff",
+            "fce6642d-2e8d-4f25-814e-873b456009d5"
+        ],
+        "main_article_id": "610b7d99-8f81-41f9-ba10-974ef2e0c536",
+        "creation_time": "2023-08-01T18:03:47.139000",
+        "last_updated": "2023-08-01T18:03:47.155000",
+        "domains": [
+            "bizjournals",
+            "chicagotribune",
+            "nbcnews",
+            "wgntv",
+            "tysonfoods",
+            "news",
+            "kentuckytoday",
+            "lulac",
+            "wusfnews"
+        ],
+        "categories": [],
+        "trend": "League of United Latin American Citizens"
+    },
+    {
+        "cluster_id": "40eebe40-8380-4c22-adb2-e9c43c610527",
+        "articles_id": [
+            "719330f1-d08e-4e99-a90b-be59d8186430",
+            "6fa6c8b6-1bfd-4d99-9d20-9c46079698e4",
+            "f511491c-3eba-40f6-b7fa-89b360afeb4a",
+            "143bfa71-a64f-40d2-b782-207025301d22",
+            "4dfc9143-4931-4dbc-bd07-2fb586e18d4d",
+            "9fe07d38-8b9e-4e4d-9466-842f3f8ef2ae",
+            "75d6d750-e879-4ccd-8cf4-a8e0b6af1dec",
+            "1bc881b1-390c-4eb3-8c2e-d283e6d4ab8c",
+            "48594c85-a75c-404c-9530-daf0fcd3be3d",
+            "46ba6a62-91bb-43db-a4de-79e2d7a0d618"
+        ],
+        "main_article_id": "719330f1-d08e-4e99-a90b-be59d8186430",
+        "creation_time": "2023-08-01T18:03:48.126000",
+        "last_updated": "2023-08-02T00:04:31.901000",
+        "domains": [
+            "mcdowellnews",
+            "kuam",
+            "fox41yakima",
+            "sapeople",
+            "ec",
+            "thetravel",
+            "sheppnews",
+            "stamfordadvocate",
+            "readlion",
+            "radaronline"
+        ],
+        "categories": [],
+        "trend": "Charters of Freedom"
+    },
+    {
+        "cluster_id": "efe8fbbf-7587-4e27-9f50-f19ac4e6dbde",
+        "articles_id": [
+            "c0241a09-62d6-4200-99a6-57ecf302673f",
+            "5a9dadde-14e7-4a40-9c91-7d992b9029d0",
+            "1f67fe65-7b80-4ffe-a075-a2ccda98d28d",
+            "24c30ce3-5907-476d-9600-a9c05fe7a54d",
+            "0f0154e8-fd37-4f0f-9382-1bd3b93675ad",
+            "1e4ee26b-75c7-4b04-a4c6-7c73d02be5e4",
+            "46cf840c-4500-4ba2-9fd4-3f3ae1aa7805",
+            "2ea6e7ea-b5aa-418b-a533-f78d88272601",
+            "cdadf3aa-960f-4325-a32c-f2ec42ac145a",
+            "9e743792-7604-4d55-b64d-f33342347b41",
+            "f3c1d617-99f2-4162-8e07-acb553d1b35a"
+        ],
+        "main_article_id": "c0241a09-62d6-4200-99a6-57ecf302673f",
+        "creation_time": "2023-08-01T18:03:50.275000",
+        "last_updated": "2023-08-03T13:54:44.602000",
+        "domains": [
+            "pacificlegal",
+            "city-journal",
+            "theaustraliatoday",
+            "wamu",
+            "mercurynews",
+            "momentmag",
+            "timesofisrael",
+            "time",
+            "tampabay",
+            "lakeshorepublicmedia",
+            "washingtonpost"
+        ],
+        "categories": [],
+        "trend": "Colleges Favor Academics Over Activism"
+    },
+    {
+        "cluster_id": "3295de88-0c69-4d3c-a1c9-aeaf390951a1",
+        "articles_id": [
+            "498766b9-c17a-44a5-ae3e-7111b3141d59",
+            "aad944f7-d902-41a6-bcfe-0b212d705c62",
+            "15e0dd42-e060-4569-807c-c9e51782aae3",
+            "c731186f-edc5-4a16-ad6d-d469f886059b",
+            "a9d09b79-feb0-4b7d-8c8b-ac4c11dc86a5",
+            "f77ffbc4-a1db-499f-8c8f-4ebdb17dfe7a",
+            "80671673-a380-4fb8-b133-02028e350e82",
+            "c1ecc945-2e01-4b3d-a2e0-fde34953f269",
+            "c4f02356-a909-467f-a417-4936da1c4c35"
+        ],
+        "main_article_id": "498766b9-c17a-44a5-ae3e-7111b3141d59",
+        "creation_time": "2023-08-01T18:03:51.421000",
+        "last_updated": "2023-08-01T18:03:51.439000",
+        "domains": [
+            "koco",
+            "kosu",
+            "foxnews",
+            "littler",
+            "shrm",
+            "jdsupra",
+            "wlns",
+            "gmanetwork",
+            "wusfnews"
+        ],
+        "categories": [],
+        "trend": "The Bill of Rights"
+    },
+    {
+        "cluster_id": "e5a7beee-e695-428d-8d83-1075ba814c92",
+        "articles_id": [
+            "d067bb9c-247c-460f-95e1-9ec2024d428f",
+            "f8305773-3480-4804-a0a2-9e18e2049ef3",
+            "a9035ca3-f53d-4873-9773-1cf885884e23",
+            "4fbab96e-1a00-4aa7-b840-b0c18fb61905",
+            "9a0c7011-aead-4017-8c7a-8f9acc03b1ef",
+            "c3d24b9e-29f5-4276-940b-16c28fa67150",
+            "081f9391-21e5-42dd-a8a3-6838b7d57bf6",
+            "5f2b110e-63c4-4078-b65b-c61f8bdf9c25",
+            "20885ea2-0e1e-4068-a481-f7f9b2e2f89a",
+            "178b43f3-9bbb-4941-953c-016aadd7c118",
+            "48af3d49-3ed0-4ba3-99d5-1c7c3b4fbe77",
+            "91b94abb-0ded-47aa-92eb-097472689fc8"
+        ],
+        "main_article_id": "d067bb9c-247c-460f-95e1-9ec2024d428f",
+        "creation_time": "2023-08-01T18:03:53.627000",
+        "last_updated": "2023-08-03T13:54:52.971000",
+        "domains": [
+            "technologyreview",
+            "cities-today"
+        ],
+        "categories": [],
+        "trend": "Technology Review"
+    },
+    {
+        "cluster_id": "e99706e4-5e5b-4acc-abf5-efac92a5be36",
+        "articles_id": [
+            "a6cae9e8-660d-4022-8aae-e9ce9434b39c",
+            "3a807608-5d6b-4635-b1a3-e16846eceb89",
+            "d9f0fc45-8507-4c53-a10d-72dbb9990178",
+            "f848803b-72fe-46ac-95c6-8e664d8271ab",
+            "f1c1615e-4185-40fd-a46e-c425a1a54b2f",
+            "a48db2df-1566-46af-83ef-48f6558a2213",
+            "b109ab99-451f-4e86-90b2-ab8cd3c04ff2",
+            "08434f5e-1573-4030-984d-290035b1bdf4",
+            "50d11bd7-f3d1-48db-8721-d0752e7ae5b7",
+            "834e6d18-9bb7-43f3-90ec-06aa358b366e"
+        ],
+        "main_article_id": "a6cae9e8-660d-4022-8aae-e9ce9434b39c",
+        "creation_time": "2023-08-01T18:03:54.741000",
+        "last_updated": "2023-08-02T00:04:48.982000",
+        "domains": [
+            "prnewswire",
+            "adweek"
+        ],
+        "categories": [],
+        "trend": "Adweek"
+    },
+    {
+        "cluster_id": "ed5b8a41-204c-456f-8061-64e2983f625d",
+        "articles_id": [
+            "811ea253-7a8d-485f-b9a0-964850ba7005",
+            "761cc77b-662f-444e-a527-3749478a7ab9",
+            "f1c1f09f-f120-4199-9b2f-175ab55eaea9",
+            "cc569748-442e-4db6-870e-a5a4cc489323",
+            "e08e3d5d-3540-4658-93fc-998fd123a666",
+            "816acabf-575c-4eee-862b-0d2d1e382516",
+            "e598587e-f955-4637-b4ea-702a2f25726c"
+        ],
+        "main_article_id": "811ea253-7a8d-485f-b9a0-964850ba7005",
+        "creation_time": "2023-08-01T18:03:57.961000",
+        "last_updated": "2023-08-01T18:03:57.973000",
+        "domains": [
+            "theverge",
+            "bmcpsychiatry",
+            "searchenginejournal",
+            "newsweek",
+            "newsbtc",
+            "businesswire",
+            "clevescene"
+        ],
+        "categories": [],
+        "trend": "Pew Internet and American Life Project"
+    },
+    {
+        "cluster_id": "40348911-f2b3-4673-9a8f-7d9959c9ff6b",
+        "articles_id": [
+            "ca376277-3ea3-4a45-bd03-d73eadc28fe3",
+            "0788e58b-2bef-49f2-af77-c810a47210ae",
+            "88976a74-85ae-42a3-a4e4-451ffd33f8a5",
+            "a3cff2a0-0602-4db9-a72d-35925c1316d8",
+            "c479fa56-834d-484f-8de4-ae17ca9ae13a",
+            "722b0c03-7b43-4be4-8834-e2acd8cbbf0e",
+            "ce903b22-de34-4a52-afde-c1432b5db838",
+            "f31c5fbe-74f2-4446-aacc-e492217b4945",
+            "95de19f3-4335-4894-b8c2-096db9b09170",
+            "877217f3-7b6f-4ca0-bcf1-cb98073df50d",
+            "8eca7050-1db1-4343-90a0-56cbcbb569fd",
+            "4bd38753-526d-4677-a525-9ac240c66ba3",
+            "93adee26-c539-4300-94e3-2db36103008c",
+            "cd1ff07a-e1fe-41a1-9aa1-aad750c6886d"
+        ],
+        "main_article_id": "ca376277-3ea3-4a45-bd03-d73eadc28fe3",
+        "creation_time": "2023-08-01T18:03:59.924000",
+        "last_updated": "2023-08-03T13:55:56.803000",
+        "domains": [
+            "thetrace",
+            "nytimes",
+            "vanityfair",
+            "sportstar",
+            "fox4now",
+            "americas1stfreedom",
+            "indystar",
+            "theonion",
+            "nysun",
+            "hindustantimes",
+            "pressherald",
+            "nraila"
+        ],
+        "categories": [],
+        "trend": "National Rifle Association"
+    },
+    {
+        "cluster_id": "a26a300b-8ad0-406a-b4fc-7cd22a287af0",
+        "articles_id": [
+            "d5fa078b-77fa-444e-bc5a-8529a5d31e04",
+            "0c6c2f92-18d4-48d7-aa1c-8bd8c1be3b13",
+            "5e48d2a3-fafb-4e5b-bf38-baae5121f05b",
+            "cb768f03-e069-45f0-b31d-7d0273d1ca05",
+            "13ed06c9-49a7-4237-a98d-cd38df637034",
+            "01d16920-f4be-4a70-920a-e1dc45691291",
+            "e6548a14-ac5e-478d-a9bd-1ef551052239",
+            "e78e63e4-58e3-4207-95f1-d302044e9e97",
+            "7a54c270-4299-4bd4-a6b1-58c10874075e",
+            "638e7f1d-4497-4b58-8136-75247ce81bc3",
+            "f40e250a-ea70-49bb-8574-620d50fae773",
+            "227bd9ee-546f-41d0-aa7d-c50d1376e178"
+        ],
+        "main_article_id": "d5fa078b-77fa-444e-bc5a-8529a5d31e04",
+        "creation_time": "2023-08-01T18:04:01.619000",
+        "last_updated": "2023-08-02T00:04:36.104000",
+        "domains": [
+            "jacksonville",
+            "jaguars",
+            "jaxdailyrecord",
+            "clickondetroit",
+            "cbsnews",
+            "wruf",
+            "timesfreepress",
+            "communitynewspapers",
+            "apnews",
+            "detroitnews"
+        ],
+        "categories": [],
+        "trend": "Miller Center"
+    },
+    {
+        "cluster_id": "a9d5b2e2-a3c4-44eb-8e0a-c3260ed08937",
+        "articles_id": [
+            "8f4ef70e-d438-4c10-b152-442aa9fa3d3d",
+            "c9c7ec17-b167-4c96-a5ca-21cd601b0cf7",
+            "272cd388-6a21-4454-bd67-8585aadcf669",
+            "2f4733bf-a91f-4d64-9b60-813e83cfb68b",
+            "d884dc16-626d-4d0a-bf34-4116837413a2",
+            "b25cc27f-3c46-4565-af57-8826d9e37e59",
+            "be5ba7b8-04e8-456d-8358-665db6d4e6e3",
+            "993d91da-9b29-4a74-b634-a64b78816332",
+            "e2bff893-5730-4406-8258-a922edd82392"
+        ],
+        "main_article_id": "8f4ef70e-d438-4c10-b152-442aa9fa3d3d",
+        "creation_time": "2023-08-01T18:04:03.700000",
+        "last_updated": "2023-08-01T18:04:03.716000",
+        "domains": [
+            "bridgemi",
+            "detroitnews",
+            "lansingcitypulse",
+            "teamhcso",
+            "fox29",
+            "wusa9",
+            "kwtx",
+            "13wham"
+        ],
+        "categories": [],
+        "trend": "Guns on Campus Overview"
+    },
+    {
+        "cluster_id": "4cfc9ce8-82ee-408b-bec0-75da1ba2e1d9",
+        "articles_id": [
+            "124eb818-fc59-43dd-ab4f-260a081e67d0",
+            "0d61b474-eb8d-438e-98ba-f6749332f59a",
+            "65c07dec-3544-4732-a743-6299198f4389",
+            "3b816bd2-b712-4b7f-a801-fe479414bde3",
+            "ff92a585-baf3-4175-a9fd-d614a691628c",
+            "ba5b1580-83ef-40a5-8060-fdb0c82ab871",
+            "c51b9b6c-dfa8-4c6d-a89e-819ec6c6a07a",
+            "f1fd20bd-42c7-477f-8c8c-cec218c29773",
+            "97758e96-a248-474d-a9bf-1f1fbdac3154"
+        ],
+        "main_article_id": "124eb818-fc59-43dd-ab4f-260a081e67d0",
+        "creation_time": "2023-08-02T00:04:11.084000",
+        "last_updated": "2023-08-03T13:55:51.028000",
+        "domains": [
+            "plasticstoday",
+            "chicagobusiness",
+            "politico",
+            "kffhealthnews",
+            "thehindubusinessline",
+            "military",
+            "newjerseymonitor",
+            "securityweek"
+        ],
+        "categories": [],
+        "trend": "Global Legal Monitor: Abortion"
+    },
+    {
+        "cluster_id": "2f8ea9b9-ce9a-4d04-ac51-0ee4d83bda1c",
+        "articles_id": [
+            "17275c32-ae38-4517-8b57-79d20cfb0395",
+            "26ae1d8d-9535-47d9-bd14-457c17b2e384",
+            "a97f4e60-479c-436f-8aa8-4275c8bd926d",
+            "90a96866-e7cf-4b41-a8ae-114b63730502",
+            "48f98cb3-e33e-4b22-aac1-9b9cf50b3c2c",
+            "ca963f49-e7cd-425c-90b9-e77974e4d597",
+            "8bd16833-4701-406c-aa95-ab043c4ca81c"
+        ],
+        "main_article_id": "17275c32-ae38-4517-8b57-79d20cfb0395",
+        "creation_time": "2023-08-02T00:04:12.194000",
+        "last_updated": "2023-08-02T00:04:12.207000",
+        "domains": [
+            "thereload",
+            "theverge",
+            "wccbcharlotte",
+            "campusreform",
+            "cbsaustin",
+            "fox8",
+            "nbcnews"
+        ],
+        "categories": [],
+        "trend": "Campus Carry"
+    },
+    {
+        "cluster_id": "eaee6595-e0fd-4d53-b545-ab5d428eebd0",
+        "articles_id": [
+            "7208ea34-4a83-4360-902a-7729fd156f01",
+            "a6a9afb8-b631-420f-99b3-91b77cefa898",
+            "3eb41db2-1ebe-4e9c-8cd8-8e7ea8d68099",
+            "56f8dbaf-34a2-40c2-a17f-8e34bb099a47",
+            "8d90c0ca-1524-497a-9215-4fe4b6f17ef2",
+            "8370adbd-5d2d-46e9-8b3b-16120317d943",
+            "b6cfa2f4-9e33-46b7-90d8-81ba08bcd0b6",
+            "c6f1b86f-1f57-460c-a82e-0a66edfc0b93",
+            "e5588fd9-1ece-402c-b37f-0738cd7cb11f",
+            "79a985f2-0fe6-4a6e-8b1b-7b2dc923f9d9",
+            "f31fcac2-0e7e-41ba-812d-805b63cfea4e"
+        ],
+        "main_article_id": "7208ea34-4a83-4360-902a-7729fd156f01",
+        "creation_time": "2023-08-02T00:04:13.250000",
+        "last_updated": "2023-08-03T13:55:12.692000",
+        "domains": [
+            "apnews",
+            "news",
+            "dailyprincetonian",
+            "gazettenet",
+            "desmoinesregister",
+            "wbur",
+            "abcnews",
+            "illinois",
+            "ohiocapitaljournal",
+            "nymag"
+        ],
+        "categories": [],
+        "trend": "Center for Reproductive Rights"
+    },
+    {
+        "cluster_id": "9c1bdcff-8fa2-4ca1-b8a5-3a38cc622d84",
+        "articles_id": [
+            "9598eb55-aa50-43e4-b1d3-d69f0ea34af3",
+            "1bee4821-8572-4efa-a7a9-eb985fefc7c0",
+            "9865a7e0-cb3b-473e-a7e5-3e7ef9e64bf3",
+            "57a8f8c8-fed4-486b-a57f-ff1acf180a38",
+            "a8e6b223-cc6a-49f3-aa50-16a9dbbe9b8b"
+        ],
+        "main_article_id": "9598eb55-aa50-43e4-b1d3-d69f0ea34af3",
+        "creation_time": "2023-08-02T00:04:15.376000",
+        "last_updated": "2023-08-02T00:04:15.385000",
+        "domains": [
+            "fee",
+            "defense",
+            "abcnews",
+            "spglobal",
+            "centcom"
+        ],
+        "categories": [],
+        "trend": "Fake News: The Solution is Education, Not Regulation"
+    },
+    {
+        "cluster_id": "5f0bd7f9-6534-47ad-8160-a850d7d74477",
+        "articles_id": [
+            "d1e98d90-1bbd-4907-ad79-119534eb5bc6",
+            "0485bd59-987b-49c3-ac7c-4fe511b7c0bf",
+            "f5024628-a8ae-4042-8dba-9d2fc59d89e2",
+            "71822684-0865-4afc-8bea-28745e7d0ab0",
+            "3953dfed-6450-43cb-a0e1-b429dee28fee",
+            "1a877706-3516-45c0-bf9e-bb4e8279a9cb",
+            "8086ca57-f840-4cb1-be9f-e66d14067366",
+            "9fa34fc3-8030-417c-a065-5995cf725cce",
+            "4a3a1b32-a01b-4814-912f-0189f93e2b77"
+        ],
+        "main_article_id": "d1e98d90-1bbd-4907-ad79-119534eb5bc6",
+        "creation_time": "2023-08-02T00:04:17.538000",
+        "last_updated": "2023-08-02T00:04:17.557000",
+        "domains": [
+            "traxion",
+            "globenewswire",
+            "thetrek",
+            "news",
+            "finance",
+            "highgroundgaming",
+            "insider-gaming",
+            "mtgrocks",
+            "hipstersofthecoast"
+        ],
+        "categories": [],
+        "trend": "UnBound"
+    },
+    {
+        "cluster_id": "691c8e25-ea86-4cb2-ad5c-06a7cf634434",
+        "articles_id": [
+            "00568c46-d18a-4ea5-8fff-8eae5dfbd820",
+            "e80ece76-023e-43d8-a467-7489fb49b07a",
+            "e0504d74-49f8-45ca-b4f7-5a6a9cc34fd3",
+            "bd896c6d-1b56-46a8-8b34-12154b419d5b",
+            "5573a332-4b5f-4494-b072-012dece5f199",
+            "277574d9-88d4-4ff0-8735-6a241ad1a48c",
+            "043c24c8-31fc-4c0b-ba22-5154419357fd",
+            "ef5dbcc7-1cdf-4591-8298-8c0ecf9c220a",
+            "48795123-7c0a-45d0-9985-c5bc25c71ed4"
+        ],
+        "main_article_id": "00568c46-d18a-4ea5-8fff-8eae5dfbd820",
+        "creation_time": "2023-08-02T00:04:18.553000",
+        "last_updated": "2023-08-02T00:04:18.569000",
+        "domains": [
+            "newyorker",
+            "latinlawyer",
+            "arabnews",
+            "metroweekly",
+            "insightsonindia",
+            "heraldsun",
+            "vietnamnet",
+            "themercury"
+        ],
+        "categories": [],
+        "trend": "Human Trafficking Knowledge Portal"
+    },
+    {
+        "cluster_id": "f65d377c-1b44-4c71-b2f2-8e648088fb04",
+        "articles_id": [
+            "281ea182-de26-4758-96cb-1f3a8145a2fe",
+            "5e95c294-d204-4bdd-9426-5238572715af",
+            "9f18e8a0-b1ce-4cf7-80cd-8adf089d6838",
+            "ccb2d779-eeee-4b74-9c93-e0e78feac0d8",
+            "c6de16df-bc5a-43be-8256-9c578d1a3ad1",
+            "1eab8ab9-683b-440c-b023-ff03584a8242",
+            "49bf1c84-37ab-4ab2-ad40-4464e865cb5c"
+        ],
+        "main_article_id": "281ea182-de26-4758-96cb-1f3a8145a2fe",
+        "creation_time": "2023-08-02T00:04:21.972000",
+        "last_updated": "2023-08-02T00:04:21.986000",
+        "domains": [
+            "nebraskaexaminer",
+            "kent",
+            "gov",
+            "westmercia",
+            "whitehouse",
+            "npr",
+            "nytimes"
+        ],
+        "categories": [],
+        "trend": "National Right to Life"
+    },
+    {
+        "cluster_id": "a38b3792-bd98-4e8a-9a74-4aa8cac685ac",
+        "articles_id": [
+            "8bb0c02e-42c2-42ac-a1f7-40a60dbcb379",
+            "07ce9cf8-0be8-4ec4-9ac2-6628a4fa4956",
+            "2a509de5-1e58-4fde-a584-17941053b8af",
+            "ee209296-77ad-4eee-bd18-5fdc6f9282bf",
+            "c2086666-e64b-4184-a56e-a752908d230b",
+            "7252df4d-0202-4c9d-a37e-6949721ea895",
+            "b73d553e-4332-4e36-a3e4-9da9b29f8662",
+            "14050d25-c04d-4d22-ba6a-587341c296f2",
+            "c1f19523-13e8-4a5f-9e7c-edc9d58f5e91",
+            "adce498a-ef8e-4b2e-8769-a273f81f7164",
+            "a75cf1d5-d6c2-4bcf-b441-b05348fff725",
+            "2dcb1e51-9889-45f2-ab4d-66eba9c0fdf4",
+            "8fe1bbb0-16a1-4b2d-8be1-1ab45acdd2f9",
+            "d17f2770-1ffd-4690-90f7-9f62ccf8dfe4",
+            "554d58c0-0388-46bb-9c69-f4b1e49004f9",
+            "7aa0a15c-5610-4709-9a1a-869a9b3b2270",
+            "cd845e81-e049-4a14-a60b-4bda2a25b3ee"
+        ],
+        "main_article_id": "8bb0c02e-42c2-42ac-a1f7-40a60dbcb379",
+        "creation_time": "2023-08-02T00:04:23.244000",
+        "last_updated": "2023-08-03T13:56:01.099000",
+        "domains": [
+            "ohiosos",
+            "wkyc",
+            "ohiocapitaljournal",
+            "newscentermaine",
+            "fox23maine",
+            "observer-me",
+            "macombdaily",
+            "nj",
+            "maine",
+            "wabi",
+            "detroitnews",
+            "cbsnews",
+            "onlineathens",
+            "texastribune"
+        ],
+        "categories": [],
+        "trend": "The Secretary of State: Elections and Voter Information"
+    },
+    {
+        "cluster_id": "9c865a92-c251-4d5f-90c1-979f995db657",
+        "articles_id": [
+            "9f3497c2-e003-4f2f-9687-31959f3751a5",
+            "ee889e2e-8289-437e-9fc1-9eb27cb29e00",
+            "a6c05ab1-d208-4a94-b826-f944bcb988d6",
+            "2e9f9893-0076-4f4a-9f66-b07d18e4368f",
+            "67f2580a-3e25-4dfa-8362-219a82876f34",
+            "d08f5108-68d1-4daf-9024-ea24db756539",
+            "2df17438-cfd2-45fd-a170-d41e4ddf96e3",
+            "842cb2bb-164b-4abb-bef8-e5faf87e7373",
+            "bf8f72fb-c050-405e-b5ab-375ee94a58b0"
+        ],
+        "main_article_id": "9f3497c2-e003-4f2f-9687-31959f3751a5",
+        "creation_time": "2023-08-02T00:04:24.160000",
+        "last_updated": "2023-08-02T00:04:24.177000",
+        "domains": [
+            "naacp",
+            "whitehouse",
+            "wgbh",
+            "nbcbayarea",
+            "sfstandard",
+            "ktvu",
+            "apnews"
+        ],
+        "categories": [],
+        "trend": "NAACP"
+    },
+    {
+        "cluster_id": "77f87d57-3679-4c7f-a397-66d6be50bf4d",
+        "articles_id": [
+            "f2b82f29-2ee0-41a1-9bd1-6d6a3fbb1f47",
+            "a6ab4684-ee28-4af0-a39c-45607ade064f",
+            "b38ad6f3-bab6-466f-97f2-46cf48f43a48",
+            "5829e935-1c3f-45f3-872c-d475a941a9f4",
+            "49712935-4633-4b9d-940a-8b69c29c8dee",
+            "b24d222f-4ef6-44a3-b901-bacd56042d1d",
+            "f0a1238f-a187-41d0-ad0f-9d2526772a22",
+            "1dd88ecd-370b-4dcb-a6f3-bc935c44a28c",
+            "5fcc6912-0ceb-4167-bd31-34a8db6f3b91",
+            "79c09daa-2639-4958-a879-e987318caa63",
+            "e04933a4-2240-4ed1-b591-f123573b73db",
+            "182d016a-804e-40df-9b49-167ec86f8165",
+            "8a8bcd6b-8204-43a9-b4a7-d86a12c31ed3",
+            "e6483705-b923-4d79-aa83-7307a1e7bd1d",
+            "ad6103fc-d883-4c32-8d8c-3c41ffbe740d",
+            "438431c8-ef61-4e92-b1d0-63eab775158f"
+        ],
+        "main_article_id": "f2b82f29-2ee0-41a1-9bd1-6d6a3fbb1f47",
+        "creation_time": "2023-08-02T00:04:29.788000",
+        "last_updated": "2023-08-03T13:54:35.467000",
+        "domains": [
+            "bmj",
+            "nationalreview",
+            "science",
+            "energycommerce",
+            "nih",
+            "eurekalert",
+            "kffhealthnews",
+            "news-medical",
+            "minotdailynews",
+            "dallasnews",
+            "novaramedia",
+            "genengnews",
+            "contagionlive",
+            "wesh",
+            "umass"
+        ],
+        "categories": [],
+        "trend": "National Institute of Allergy and Infectious Diseases"
+    },
+    {
+        "cluster_id": "02f3e9a9-f1e4-4779-83e5-459eed85b8db",
+        "articles_id": [
+            "b992e050-57c3-414e-a130-b26e175b5e7f",
+            "e8ade390-f366-44cf-8277-461ef7c29bb0",
+            "9494ab5a-6cb4-47e9-a363-649ff850b2dc",
+            "8e4a9a8e-9200-4fb1-87d9-08564d374cdb",
+            "f203d9f1-d265-4c4f-a809-6c5494549dfd",
+            "1a2fa7da-74b6-4509-a075-473602b236e4",
+            "48c68adc-ed56-4557-a815-a6dd09f2ccff",
+            "9af1b008-51b0-48b0-97b6-1d7df633df25",
+            "8192e4ef-067c-40ed-ac57-6b8aed3fd5c4"
+        ],
+        "main_article_id": "b992e050-57c3-414e-a130-b26e175b5e7f",
+        "creation_time": "2023-08-02T00:04:35.037000",
+        "last_updated": "2023-08-02T00:04:35.057000",
+        "domains": [
+            "reliefweb",
+            "leadership",
+            "asean",
+            "sinema",
+            "casey",
+            "thelawyermag"
+        ],
+        "categories": [],
+        "trend": "Strengthening National Emergency Preparedness"
+    },
+    {
+        "cluster_id": "c8851071-749d-49bc-acaa-8a2c7ca26893",
+        "articles_id": [
+            "08baed71-6a5f-46d3-90f7-335af2a6ba95",
+            "506472c6-cbb6-44e5-9baf-6fbe866027fe",
+            "d4017afd-79b9-4d5f-8d47-eeae8a17729c",
+            "629ef155-9875-40b1-90eb-bccc4d891d71",
+            "264e176a-793b-47f4-8736-6a33af29a3f9",
+            "ec084b58-b8db-475a-8180-a833ba6ab4fb",
+            "c94c2809-0f41-4622-a749-689784d9527d",
+            "0e2c246d-b109-4b49-9bdb-767a8212d5e1",
+            "760c9370-1993-4cdc-94ff-322ad64d5298"
+        ],
+        "main_article_id": "08baed71-6a5f-46d3-90f7-335af2a6ba95",
+        "creation_time": "2023-08-02T00:04:39.269000",
+        "last_updated": "2023-08-02T00:04:39.293000",
+        "domains": [
+            "npr",
+            "nhpr",
+            "wesa",
+            "publicradiotulsa",
+            "usun",
+            "wvtf"
+        ],
+        "categories": [],
+        "trend": "Syria on NPR"
+    },
+    {
+        "cluster_id": "0fbd95da-c272-4796-a398-2510f0570001",
+        "articles_id": [
+            "56516d0f-ce42-44a0-bc7d-c49c8d3e2bb8",
+            "88a045b6-960d-4ec7-a0ee-7115a5b9dc91",
+            "5e5c635e-8f33-4414-b96e-e122a05b2caf",
+            "570b1195-c144-4cd6-b16f-033725bc27ba",
+            "8c0e00c2-26f1-4a53-8257-a3d24dd282ec",
+            "6550de39-8b4b-4758-bc2d-0ee541c94f55",
+            "47a30bf3-8154-4fb3-bf9c-1fd3b2656c17",
+            "4b5979f2-323a-432b-b990-7796329a390c",
+            "8d025b12-5dbf-4955-aa3c-8b2f88b4aaf0"
+        ],
+        "main_article_id": "56516d0f-ce42-44a0-bc7d-c49c8d3e2bb8",
+        "creation_time": "2023-08-02T00:04:42.031000",
+        "last_updated": "2023-08-02T00:04:42.048000",
+        "domains": [
+            "france24",
+            "voanews",
+            "theguardian",
+            "ft",
+            "jpost",
+            "kron4",
+            "wilx",
+            "news",
+            "nbcnews"
+        ],
+        "categories": [],
+        "trend": "2020 Presidential Election"
+    },
+    {
+        "cluster_id": "a31aea79-d79a-4ea3-b18e-a86c8ffabc1a",
+        "articles_id": [
+            "027dcef9-629f-4229-9325-1d7016105adc",
+            "4ec49b76-a242-41f3-8787-e53f1959b1d3",
+            "c9e85165-0a52-426b-81cf-44ae070e012b",
+            "6570b692-d365-47ef-b7d1-8eefb544e25f",
+            "e979f400-63d5-40a1-a4a9-fd4746b142e2",
+            "0efc52f7-72a0-438f-b7af-273018998371",
+            "a5f5cdab-fe07-45bf-8487-314e403e4144",
+            "839afb50-08af-4176-9493-5f7c771d6ff5",
+            "df273930-bf37-4c4b-aa7f-0bfca8d4e134"
+        ],
+        "main_article_id": "027dcef9-629f-4229-9325-1d7016105adc",
+        "creation_time": "2023-08-02T00:04:59.398000",
+        "last_updated": "2023-08-02T00:04:59.419000",
+        "domains": [
+            "dallasnews",
+            "businessinsider",
+            "axios",
+            "raconteur",
+            "washingtonpost",
+            "gwtoday",
+            "chicago",
+            "sanfernandosun",
+            "politico"
+        ],
+        "categories": [],
+        "trend": "Activist Generation Searches for Colleges"
+    },
+    {
+        "cluster_id": "2be3ef5d-3221-4237-ae98-ee28a1b00b14",
+        "articles_id": [
+            "e0002517-1424-4656-bb82-08a2a63a9962",
+            "962fea09-f6aa-419f-87f1-30330b00a67c",
+            "84f3dbe1-908c-4cee-94d3-50502f0f42ef",
+            "3d2864dd-7d6c-4d52-a7b2-d3c7b5cc13bb",
+            "1b320f5b-18b8-4490-a3f8-bf50afb0260d",
+            "5be10f04-e709-49ff-bc41-356f9fc58a0d",
+            "14bead7b-e76c-4c2b-b7dd-0d0176aac908",
+            "ecb1c91f-12e3-45ae-83dd-74a643c2283a",
+            "4c9fe0be-cffe-4867-b94e-58ebad5157eb"
+        ],
+        "main_article_id": "e0002517-1424-4656-bb82-08a2a63a9962",
+        "creation_time": "2023-08-02T00:05:02.812000",
+        "last_updated": "2023-08-02T00:05:02.831000",
+        "domains": [
+            "voanews",
+            "reuters",
+            "apnews",
+            "labour",
+            "atptour",
+            "dfa",
+            "makeuseof",
+            "splash247",
+            "mansfieldnewsjournal"
+        ],
+        "categories": [],
+        "trend": "The Run 2016"
+    },
+    {
+        "cluster_id": "e06d63d0-02fc-4ff9-9173-23587ce0962c",
+        "articles_id": [
+            "f802a680-0120-4aa2-9ffb-b0dd7a2d215b",
+            "7d36b990-ed6b-45a1-84f1-20b49188d64d",
+            "86542b9e-a91d-4872-8443-4665c6342adc",
+            "fa5d5cbb-4221-4f43-9e01-497caef36e42",
+            "82ae4f4c-495b-4487-a7cd-cd1c7d0eeb40",
+            "cced8df0-1682-4689-8eab-05e6bdbddd07",
+            "dcae1294-c74e-4522-9e64-778193bf1671",
+            "ea4e33d4-9d6a-468c-9820-979aa51f7acf"
+        ],
+        "main_article_id": "f802a680-0120-4aa2-9ffb-b0dd7a2d215b",
+        "creation_time": "2023-08-03T13:54:48.624000",
+        "last_updated": "2023-08-03T13:54:48.646000",
+        "domains": [
+            "politico"
+        ],
+        "categories": [],
+        "trend": "POLITICO: Elections"
+    },
+    {
+        "cluster_id": "efdc382d-b9f3-44e2-8db5-569fe40fff1e",
+        "articles_id": [
+            "9a3c9666-91ef-4c6c-af70-f5711c97e235",
+            "ca193bdd-1c0c-43cf-8c7f-6a66afa5028e",
+            "959dc042-2706-4466-9888-a2c957fccd7e",
+            "f3329fe9-3c2f-478a-9f11-bbae915aa50d",
+            "16f4a0fb-3a94-477f-a70d-73d2f8be45fe",
+            "c84db809-6e8a-4179-b235-47191baf0c4d",
+            "f5eaf4dd-1b60-43aa-9ed7-05c2c5624064",
+            "fbab8faa-68df-423b-8220-9eef1fce468c",
+            "6dfe064e-e2ba-4fe0-883e-cf2949958df6"
+        ],
+        "main_article_id": "9a3c9666-91ef-4c6c-af70-f5711c97e235",
+        "creation_time": "2023-08-03T13:55:02.142000",
+        "last_updated": "2023-08-03T13:55:02.161000",
+        "domains": [
+            "foxnews",
+            "independent",
+            "washingtonpost",
+            "theguardian"
+        ],
+        "categories": [],
+        "trend": "Fox News: 2016 Election"
+    },
+    {
+        "cluster_id": "04c785df-2d0c-4e6f-824e-7f277e5d75d9",
+        "articles_id": [
+            "cf5bc7c1-532d-4028-b935-e59e3eb492c6",
+            "c08f0dfe-1724-4f53-90e0-7c40126ed2a0",
+            "b43d02ea-8901-4269-99db-39ddc5841cc2",
+            "d002255b-d2ba-43ac-ba52-b805e3c397b9",
+            "4eb4c7c3-c2c2-45b5-9dc4-3459f11dd2a3",
+            "7f205cf8-c10a-4e55-b66f-68470763a866",
+            "203115cf-508f-4470-addb-2665572638dd",
+            "4a183e46-e23b-4cd0-b61e-d05f00e743d6",
+            "28c04a93-debe-44de-9a6e-e6b3cf041509"
+        ],
+        "main_article_id": "cf5bc7c1-532d-4028-b935-e59e3eb492c6",
+        "creation_time": "2023-08-03T13:55:14.387000",
+        "last_updated": "2023-08-03T13:55:14.409000",
+        "domains": [
+            "jpost",
+            "bet",
+            "israelnationalnews",
+            "haaretz",
+            "kcur",
+            "rotowire",
+            "afr",
+            "yogonet",
+            "cleveland"
+        ],
+        "categories": [],
+        "trend": "BET: National News"
+    },
+    {
+        "cluster_id": "026e7830-5b65-4923-9fb5-416b580c5d1f",
+        "articles_id": [
+            "4e6170e2-a3cc-4f91-bb9d-bf844079f491",
+            "6095c9ae-f320-4f96-909a-1ad053b3238d",
+            "0e63dbc6-1fc5-4048-9ad6-16739592665e",
+            "1ccfa3f3-10e4-48e5-9200-be435c7b6b84",
+            "48798a54-922f-4e28-b8fd-47a78b39151e",
+            "109666a9-84d9-495f-a687-47350402d2b7",
+            "87764a1d-0e30-445d-8f50-79375ffb29b2",
+            "3d97df65-b347-42db-b912-2e2f88cabd20",
+            "75932b66-5415-4240-8bfb-4f13123dd505"
+        ],
+        "main_article_id": "4e6170e2-a3cc-4f91-bb9d-bf844079f491",
+        "creation_time": "2023-08-03T13:55:25.199000",
+        "last_updated": "2023-08-03T13:55:25.220000",
+        "domains": [
+            "msnbc",
+            "cbc",
+            "forbes",
+            "washingtonmonthly",
+            "thehill",
+            "uk",
+            "news"
+        ],
+        "categories": [],
+        "trend": "msnbc: 2018 Election"
+    },
+    {
+        "cluster_id": "8ca5bc6b-1b8a-47ca-afd3-1ebedd1e9a01",
+        "articles_id": [
+            "5f7bf5a6-cb57-41d6-8577-1033e610d099",
+            "a3b9e45b-881f-49c9-b100-e40a2ae49d36",
+            "42a89fb6-c0fc-4ed2-9c20-cbd3117d7c2d",
+            "2bcfe2a9-3e41-4787-8a63-9c43cf70e996",
+            "ed0d73a5-7d7f-4228-9463-266e62ad96c7",
+            "7d89d4fc-dcd9-4771-8ecb-69cca2dcf72e",
+            "f8996e93-7c4f-463b-bea5-2d52cb47f77c",
+            "0b7bb36f-becd-4458-8cb2-fca54fac2549",
+            "55432b06-b38c-41bc-9914-ae2a545ab168"
+        ],
+        "main_article_id": "5f7bf5a6-cb57-41d6-8577-1033e610d099",
+        "creation_time": "2023-08-03T13:55:55.199000",
+        "last_updated": "2023-08-03T13:55:55.218000",
+        "domains": [
+            "thedowneypatriot",
+            "variety",
+            "finebooksmagazine",
+            "npr",
+            "army",
+            "theguardian",
+            "snopes",
+            "armenianweekly"
+        ],
+        "categories": [],
+        "trend": "Library of Congress"
+    },
+    {
+        "cluster_id": "f3a7818c-0ac7-41fd-866e-abbf20683e13",
+        "articles_id": [
+            "7d927f6d-bdb2-47f5-b3fa-46f90501722c",
+            "94ab32a8-396b-4c49-9db5-faec80724214",
+            "9315b9fe-876e-4bd7-938a-e67ceee573a8",
+            "c9db17e2-c088-4222-bd14-7f9f661c7882",
+            "675f9ae9-2560-47b7-9f7a-c2572e4eba15",
+            "4ca1cd03-4683-477a-bd4c-c7968d746a10",
+            "14a09abe-ce19-4ac4-922f-c3e2756fb538",
+            "e8a319ba-a1e3-4c71-a82a-8d6aa2c6419e",
+            "a0351cd3-0eaf-4999-9cd7-9d7c59887194"
+        ],
+        "main_article_id": "7d927f6d-bdb2-47f5-b3fa-46f90501722c",
+        "creation_time": "2023-08-03T13:55:58.111000",
+        "last_updated": "2023-08-03T13:55:58.134000",
+        "domains": [
+            "csmonitor"
+        ],
+        "categories": [],
+        "trend": "Christian Science Monitor Electronic Edition"
     }
 ]
