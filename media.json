@@ -1008,5 +1008,115 @@
         "media": "World Health Organization",
         "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.who.int&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "file_path": "/home/user/allnews/server/download/World Health Organization.png"
+    },
+    {
+        "media": "KRQE News 13",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.krqe.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/KRQE News 13.png"
+    },
+    {
+        "media": "UN News",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://news.un.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/UN News.png"
+    },
+    {
+        "media": "Vox.com",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.vox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Vox.com.png"
+    },
+    {
+        "media": "POLITICO",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.politico.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/POLITICO.png"
+    },
+    {
+        "media": "Financial Times",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Financial Times.png"
+    },
+    {
+        "media": "House GOP Foreign Affairs Committee",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://gop-foreignaffairs.house.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/House GOP Foreign Affairs Committee.png"
+    },
+    {
+        "media": "Security Boulevard",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://securityboulevard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Security Boulevard.png"
+    },
+    {
+        "media": "Thomson Reuters",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thomsonreuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Thomson Reuters.png"
+    },
+    {
+        "media": "KUNC",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.kunc.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/KUNC.png"
+    },
+    {
+        "media": "The Federalist",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://thefederalist.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/The Federalist.png"
+    },
+    {
+        "media": "FOX 59 Indianapolis",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fox59.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/FOX 59 Indianapolis.png"
+    },
+    {
+        "media": "ScienceAlert",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sciencealert.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/ScienceAlert.png"
+    },
+    {
+        "media": "Atlanta History Center",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.atlantahistorycenter.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Atlanta History Center.png"
+    },
+    {
+        "media": "Reuters",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Reuters.png"
+    },
+    {
+        "media": "JD Supra",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.jdsupra.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/JD Supra.png"
+    },
+    {
+        "media": "Sierra Sun Times",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://goldrushcam.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Sierra Sun Times.png"
+    },
+    {
+        "media": "The New York Sun",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nysun.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/The New York Sun.png"
+    },
+    {
+        "media": "Palestine Chronicle",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.palestinechronicle.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Palestine Chronicle.png"
+    },
+    {
+        "media": "Spectrum News NY1",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ny1.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Spectrum News NY1.png"
+    },
+    {
+        "media": "CitizenSide",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://citizenside.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/CitizenSide.png"
+    },
+    {
+        "media": "brennancenter.org",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.brennancenter.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/brennancenter.org.png"
+    },
+    {
+        "media": "edweek.org",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.edweek.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/edweek.org.png"
     }
 ]
