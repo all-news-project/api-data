@@ -99,11 +99,13 @@
             "61b787ee-c87f-4a2b-ae7c-898762d695d9",
             "b62d0696-2c5f-4c78-bdcf-52aa8fa3bd54",
             "ae7a8d8b-8aae-46a7-bc9d-97083462bfb0",
-            "d6f6e0fd-d967-4a7b-b1d8-5c377ff1d61c"
+            "d6f6e0fd-d967-4a7b-b1d8-5c377ff1d61c",
+            "f29ff5ed-0630-4355-a01a-0091a19d9fce",
+            "2708458a-44ad-4204-98b2-a1b100ed3f38"
         ],
         "main_article_id": "8ac1c25d-a5da-4d56-a6dd-028e2835a62c",
         "creation_time": "2023-08-06T11:57:23.598000",
-        "last_updated": "2023-08-06T11:57:23.608000",
+        "last_updated": "2023-08-06T13:14:46.043000",
         "domains": [
             "fee",
             "wesh",
@@ -113,7 +115,9 @@
             "theguardian",
             "desmoinesregister",
             "mvtimes",
-            "azcentral"
+            "azcentral",
+            "dallasnews",
+            "novaramedia"
         ],
         "categories": [],
         "trend": "The Complex History of School Choice"
@@ -2364,5 +2368,35 @@
         ],
         "categories": [],
         "trend": "Amenment 1 from the National Constitution Center"
+    },
+    {
+        "cluster_id": "434d0f75-d297-4696-add7-5116eb1a7a4d",
+        "articles_id": [
+            "aeb79409-50d7-4b78-81a7-330beda3dead",
+            "f37ef245-7f74-4b28-a04a-13d6668f254a",
+            "9583d0d6-2462-429a-a9cb-6874f73be5fb",
+            "e7dce2f8-c370-41c0-a0e8-94751fe35c8e",
+            "7fd2be53-713d-4ada-9506-945003eb4507",
+            "31f45dee-d2b2-48ce-b673-f33d7c7029e5",
+            "ea11a853-51ed-4cd3-b0e1-fc49d5568cb3",
+            "18ba510f-fd90-49a0-9b65-c045ed3b15b1",
+            "e0e6fe6d-a1ff-4f90-97bb-b656068e787a"
+        ],
+        "main_article_id": "aeb79409-50d7-4b78-81a7-330beda3dead",
+        "creation_time": "2023-08-06T13:14:42.709000",
+        "last_updated": "2023-08-06T13:14:42.723000",
+        "domains": [
+            "cnn",
+            "citizen-times",
+            "dailyprincetonian",
+            "midmichigannow",
+            "themarysue",
+            "spectrumlocalnews",
+            "variety",
+            "chicago",
+            "virginiamercury"
+        ],
+        "categories": [],
+        "trend": "Roe v Wade"
     }
 ]
