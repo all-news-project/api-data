@@ -1118,5 +1118,10 @@
         "media": "edweek.org",
         "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.edweek.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "file_path": "/home/user/allnews/server/download/edweek.org.png"
+    },
+    {
+        "media": "County 17",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://county17.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/County 17.png"
     }
 ]
