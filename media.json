@@ -1123,5 +1123,175 @@
         "media": "County 17",
         "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://county17.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "file_path": "/home/user/allnews/server/download/County 17.png"
+    },
+    {
+        "media": "Poynter",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.poynter.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Poynter.png"
+    },
+    {
+        "media": "Aeon",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://aeon.co&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Aeon.png"
+    },
+    {
+        "media": "The National Tribune",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nationaltribune.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/The National Tribune.png"
+    },
+    {
+        "media": "Source New Mexico",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://sourcenm.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Source New Mexico.png"
+    },
+    {
+        "media": "House of Lords Library",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://lordslibrary.parliament.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/House of Lords Library.png"
+    },
+    {
+        "media": "ZAWYA",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.zawya.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/ZAWYA.png"
+    },
+    {
+        "media": "asianews.network",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://asianews.network&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/asianews.network.png"
+    },
+    {
+        "media": "WPTZ",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.mynbc5.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/WPTZ.png"
+    },
+    {
+        "media": "Montana Free Press",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://montanafreepress.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Montana Free Press.png"
+    },
+    {
+        "media": "Washington University in St. Louis",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://happenings.wustl.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Washington University in St. Louis.png"
+    },
+    {
+        "media": "Push Square",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pushsquare.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Push Square.png"
+    },
+    {
+        "media": "African Business",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://african.business&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/African Business.png"
+    },
+    {
+        "media": "Charlotte Lozier Institute",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://lozierinstitute.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Charlotte Lozier Institute.png"
+    },
+    {
+        "media": "FSA Partner Connect",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://fsapartners.ed.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/FSA Partner Connect.png"
+    },
+    {
+        "media": "US Embassy in Sri Lanka",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://lk.usembassy.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/US Embassy in Sri Lanka.png"
+    },
+    {
+        "media": "Asia Financial",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.asiafinancial.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Asia Financial.png"
+    },
+    {
+        "media": "ChristianityToday.com",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.christianitytoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/ChristianityToday.com.png"
+    },
+    {
+        "media": "WUSF Public Media",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://wusfnews.wusf.usf.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/WUSF Public Media.png"
+    },
+    {
+        "media": "UN Web TV",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://media.un.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/UN Web TV.png"
+    },
+    {
+        "media": "FOX 31 Denver",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://kdvr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/FOX 31 Denver.png"
+    },
+    {
+        "media": "Inside Higher Ed",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.insidehighered.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Inside Higher Ed.png"
+    },
+    {
+        "media": "Indiana Capital Chronicle",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://indianacapitalchronicle.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Indiana Capital Chronicle.png"
+    },
+    {
+        "media": "National Security Archive",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://nsarchive.gwu.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/National Security Archive.png"
+    },
+    {
+        "media": "Wink News",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://winknews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Wink News.png"
+    },
+    {
+        "media": "Anadolu Agency",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.aa.com.tr&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Anadolu Agency.png"
+    },
+    {
+        "media": "City-sentinel",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.city-sentinel.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/City-sentinel.png"
+    },
+    {
+        "media": "Akron Beacon Journal",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.beaconjournal.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Akron Beacon Journal.png"
+    },
+    {
+        "media": "The Student Newspaper",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mdcthereporter.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/The Student Newspaper.png"
+    },
+    {
+        "media": "Catholic News Agency",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.catholicnewsagency.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Catholic News Agency.png"
+    },
+    {
+        "media": "Law.com",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.law.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Law.com.png"
+    },
+    {
+        "media": "Aleteia",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://aleteia.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Aleteia.png"
+    },
+    {
+        "media": "Congresswoman Pramila Jayapal",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://jayapal.house.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Congresswoman Pramila Jayapal.png"
+    },
+    {
+        "media": "Innovation News Network",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.innovationnewsnetwork.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Innovation News Network.png"
+    },
+    {
+        "media": "TechCrunch",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/TechCrunch.png"
     }
 ]
