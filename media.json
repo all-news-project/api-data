@@ -1293,5 +1293,85 @@
         "media": "TechCrunch",
         "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "file_path": "/home/user/allnews/server/download/TechCrunch.png"
+    },
+    {
+        "media": "The Nation",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thenation.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/The Nation.png"
+    },
+    {
+        "media": "US Embassy in Costa Rica - USEmbassy.gov",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://cr.usembassy.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/US Embassy in Costa Rica - USEmbassy.gov.png"
+    },
+    {
+        "media": "Women's HoopDirt",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://whoopdirt.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Women's HoopDirt.png"
+    },
+    {
+        "media": "KGAN TV",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://cbs2iowa.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/KGAN TV.png"
+    },
+    {
+        "media": "Nature.com",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Nature.com.png"
+    },
+    {
+        "media": "Department of Defense",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.defense.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Department of Defense.png"
+    },
+    {
+        "media": "LatestLY",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.latestly.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/LatestLY.png"
+    },
+    {
+        "media": "cleveland.com",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cleveland.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/cleveland.com.png"
+    },
+    {
+        "media": "Outlook India",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.outlookindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Outlook India.png"
+    },
+    {
+        "media": "Yahoo News",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://news.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Yahoo News.png"
+    },
+    {
+        "media": "Mississippi Free Press",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mississippifreepress.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Mississippi Free Press.png"
+    },
+    {
+        "media": "Lake County News",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.lakeconews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Lake County News.png"
+    },
+    {
+        "media": "KSL NewsRadio",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://kslnewsradio.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/KSL NewsRadio.png"
+    },
+    {
+        "media": "Sky News",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news.sky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Sky News.png"
+    },
+    {
+        "media": "IUCN",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.iucn.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/IUCN.png"
+    },
+    {
+        "media": "The Ohio State University News",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news.osu.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/The Ohio State University News.png"
     }
 ]

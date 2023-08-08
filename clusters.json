@@ -2,19 +2,15 @@
     {
         "cluster_id": "96080a28-237d-4687-9448-1b439f5c8641",
         "articles_id": [
-            "bdfda8e8-71bf-4633-b6f5-77a6b0554990",
             "bbb9a1d3-7f48-4eaf-bbc0-cd44631e52ec",
-            "5e097174-281e-47eb-a166-296c543fccdb",
             "d0e34cc0-978b-479d-9fe6-e09f7bd7b40f",
             "94da0efe-2764-4cc0-8946-51724baa473e",
             "bd5dc106-d7b8-4a25-a28c-6bd1a4f08c23",
-            "cec5a03b-4f51-4971-ae37-2b1241d4d4ed",
             "8e180b07-f11e-4386-8f52-b05a4cc05363",
-            "55b82756-cf69-4d78-b15b-fcac2df93922",
             "80350a85-98a3-4fd4-8868-b1d0ada2f85c",
             "8cd131b0-e716-44dd-bddc-e588bec34b40"
         ],
-        "main_article_id": "bdfda8e8-71bf-4633-b6f5-77a6b0554990",
+        "main_article_id": "94da0efe-2764-4cc0-8946-51724baa473e",
         "creation_time": "2023-08-06T11:57:13.595000",
         "last_updated": "2023-08-08T11:47:22.149000",
         "domains": [
@@ -37,13 +33,9 @@
         "articles_id": [
             "c13fa1c7-f92d-4d89-895e-6d86d5b65b30",
             "890c9b8a-0edf-4e25-b12d-2e775512391e",
-            "72c0bb78-5f11-4dd3-9694-1252c6c6bcc7",
             "2af8549d-8948-4f57-a682-a9402600d65e",
             "5899f022-ba36-4b2e-83f5-ab31ff65b964",
             "f75a7c3a-43d0-4da0-8c08-752902a4872b",
-            "2f7619a1-00f2-4d54-8a08-11e521db6799",
-            "b02c2a50-301b-499f-acf2-b25ca8b0bc85",
-            "1bb41454-a183-4ba5-ad46-fc1e0ab3f9d5",
             "5ec247d1-9b6c-4e34-bb9f-632e031c9e6c"
         ],
         "main_article_id": "c13fa1c7-f92d-4d89-895e-6d86d5b65b30",
@@ -68,8 +60,6 @@
         "articles_id": [
             "318d5d8f-4441-4aa3-8852-681d00802cd2",
             "f3432a60-d805-4a48-bc34-b7909fe8e0cb",
-            "5c8c1e7f-99bf-4ff8-bcbf-12919373029f",
-            "aac1f4e0-ac4f-4593-b7bf-b8e6bb50e51d",
             "b06c2a99-b3e2-41d0-8f1c-e3e57c6e4d21",
             "02ff1739-49e6-4f1f-ace1-2dda757c0074",
             "a88887ee-af9b-46d7-9f5f-de3d2cd3ab4f",
@@ -97,19 +87,13 @@
         "articles_id": [
             "8ac1c25d-a5da-4d56-a6dd-028e2835a62c",
             "d47a6a94-bd95-4d5d-9a16-f160ebde33d8",
-            "1e6ae35b-f852-47f6-a852-eae48959a1e6",
             "05fa25c9-7f72-4177-8391-0cd834f821e4",
             "4aac24b6-f715-4ca4-8358-42f6d224a5cd",
             "61b787ee-c87f-4a2b-ae7c-898762d695d9",
-            "b62d0696-2c5f-4c78-bdcf-52aa8fa3bd54",
             "ae7a8d8b-8aae-46a7-bc9d-97083462bfb0",
-            "d6f6e0fd-d967-4a7b-b1d8-5c377ff1d61c",
             "f29ff5ed-0630-4355-a01a-0091a19d9fce",
             "2708458a-44ad-4204-98b2-a1b100ed3f38",
-            "78948e93-566c-487e-8f48-e89ac9b7c4d3",
-            "8a95884e-c86f-43f2-b216-d9f83335bf9f",
             "301a47f6-345c-4947-89ca-3ad42e9d6468",
-            "eb842632-5d4a-45c7-a1d8-0f57eb30dca4",
             "436029fc-3a10-460b-9f5d-70eed2380e25",
             "b78ef7d7-5731-4310-b115-7a8ea06a9641"
         ],
@@ -140,23 +124,18 @@
     {
         "cluster_id": "badcb8d5-b7c5-43b7-a816-134ee5e2002f",
         "articles_id": [
-            "53ce081e-2b10-417c-aa27-eb96a0c7c5ad",
             "f80d2d78-c38c-4ded-9323-e5c75907b9ea",
             "6f52b794-c523-4d3f-92be-4b2ee9469b14",
-            "697063c6-d799-4276-baee-582bce796337",
             "49d32da2-c6fc-4436-8c4e-61f46288b336",
             "ac17fbe2-05f1-407b-95c2-3c041d7b9047",
-            "0951ce27-eaad-485b-9762-4f59fcb7c53f",
             "cb336600-78ab-4433-bddd-0d1b01c170dc",
             "f53eb0c0-406b-4ceb-a512-fc99bfcc8743",
             "9aa40f02-575e-4ad9-97db-e6430a42af3b",
-            "2f107614-052e-487d-8764-5efd9304bf9d",
             "19663496-e94c-479f-8588-161343863030",
-            "685e5694-d5dd-483a-b81d-20c8fe96df8b",
             "de54f2e0-0248-4e48-8a4a-10eac74712cb",
             "695b9a69-11b6-42a8-94af-44de650e88c3"
         ],
-        "main_article_id": "53ce081e-2b10-417c-aa27-eb96a0c7c5ad",
+        "main_article_id": "f80d2d78-c38c-4ded-9323-e5c75907b9ea",
         "creation_time": "2023-08-06T11:57:27.618000",
         "last_updated": "2023-08-08T11:44:24.507000",
         "domains": [
@@ -185,8 +164,6 @@
             "5b1045ef-52e6-4659-b5bb-711053555117",
             "2dfdd4de-8c91-44e1-b225-b4f201618c81",
             "f9b2a222-5728-4489-beab-ece9031d4cf5",
-            "76860e3e-f112-487f-9595-c2257f610b58",
-            "bac61cd2-297b-4273-8df6-58cabd970186",
             "6e4b125a-5c3c-4f9d-95ed-fabd52766275",
             "f669162c-39cd-430e-888b-b4441c4eb66e",
             "611c740e-ecbc-4ad6-9690-e2a3a698bffc"
@@ -212,19 +189,16 @@
     {
         "cluster_id": "b52ea292-0775-4cc2-9d37-a4f227d84e8d",
         "articles_id": [
-            "1f9795b4-3b4c-41b0-92aa-9d315eed2cfc",
             "75c3441b-35be-4815-bf57-6bff8b8bc27f",
             "ca927892-796c-4ba1-b79c-d522d769abcd",
             "a667ea80-21fb-4ae1-84dd-7968939f3fdb",
             "8a822a8a-c094-4c26-86af-3ac2f9c2a729",
             "05b2a4b3-c7ae-449d-b342-1f95838e5067",
-            "7269f622-d7e0-45e0-96e9-0c7b1427c698",
-            "3afa2e05-9e5f-43d2-8e5a-15736e56c6b4",
             "284c4863-6598-4b4c-a14d-cb702343acc7",
             "3160bbf2-e9d9-4c50-b668-0c33380992af",
             "6020e25c-6a43-452d-b234-96cff4f24558"
         ],
-        "main_article_id": "1f9795b4-3b4c-41b0-92aa-9d315eed2cfc",
+        "main_article_id": "a667ea80-21fb-4ae1-84dd-7968939f3fdb",
         "creation_time": "2023-08-06T11:57:33.931000",
         "last_updated": "2023-08-08T11:43:51.476000",
         "domains": [
@@ -245,9 +219,7 @@
     {
         "cluster_id": "5673a9dd-dd7e-4e38-9f18-3d44d03e7b56",
         "articles_id": [
-            "ca456520-c93b-4c32-9fc3-f45ef2bb50bc",
             "9fb5dea5-d1ba-4b61-b78e-4aacbdce3bba",
-            "7a754f12-ccb8-442c-83f3-cf622f5be2f6",
             "50c23b54-158c-4a1e-a2a3-abd4fd1c8a27",
             "f383ffc3-11dd-4d09-83bd-852fc4a7f7fc",
             "4b7dd9b8-d3e5-41e5-93ff-780e3a086594",
@@ -256,10 +228,9 @@
             "a0949286-bf6d-4f74-8e61-5497f970bc7c",
             "95338225-4b08-4dde-9aac-a101fc091388",
             "b0eb5eb3-af4c-4eb6-8af3-2fcf2b57ea50",
-            "d5646323-6edb-4f21-afa5-adcb5b9522e4",
-            "0d4eba8c-6447-4e7f-a97f-51a23e972661"
+            "d5646323-6edb-4f21-afa5-adcb5b9522e4"
         ],
-        "main_article_id": "ca456520-c93b-4c32-9fc3-f45ef2bb50bc",
+        "main_article_id": "6ad7f235-18b1-4fd9-8833-b7e47560675e",
         "creation_time": "2023-08-06T11:57:37.212000",
         "last_updated": "2023-08-08T11:48:10.956000",
         "domains": [
@@ -274,21 +245,17 @@
     {
         "cluster_id": "15211c49-ec03-48d3-a264-5a3b09c8c42c",
         "articles_id": [
-            "09a62c2f-afb5-4db6-a38d-896ab0d76a99",
             "2811c76b-6e6a-4197-bb60-2ea5e04fea8e",
-            "e93c1c0f-3636-4709-aa57-79b63fee09fc",
-            "08738344-af8f-41c1-aeed-bd40f2ca358c",
             "db8b874a-60d4-42ea-b972-656e29253bb1",
             "4334a862-bffe-431b-9ff3-b2328c6087e2",
             "716032c7-7670-40f5-98e5-a2cf02ca3c7e",
             "e52bccab-cbb5-4784-bece-31f89d57212a",
             "16867ff0-094b-4ddb-9cf7-e32c2d2b3c3e",
-            "b5bbe12e-0c11-4649-9f24-469b63142cf7",
             "df9957f3-9dc3-447a-9fe2-b2a59086a763",
             "dd3c61d7-a75a-460b-b4df-77d9760b799e",
             "0510c7f1-9e91-4423-9975-c7eab8d5a907"
         ],
-        "main_article_id": "09a62c2f-afb5-4db6-a38d-896ab0d76a99",
+        "main_article_id": "df9957f3-9dc3-447a-9fe2-b2a59086a763",
         "creation_time": "2023-08-06T11:57:39.392000",
         "last_updated": "2023-08-08T11:47:49.827000",
         "domains": [
@@ -315,7 +282,6 @@
             "b33da73c-dcf9-4e6f-94a3-baa0436b5a0e",
             "efd016c6-9e09-4053-887e-e803201eb777",
             "6ad8928d-95e6-49c7-95fd-0c93035f2c35",
-            "ee05ec3d-0b85-411a-9323-7549a0df3c00",
             "5c165cef-c5c4-4e2e-8b9c-65ab74d09013",
             "5ffc6970-e645-477a-8524-017d97c12167",
             "9d3d253f-fd83-4cd1-98db-24e84225f5f1",
@@ -348,18 +314,13 @@
             "7c6422b3-1953-46d1-aa37-42ac2f773da7",
             "8369cef9-fd28-4b4a-b8a9-13f90a86825e",
             "f4a58d85-98aa-466a-8fba-736381ef7eea",
-            "a3dd04ae-8e0f-4533-b3cb-2dd0ef105cfc",
-            "dab1700c-caae-44d1-8c81-a6f2e8103f3b",
             "e7982f81-c657-4b6f-871f-f9c20fe3b422",
             "f60ce17a-58a8-4c62-8bcc-7d00b32e98ba",
             "1d66c520-7e5b-42fd-b3eb-8989c65c0883",
             "d3fadafd-c206-4d98-bc64-3657cf47bc56",
-            "5580c61a-c284-4cb1-85b6-f7ee4c41488d",
-            "bc0d579f-e550-4c11-978c-fe7c235bc6a1",
             "bfec0fe3-be7a-48fb-8711-555038e56a95",
             "a8369457-4b0f-45ee-93bf-0085f17d0dbf",
-            "a069ef41-5937-4e32-ae2e-76ebdeaf9a48",
-            "3b602cf5-66b1-4585-8437-72148601a33d"
+            "a069ef41-5937-4e32-ae2e-76ebdeaf9a48"
         ],
         "main_article_id": "7c6422b3-1953-46d1-aa37-42ac2f773da7",
         "creation_time": "2023-08-06T11:57:46.508000",
@@ -393,7 +354,6 @@
             "cd5f70ac-b9d6-476a-a7bb-ea4397698929",
             "2d03b21c-979b-44ab-834f-4af28b7c2520",
             "7102b4f6-1e5b-467e-b00d-107c0dcaa364",
-            "739223c3-c3eb-49cf-9b48-7f5e308bc840",
             "5d461a53-a957-45a7-93ba-d651d418eec8",
             "dd80bbee-9713-4d95-b049-8539b273354b",
             "f9f422ea-f649-4571-8b58-a7689ef996a7",
@@ -420,11 +380,8 @@
             "99292252-5bb0-4955-b626-9f723f802020",
             "b6c05986-e1ba-49c2-a4cc-372d61a6d86d",
             "02fc9179-3206-4298-bce7-0badec336bb9",
-            "6b780539-c7f3-4c32-870b-b3ebbb704cfe",
             "e2475045-fddd-4dd7-a88c-072cdb2a676b",
-            "c8a9674e-036a-49ee-b177-40efeee78c19",
-            "4126df99-6344-4c13-96ac-d846776aedc6",
-            "5c97f619-6311-4c6f-9ef7-db1e15cbb952"
+            "4126df99-6344-4c13-96ac-d846776aedc6"
         ],
         "main_article_id": "7475625c-077c-48d9-9cd0-cee11c27a3f1",
         "creation_time": "2023-08-06T11:57:49.611000",
@@ -450,7 +407,6 @@
             "1e764078-0cd5-4c66-ad54-9d2046371329",
             "ac74bcd2-e531-449e-8b0d-85cb8c377301",
             "938dba72-5fe4-4d37-b31e-11495ec1f283",
-            "4fe9bfe0-4694-49cb-9f3c-68435b5bc154",
             "8304c521-74e3-4cae-869a-de6978d02553",
             "b59a1bbc-d973-4f70-baea-1809c6f1c7d9",
             "2b4640ea-7d8f-44d9-8189-bd065dd7891a",
@@ -474,15 +430,9 @@
         "cluster_id": "ea343a86-04c6-4807-a3b9-a0a945a778b0",
         "articles_id": [
             "a4bb9d82-e48d-48f3-98d8-a302cf4c8fdf",
-            "ed54e90d-6b00-45b5-990d-627815a3f483",
             "91ed5072-2f4e-4e8a-a6b0-465f079eb24f",
             "2f55a275-3f55-41d6-a1d1-d26b0ce41f5c",
-            "5570f69f-a2c7-4770-8b6b-c2fdc718af5e",
-            "0f1f945a-15d2-4056-855e-f75162de069a",
             "8f71271d-27cf-4386-86fa-09882a847fea",
-            "a250dcaa-c6cf-45c9-86eb-84fd5e3cdb3b",
-            "0a5c6d1a-d78d-4303-a0ab-6920e68929ee",
-            "b6834a59-5608-4e08-a389-a9e178326b1b",
             "b1a4b3a9-bfa2-4eb3-806d-26bfce7a2971",
             "fa548fdc-f16f-4ca8-9ec3-1153e66a918a"
         ],
@@ -510,13 +460,7 @@
         "articles_id": [
             "7e85f857-20c0-4808-b103-306ce1132a7c",
             "ed6e3520-a5e9-4156-a092-3067683160d4",
-            "fca991e5-77b1-4f2d-9db1-0da12742be09",
             "f098ca0e-e5a2-4905-a487-156d206addd7",
-            "ccc69634-442e-427d-b9f8-16f3f2b55f92",
-            "e98f3465-0997-4d85-ae89-a241a3b26281",
-            "28781af9-6da8-4609-8bb1-66b51dfeafe1",
-            "cc0caa3b-fd78-4b60-999b-7937dbd23299",
-            "97366da3-add0-498d-91af-e95f74611ec8",
             "0d77ee4c-8926-44f7-a7f3-15dc723a507c",
             "4960031b-ca1e-4456-a670-dcaf02f2731f"
         ],
@@ -544,14 +488,12 @@
             "a254c475-9fcb-4290-ae50-b5efa6ec0a35",
             "fd34d85d-8eff-4bb0-92c6-75634771931c",
             "4d556745-c7bc-4fba-a6e8-83f3eb98dcd2",
-            "00151b30-f033-4811-afa5-393b50daf95a",
             "5b01f8b0-d004-4091-a835-8c9fee713eea",
             "d19bc11d-cc02-43c1-b207-831a8095275d",
             "f532b7ca-c098-4c55-88a3-f07454cba366",
             "421cfe4f-012e-4a92-be83-a53ed6d03ce3",
             "950ce479-d091-4ff1-af7f-b997bfc647c8",
-            "098a54f1-db1b-4b34-96d3-037eb928d0d3",
-            "bce3ca86-7017-4476-adfd-44327547b20d"
+            "098a54f1-db1b-4b34-96d3-037eb928d0d3"
         ],
         "main_article_id": "a254c475-9fcb-4290-ae50-b5efa6ec0a35",
         "creation_time": "2023-08-06T11:57:58.223000",
@@ -575,15 +517,11 @@
         "cluster_id": "3e8a9932-cf43-4bc6-9315-3e4b9e3704fe",
         "articles_id": [
             "0eed28aa-8915-4a21-bc88-78a393e74d86",
-            "e938c545-32b0-4150-b54b-6e0f5871f1a9",
             "3e164c26-a668-41fd-b2d4-3688732cfe9b",
-            "8a882897-ab82-41a5-83bb-0200af42c9b2",
             "e7c5f13a-a5ef-4436-b566-bc558c7963fe",
             "2caca023-cb24-4be6-8a5f-4330608fd51b",
             "60797007-2451-4032-bd9e-7801c1a3392e",
             "fcab91af-8dcf-4ddf-9d12-b649c0a75e64",
-            "e5cbf1f6-dda7-4d09-8951-ed1d29ec9a93",
-            "17eb968c-8db5-4c3f-8945-5e56e47cdb75",
             "0956df90-9273-46ab-96a0-636f913b8d35",
             "9fc831c0-6bbe-41e3-9bd1-5681f478477e"
         ],
@@ -609,13 +547,10 @@
         "cluster_id": "3a4b12c5-a47f-4b59-b56c-4d11273c91bb",
         "articles_id": [
             "f2f8b3de-47e8-48bd-9ee5-f16887751a2a",
-            "dbfd5135-f4bb-4e08-9a5a-fa674376bfd9",
             "6fa0e6ce-d3bf-4867-8919-a1b3357cf39b",
-            "1fdcb29f-fec1-4a9e-8cc6-3220f4317ccd",
             "d9e55be5-c5df-4fa7-a581-d6d011b5d56a",
             "c466861c-588b-43a3-9eba-9edcca964cba",
             "54522541-5253-4780-9f05-ae5a4e118d3c",
-            "46e36ff0-2111-44bf-9525-83490fe5f250",
             "5d5cf112-1e11-477e-b5be-82ccb042583d",
             "b5bf00eb-876a-4992-9b27-c980e8a7f406"
         ],
@@ -666,16 +601,13 @@
         "cluster_id": "f2f8de8e-a5e8-4055-a6bd-362f277c5a44",
         "articles_id": [
             "aa31e6fb-c3e0-421f-b63a-46e3344a8660",
-            "18112312-e71c-461e-b5f2-5ddf75da9174",
             "a7cde23e-a551-4726-b30e-e2dca1709f13",
             "c94eda45-d993-4108-b6d1-1df2e83db1c1",
             "b0a7eefc-e9d2-4b86-a7f5-3468d2fdcf55",
             "6ecdd882-10a3-4c67-9b76-6ad15cffae3e",
-            "5b80ebf3-2dfb-4104-a5f6-1a8c2eaa9cd1",
             "b11b7e70-87b6-4828-a4cc-0c41859c555d",
             "af72ba62-571f-40f2-bd04-a057a10e7a27",
-            "781a4026-6f03-4e31-b78e-4a3ffa2508af",
-            "5e03ecee-a839-4184-bf01-08d05d577652"
+            "781a4026-6f03-4e31-b78e-4a3ffa2508af"
         ],
         "main_article_id": "aa31e6fb-c3e0-421f-b63a-46e3344a8660",
         "creation_time": "2023-08-06T11:58:10.250000",
@@ -700,12 +632,8 @@
         "articles_id": [
             "bd051c4d-160e-4988-aa82-c48af3ab239b",
             "3d122798-34bd-4526-8f67-80a004c50ffe",
-            "7cae7136-6787-4405-ae05-d298a57421e5",
-            "f6015df0-ddcd-4dc5-bc9f-7e9c5d3f7dcd",
             "7813be53-7b98-4dcc-b461-670275b0dd82",
-            "29116f30-7be7-4e6e-a18b-645e548952ac",
             "1865ac58-3452-45ee-a926-0ed4e662272f",
-            "a6b91291-39fa-40e5-b86b-1905fb68d661",
             "24ed3ea4-39a9-4e32-b357-391a49aa3dc8"
         ],
         "main_article_id": "bd051c4d-160e-4988-aa82-c48af3ab239b",
@@ -726,7 +654,6 @@
     {
         "cluster_id": "50ea07b3-d7aa-401f-ac2a-3647d917a31e",
         "articles_id": [
-            "9d2daf4a-20d0-4d34-816a-0ca7f08700e9",
             "361b9efe-9180-49a0-9b1f-6142d458b682",
             "889606cc-e9ff-4a02-8771-1f17c92f4515",
             "42b3a792-049c-405c-81e2-370314be6992",
@@ -737,7 +664,7 @@
             "3e671f3c-907f-4eec-b1c7-cef6f84b509f",
             "7c58a5be-5220-4eb8-93f3-73aa916b2dfc"
         ],
-        "main_article_id": "9d2daf4a-20d0-4d34-816a-0ca7f08700e9",
+        "main_article_id": "7c58a5be-5220-4eb8-93f3-73aa916b2dfc",
         "creation_time": "2023-08-06T11:58:14.993000",
         "last_updated": "2023-08-08T11:47:11.437000",
         "domains": [
@@ -758,18 +685,15 @@
     {
         "cluster_id": "03e6892f-e779-4c44-93a7-75fa2656ace0",
         "articles_id": [
-            "67f29cb6-fd92-43a8-afe9-4f8b38af4376",
             "b341a5e3-513d-48a3-9bfa-64f9d2ad8d03",
             "97d6c851-be8f-48e3-b35c-c9af93f9046a",
-            "29f320ae-1b80-4766-a581-216f72c1a4e7",
             "62187bf2-2a86-49b2-a9ee-e4feb8631d40",
-            "8041e692-7625-44e3-bc23-7c4a39a2c439",
             "84f20bbd-0ff7-4ca6-9df6-5581f5fb05e9",
             "85cd0044-4c0f-4cdf-9d3e-721ed1944677",
             "a662693a-23fe-419b-9c7e-935e4a2aeaf8",
             "8ac870d2-66f9-4098-a1f7-be17c00f183a"
         ],
-        "main_article_id": "67f29cb6-fd92-43a8-afe9-4f8b38af4376",
+        "main_article_id": "84f20bbd-0ff7-4ca6-9df6-5581f5fb05e9",
         "creation_time": "2023-08-06T11:58:16.355000",
         "last_updated": "2023-08-08T11:44:12.675000",
         "domains": [
@@ -789,9 +713,7 @@
             "2ca9e853-7ca7-49f5-95e2-b2a6c2b3b759",
             "60d505af-b3bb-48c3-a954-563768e617a1",
             "91236e24-d5ec-4501-89c6-1f9b441b6911",
-            "3d716b73-4444-4043-b94b-794ab0cfa3d3",
             "e5aab978-b5cc-4661-b4d8-50ca08031a07",
-            "591bdda7-28e1-43e5-95d8-a113e53a29b4",
             "c2fb25a0-c313-421b-8d9a-edfcf2157320",
             "3fe01072-b0f4-41b7-b84c-9c1768b9474e",
             "ffed1950-2a58-4372-a3e6-b23a74147ee2",
@@ -820,23 +742,18 @@
     {
         "cluster_id": "55e83b10-5875-4b1b-832d-b24ba9af97bc",
         "articles_id": [
-            "0c951c64-3755-42f9-a41a-8301cd25e481",
             "704c0bff-c1ea-467e-a629-0f6865b20d12",
             "f8cc4f59-a833-4ab8-9951-855f7bae2a16",
-            "0a9b471c-8eb6-422e-9168-1284b6648463",
-            "9398502e-3749-458f-b3c8-747acc2de910",
             "aa1bf49b-5356-4219-921c-7c6e64c0f037",
             "181e4031-e458-4acb-99ca-fe1c1a286135",
             "26834ea4-f3c5-41d1-9e56-e57e4cd3253b",
             "cfd8b4f8-f449-46e2-aa99-c58eaa6fb804",
             "7e4aa193-75f4-401f-b034-f42a126e3a94",
             "d04cfbb4-b68f-4524-bddc-59a384064dbe",
-            "02c029a9-a2b0-4434-bcd6-9498bd92db1f",
             "c2f29850-6e5a-455f-9d3b-6e6fe82cae55",
-            "35482135-8bf4-4234-8616-32f5f4d2b06a",
             "f64489d6-530b-4144-beb4-a287051af1fd"
         ],
-        "main_article_id": "0c951c64-3755-42f9-a41a-8301cd25e481",
+        "main_article_id": "7e4aa193-75f4-401f-b034-f42a126e3a94",
         "creation_time": "2023-08-06T11:58:20.836000",
         "last_updated": "2023-08-08T11:48:16.929000",
         "domains": [
@@ -865,17 +782,13 @@
             "23b0e414-0ec0-4215-bfcb-6f19bb9b7833",
             "cde04215-24d9-4fc2-99f8-c50552805fdb",
             "c6d1341b-56f2-4750-b90e-9072b7045374",
-            "a5a11fdb-0896-435d-b391-f3ac7dc16c20",
             "4b63421d-40e5-47e5-89b9-32101ceca6f4",
             "71efef41-72d0-48b1-b53f-909b23cff224",
             "1ba1b5c2-54b2-43bd-bfb8-dd9c85e08b2e",
-            "f76a7a73-6045-461d-bf3b-e694d58d3990",
             "aef81592-046a-447d-8cf2-eadcea2a67d9",
             "fc61fc4e-f9f8-4cb6-960b-5efff8ad8d32",
             "6691f9f4-fdff-4401-96b9-2a6496d46378",
-            "e64fb78e-2a13-4e53-940d-bc8a7b03b8fc",
             "5ba44a44-dc89-4773-9fc6-3a23e426641c",
-            "3c9bbd5e-ea7c-4f3b-8cd2-c047d46f92eb",
             "c8bffea2-6eb6-428c-982d-ad1a590dbd0d"
         ],
         "main_article_id": "feb44f9c-e453-4663-ba44-f15b362d5687",
@@ -901,20 +814,14 @@
     {
         "cluster_id": "62189b74-d440-431c-939a-bbd7b240e751",
         "articles_id": [
-            "911295f2-717d-4340-9810-40fb0ed57740",
-            "f6c2c86f-9a74-4ed4-a32c-4aedc333a647",
-            "b001a752-a14f-408d-9c1b-d209fe589492",
-            "36bc1ddd-1f39-425f-8cc7-ea6c550c7496",
             "6d8bc5de-b7a7-4b54-bb15-05a0b4aa0772",
             "36327816-5f4b-4b5b-a172-1365af90e434",
             "f7ce958d-d10e-4a48-89c2-2b6fdcd43b5d",
-            "bda5d6f3-0ebd-4656-a435-c9e5c2e4ecf3",
             "f1639919-b7cb-40e4-9992-0031d12dd05a",
-            "7a48055f-a2eb-4316-8843-c42148013fc3",
             "d28e8e4e-dbaf-4a8d-9c71-1fe747cc9dfe",
             "89d8edc5-2f72-41e6-9f80-c43f984bc7bd"
         ],
-        "main_article_id": "911295f2-717d-4340-9810-40fb0ed57740",
+        "main_article_id": "6d8bc5de-b7a7-4b54-bb15-05a0b4aa0772",
         "creation_time": "2023-08-06T11:58:24.234000",
         "last_updated": "2023-08-08T11:44:21.507000",
         "domains": [
@@ -936,17 +843,13 @@
         "cluster_id": "c7470a42-0da1-4767-8b4d-4ff2b31a661a",
         "articles_id": [
             "7eefd3c5-7621-4fd9-b9b9-ceb90ae066ad",
-            "a09f27b2-a0a9-4151-81f4-d154d0439b23",
             "15a651b2-a079-4b75-8b83-acb6f47e8f32",
             "6f6cfba8-5262-48c7-96fe-f66fe55b6eb5",
             "1dc41862-ce0d-4b3d-85c3-bb30868b20f6",
             "b30cd820-5a69-43f1-92c3-83c630b2e58e",
-            "ecd3547e-a8cb-4033-b183-d34bf26be759",
             "01ddb080-6251-4d26-a3e9-b60272e1c8e5",
             "93ac8590-f142-4430-ae43-6966297ee465",
-            "b58deb53-a9e5-4921-ae4f-ee84b3bde51f",
             "06d00c9a-7fdd-4723-8a63-7feb7cdf0a0f",
-            "35910c11-3ddf-4863-8882-d3cebebfc2fb",
             "fcfc30ed-d67e-40b8-a7d9-00e76dcea075"
         ],
         "main_article_id": "7eefd3c5-7621-4fd9-b9b9-ceb90ae066ad",
@@ -977,12 +880,8 @@
             "3b0596a1-3401-45e4-8f6f-7964df96176d",
             "4669724e-7c72-49ec-8017-a9220b17de4b",
             "1a3f345c-57b1-48a1-8db8-9b511a0ba5ef",
-            "23e7f29c-478f-44b8-90c2-bd24e8e81cfc",
-            "4482f885-addf-4afd-94ab-b0438b1f04e1",
-            "82f7c6cc-8541-40f2-9854-aced58139b60",
             "9d3b3468-e2aa-424a-8d13-6551f3926066",
-            "1d38b316-6b0f-42b6-bb66-05b66bec4d70",
-            "3c0725ed-393f-49f7-a825-707eee4725d3"
+            "1d38b316-6b0f-42b6-bb66-05b66bec4d70"
         ],
         "main_article_id": "c9443696-4880-4acf-8e5c-f4480bbbb67e",
         "creation_time": "2023-08-06T11:58:31.361000",
@@ -1000,23 +899,18 @@
     {
         "cluster_id": "289e1e4e-383e-4254-bcfd-3ff5525ce507",
         "articles_id": [
-            "e61a0c04-7f39-4669-83da-86c358034bce",
             "5e1bd792-3b7e-40e5-bd71-69cd923bef8c",
             "db527416-e75e-47e5-a047-c3b08ac66d63",
-            "12684861-349b-42c5-9a6f-f42a941d9cdf",
             "d3456517-00df-4b5c-9a9c-498ae75be989",
             "03471df1-5659-4267-85d1-2917d1aa2216",
-            "08e5508d-e07f-4be3-af5a-3d6ceaa463e3",
             "e954ec0a-7d21-4dbe-b920-aa0ece5c6719",
-            "ddb7b6f9-5ba5-43ff-a9fc-2696973b66ab",
             "8df1048f-fd09-464a-8818-504f108df56c",
-            "f109eaae-02a4-4602-a2bd-190b4fd15143",
             "558adf41-4003-4926-a10b-f39b4a997d38",
             "2079286d-a9bf-4b92-848e-967b79012890",
             "0b418dbf-56f7-4889-8643-2b961ef55e6f",
             "ecc3bbd6-a471-4e0d-9cb6-7d1bc81070e1"
         ],
-        "main_article_id": "e61a0c04-7f39-4669-83da-86c358034bce",
+        "main_article_id": "558adf41-4003-4926-a10b-f39b4a997d38",
         "creation_time": "2023-08-06T11:58:33.622000",
         "last_updated": "2023-08-08T11:44:04.978000",
         "domains": [
@@ -1043,14 +937,12 @@
             "0779bade-c683-4963-9a07-a26e308c70b9",
             "24afcabd-9ba2-4666-bc63-726089f691f0",
             "846bbb5f-2c6e-44ae-8c9e-89f5ad16fe02",
-            "2c33b989-2c89-4e4a-95eb-19721a06d8f8",
             "26e3dd0b-d66e-4a99-a5e9-1c083611d3ad",
             "f8bc5792-42b4-4080-a6a0-ed1e9f55d73d",
             "50d508ba-1ffc-4e26-bdde-1217f2780d82",
             "a8dcb098-ce6f-4f64-8526-359e35587c24",
             "46f9a020-ee1f-41ea-b42d-11e816ac0d81",
-            "0bcf48a7-4c3f-44b6-9ecc-d9be0e588859",
-            "0713f2b9-2533-4105-ba7a-b9ff19e8de14"
+            "0bcf48a7-4c3f-44b6-9ecc-d9be0e588859"
         ],
         "main_article_id": "5e50706d-ebcd-47c4-9da1-cbc99a23b45d",
         "creation_time": "2023-08-06T11:58:36.981000",
@@ -1065,16 +957,13 @@
         "cluster_id": "a46d3462-09c8-476f-8a4a-42892e4febd8",
         "articles_id": [
             "789acd30-15df-4842-8af9-f6a699a83c94",
-            "9fd21e9b-18e6-45f5-a4a8-02b4e176d67e",
             "c0cc3030-422d-46bc-9798-f9f90d0a86d8",
             "b25b7f1a-1111-4302-85cd-2715d656b322",
             "13788de6-2d42-4f85-954f-f2578b9e3c67",
             "e3ac7d04-a6ba-4b79-a6b1-aeafd882f567",
             "9b9fab3d-fc5a-4bef-a0b6-b63d27659d1c",
-            "e4c1116f-88a2-473c-9f83-8c8acad75b89",
             "8bc7895a-2e71-4cac-b590-a0315a2548f7",
             "dafe82a0-426e-4718-9ec0-9c11cd49bc4b",
-            "f1ebe66f-f1d0-4676-83fc-a754715bc36a",
             "ceda5292-c9ee-49e2-8a3c-e44c5bd8364d"
         ],
         "main_article_id": "789acd30-15df-4842-8af9-f6a699a83c94",
@@ -1099,18 +988,14 @@
     {
         "cluster_id": "c649541c-76e5-4a16-ab84-2d01151dd288",
         "articles_id": [
-            "450ac6b0-3e47-4d21-bf90-4f40877b7318",
             "e134892b-6f09-49d4-9a62-eccf81b4d6e5",
-            "e41b1fdd-f331-4048-b373-636d316fe16a",
             "f28398cf-9308-4a7d-9aac-8dea98d04ab8",
             "12709447-f479-4144-ac54-cd85a5ae790a",
-            "2cf9b355-6d2b-4c41-96ec-8482d841f964",
-            "03d1f732-ca5d-4968-810e-e2bee9e7d2aa",
             "fe3aa3d3-ab48-41a9-adfc-f2acb71a8b51",
             "9b0b8f98-fdb6-4b3c-a9b1-db08c1714db9",
             "c832f815-5790-44fe-9efe-3095dc7efb4d"
         ],
-        "main_article_id": "450ac6b0-3e47-4d21-bf90-4f40877b7318",
+        "main_article_id": "c832f815-5790-44fe-9efe-3095dc7efb4d",
         "creation_time": "2023-08-06T11:58:43.241000",
         "last_updated": "2023-08-06T19:15:49.267000",
         "domains": [
@@ -1131,7 +1016,6 @@
         "cluster_id": "637774d2-9fa6-4de3-be02-abf16e162526",
         "articles_id": [
             "66cc603e-d263-4f1b-853a-0771cfed1d7d",
-            "d4bf24e3-8f95-415d-9435-095980c548bf",
             "d1bc8656-d33a-4a89-a5cd-a00e97d2223a",
             "55b93892-aa12-4c42-a977-474b54ec6fb5",
             "b46a1391-8821-4c6f-8cb9-dfe856142ff6",
@@ -1140,8 +1024,6 @@
             "4be1cb2d-9e26-49ce-81cd-6aa78817bf43",
             "aa01574b-5977-47d2-a925-4b373251d2ac",
             "2504f7a9-19ce-470a-99ce-17897b1b3801",
-            "9d7cece9-1d5f-42e9-a4e1-8841f4c940e6",
-            "1ec3fb5b-ebb8-4394-bf6e-50d38ceb5341",
             "6f38ecd1-3463-4c25-8a2b-6742b07f3f1f",
             "43589ef8-9dd2-40fa-b40d-21083cd06329",
             "f1d968b3-0288-4b39-bb0b-645f6ab6929a"
@@ -1173,8 +1055,6 @@
             "174b9344-75bd-42e9-8f20-d9be6f2f162f",
             "40f6a8f1-2feb-48d6-bb31-548aed3970cf",
             "0662e32f-84ea-4f78-88a3-e0cc4bb05f4a",
-            "8e8532ca-34d6-467c-9c3a-ecd79d45b6df",
-            "6df6a623-b765-4f7d-924d-a6a8f0bf22e6",
             "8227a954-9d45-4573-96b2-cd9e1d71f455",
             "62f70cf5-7ddc-4788-b241-8db690781aac"
         ],
@@ -1203,9 +1083,7 @@
             "c41b5981-5adc-4d42-804a-21eb6bb314dc",
             "b4d88af6-4845-4436-93b9-ad13aa8bfa3c",
             "7795538f-c91c-4dd6-9ed1-05aab3e49bd6",
-            "186e4668-61af-47e8-99f4-66ec0f045a63",
             "2a89d729-4248-47f9-bf4c-b3450455b5a4",
-            "4b9cae56-462a-487f-aadd-20a73d4565a0",
             "df608200-0ff4-400d-8cad-169c5390816f",
             "17e70937-8c1e-42d6-85cb-35909c10e501",
             "291873a1-4a3b-441d-a631-9b32b807d4b8"
@@ -1232,16 +1110,11 @@
         "cluster_id": "6d86ea89-cccb-4686-97aa-621501e9d117",
         "articles_id": [
             "d13b962d-d357-44e9-a894-43739724406a",
-            "5cdb3c26-27b1-4e75-a16f-2fc7dd3ed809",
             "8c0ac3e5-2d6c-496f-92ef-be52ff44e108",
             "40f86a66-e787-44b9-affd-415ad2b92b72",
-            "96c4f3d0-6566-4bed-b609-f09059a4be46",
             "8abdde35-e2a6-4fbb-bd76-ce9905c0f753",
             "e828851c-12f1-453b-b2c4-4b2e18c0c40b",
-            "cc0dba95-257e-4b78-a532-63d5155c99d6",
-            "45b8f177-f9a9-4a82-96c3-50a127d4f5a7",
             "b48754c9-fb75-4220-8c42-d7cbc68ad452",
-            "39928f53-8dc1-4209-b88c-987af92bf887",
             "ca833e64-20a6-46fb-9e09-ecc13468f401"
         ],
         "main_article_id": "d13b962d-d357-44e9-a894-43739724406a",
@@ -1266,18 +1139,15 @@
     {
         "cluster_id": "7a4d39f6-8042-41b2-aab4-bf951a243207",
         "articles_id": [
-            "74836dd6-9da1-4d7c-a5a3-02deb88cd9d2",
-            "4a35f9d0-cf64-4005-8c3c-a77c4ca1d5fc",
             "485278bc-27ad-4718-83f2-c945f97afdb7",
             "b1de5a6d-3e2b-4a84-a85a-8502ee83969c",
             "b42675ef-7df0-4898-937f-fdb3a29446f3",
             "ff491eeb-8f58-484f-a5a4-739472d7f31b",
             "c10395e4-76aa-4b1d-95ee-50ac0ff533c7",
             "abdc1cc9-a2c6-4803-82a0-ae7b250b0f23",
-            "3a3b7ebc-5961-4c3a-ab44-544da5aa6709",
             "0d1ada56-eeca-4b52-b3c7-732fb83cf663"
         ],
-        "main_article_id": "74836dd6-9da1-4d7c-a5a3-02deb88cd9d2",
+        "main_article_id": "0d1ada56-eeca-4b52-b3c7-732fb83cf663",
         "creation_time": "2023-08-06T11:58:55.122000",
         "last_updated": "2023-08-06T13:13:59.420000",
         "domains": [
@@ -1298,18 +1168,14 @@
     {
         "cluster_id": "87a9b905-cbea-4ce4-9afa-22f9220a45b0",
         "articles_id": [
-            "2df8d0f7-621e-4b46-965d-b5a19905a3f9",
             "652d6b68-33bf-4711-a5ba-87930cb9ab2a",
-            "711bc60a-8c93-46a3-8f80-3380cd71cce7",
-            "41ebae8c-90a9-4ddb-8418-beb52c195808",
             "37eb5409-f483-43b7-b2f1-5c430473ee14",
-            "c7e42182-108e-4e83-a9e8-e3d566f3337f",
             "c3fbfcf8-a53f-452c-b3f6-ec5ab0bfd2dd",
             "83149fbf-5b7e-4923-a0d6-a41c6de51f67",
             "4aa98b0d-df16-4377-911b-ce7b5f080acf",
             "018bed1d-a344-4b84-b542-6b558418965c"
         ],
-        "main_article_id": "2df8d0f7-621e-4b46-965d-b5a19905a3f9",
+        "main_article_id": "37eb5409-f483-43b7-b2f1-5c430473ee14",
         "creation_time": "2023-08-06T11:58:57.962000",
         "last_updated": "2023-08-07T01:17:20.127000",
         "domains": [
@@ -1333,13 +1199,11 @@
             "68743ef0-9edd-497c-a5a0-b72e04d5af22",
             "df8acf92-7068-4ba9-b8c9-2bc64dfed929",
             "ec155f67-1a49-4473-9057-6f7f30e5ab7c",
-            "caac9fe8-037c-4294-9fbc-a960fe159f50",
             "9d705e6e-aca8-48bd-b445-1cf18de8198a",
             "3b512c26-331e-4254-a450-57c302cda271",
             "31e4aa8a-7f79-4d60-9c13-234f5359f5a9",
             "2dce8af8-82bf-4bf6-995f-c779b476a0fa",
             "8996ba97-b192-4a80-8324-cf6c2b162247",
-            "9d32bb19-e1b5-4316-9dff-f1ac90162748",
             "6efe5fe4-0a65-48ec-b85a-590d389fc383"
         ],
         "main_article_id": "6ac1c2f7-3e14-4fde-8101-94bd07fadd61",
@@ -1358,20 +1222,15 @@
     {
         "cluster_id": "ba749cd4-6015-48ca-b9bd-8be442f1d54b",
         "articles_id": [
-            "64057af8-c7af-45f0-815a-5938aaa33aa5",
             "34b073a2-9663-47f6-a453-20bd2be570b8",
             "8cc2f78c-fc76-42e5-8aec-4b2598e0f2b6",
-            "dc636561-283a-4280-8eb1-4d7b1908168d",
-            "3e08306b-0a4f-432d-81ad-9ffc11b86dcc",
             "2cec9f2c-bb9c-4af5-a3a8-d46fd3a60347",
-            "772e7a44-e30a-4094-96c9-df9257f5e027",
-            "7c67d047-e923-4746-92c1-eabe2d42bcc6",
             "171be2b3-d6fe-4831-b847-ffdd546835e2",
             "7718a787-f256-413d-a37c-96c7d4353cba",
             "417e625a-3a60-48e2-890a-afc84808cd43",
             "65fd5399-e722-417b-b5ee-a08ac4469c29"
         ],
-        "main_article_id": "64057af8-c7af-45f0-815a-5938aaa33aa5",
+        "main_article_id": "65fd5399-e722-417b-b5ee-a08ac4469c29",
         "creation_time": "2023-08-06T11:59:04.526000",
         "last_updated": "2023-08-06T19:16:51.220000",
         "domains": [
@@ -1394,11 +1253,9 @@
     {
         "cluster_id": "28d48e8e-6882-4297-a99c-a6a809a6fad4",
         "articles_id": [
-            "09e33d33-ecdd-4e02-b6fb-131845f9d87d",
-            "4e3bf0fa-5438-4f4d-9813-d7ac5b7e2869",
             "403049cb-8dff-4d03-b1d6-29b583dc2a4f"
         ],
-        "main_article_id": "09e33d33-ecdd-4e02-b6fb-131845f9d87d",
+        "main_article_id": "403049cb-8dff-4d03-b1d6-29b583dc2a4f",
         "creation_time": "2023-08-06T11:59:07.234000",
         "last_updated": "2023-08-06T11:59:07.239000",
         "domains": [
@@ -1414,16 +1271,12 @@
             "bb8abc5a-9ddc-4b84-80f5-b19825abfd62",
             "4548e2a9-60b2-4e13-851b-8ddf0a31f5f3",
             "a83831e8-8222-44d2-922f-11370062d7f5",
-            "92ad3b38-031c-4168-bbf6-8fb9e02a6ca8",
             "3e964c03-5a9c-4d01-a2b3-88703e597e3c",
             "4ef2d109-d4ca-4dec-b8bd-8f4df5b07e4b",
-            "23139512-904d-4d45-8bfa-3dbd3bce7343",
             "798b1498-e299-4b48-9df9-b62957d86550",
             "33f435db-9a76-4066-a632-9908d03372ac",
             "488b5f7c-4001-4bda-9a6f-e84f139dfb24",
-            "2462ed8d-333d-424f-8684-b14e20ebef29",
-            "7e94949c-af65-4063-9575-ec407ecd3d60",
-            "b3074c2c-4770-4601-8227-e0484cdd62b8"
+            "7e94949c-af65-4063-9575-ec407ecd3d60"
         ],
         "main_article_id": "bb8abc5a-9ddc-4b84-80f5-b19825abfd62",
         "creation_time": "2023-08-06T11:59:10.167000",
@@ -1448,22 +1301,16 @@
     {
         "cluster_id": "7b7d99d5-a42e-45fa-85e5-8d28cbe52135",
         "articles_id": [
-            "55ead97d-4812-406e-a4a2-6a324823b8e9",
-            "a1d64977-f64d-4074-a756-6471a93c573c",
             "d8386712-8996-47cc-989a-5111c44a89b8",
-            "98bc2a01-307e-4461-901f-83e4df3b7582",
             "5b135c41-497e-4915-8aa2-b175e765dcd4",
             "4ceab3c6-c1fb-4ae9-8fd1-5678301f5aca",
-            "70d5d191-1624-4992-9adf-ea8d48a86f13",
             "7e586a2f-8207-41d0-ab42-0ba8a147c6bb",
             "0cd21c08-aeff-409c-ab5c-b6cafbb0d941",
-            "6d4f5fba-ba3d-4e44-b0aa-caa84dbece0a",
             "17452380-6334-4746-99c9-cbd5099c51bf",
-            "f7e3e6a6-999e-4f5a-abb4-8c456e6e2e78",
             "8b69e9f5-bd69-4961-bf35-dcf55c3a7ccd",
             "25fadf98-7582-4e9a-9bcd-769a8b7cff1d"
         ],
-        "main_article_id": "55ead97d-4812-406e-a4a2-6a324823b8e9",
+        "main_article_id": "4ceab3c6-c1fb-4ae9-8fd1-5678301f5aca",
         "creation_time": "2023-08-06T11:59:11.849000",
         "last_updated": "2023-08-08T11:47:43.578000",
         "domains": [
@@ -1486,19 +1333,16 @@
     {
         "cluster_id": "625f19fb-a7ab-4a81-becc-7466d7cccd05",
         "articles_id": [
-            "69648776-3223-49e5-af30-fba5e64e49b1",
             "4f7cc19b-7e6b-4904-b198-03db9ab5c9ae",
             "a2103cee-44b6-4acb-9f1e-1dd3faefdba0",
             "2f8fe807-3046-4efb-96c5-3db7eb285175",
-            "713cc778-bfb0-4084-9e23-f4323023406e",
             "24c5f742-a07a-4a90-84ca-58c09ef52f9a",
-            "3c58ae9f-73db-4858-9b74-e8f0ef64c9a7",
             "6aa931ce-9cf0-4ed2-bce3-195fc509f1b1",
             "8d0f3f06-b3bb-418f-9777-e3ab85450d6f",
             "2e1fafc2-908f-4495-848a-463c9935f15c",
             "a0f42c56-0e09-4cfc-ab51-6d129e51735d"
         ],
-        "main_article_id": "69648776-3223-49e5-af30-fba5e64e49b1",
+        "main_article_id": "2e1fafc2-908f-4495-848a-463c9935f15c",
         "creation_time": "2023-08-06T11:59:13.432000",
         "last_updated": "2023-08-08T11:47:20.672000",
         "domains": [
@@ -1511,17 +1355,13 @@
     {
         "cluster_id": "c88efdcc-0402-486e-8d89-61bf18738333",
         "articles_id": [
-            "e16797bb-e9bc-4cbe-a538-a72ba8d2e1d8",
             "b0133e0e-0a06-4d9b-859d-3a6827861db1",
             "32091942-a3ec-4d1b-b479-2d99276e508a",
-            "3cfc6ee7-e2d5-4407-8880-871f79f2d8be",
             "daa06cd7-4085-4af6-b393-09719bb82dc2",
-            "09786c45-6d89-4551-98b9-051f5cde058b",
             "8d245438-7c18-4bdf-a4bd-5b01cf8b552d",
-            "b65ac904-24c0-4d14-a480-509e8be2a523",
             "418bfd31-b451-4eba-8ea8-5cc48169011f"
         ],
-        "main_article_id": "e16797bb-e9bc-4cbe-a538-a72ba8d2e1d8",
+        "main_article_id": "32091942-a3ec-4d1b-b479-2d99276e508a",
         "creation_time": "2023-08-06T11:59:16.016000",
         "last_updated": "2023-08-08T11:44:33.084000",
         "domains": [
@@ -1543,12 +1383,10 @@
         "articles_id": [
             "da603bc8-3af7-4637-aed2-95dd02b2fe88",
             "0d9f487b-ed5f-47bb-9b38-8b5e4b82267b",
-            "f5675b55-763b-4655-81ff-d349c21734eb",
             "66805310-fd9f-4162-9527-4ca9d15c7dc1",
             "5cf84d4b-3883-45dc-a858-6895ff57f695",
             "f5ff2036-3a76-48a0-b541-094015cdfcb1",
             "131df08b-880f-40b5-a9e8-37af54c637c1",
-            "c8f6327a-a754-4925-94c8-7abb6cb86384",
             "056f1ff1-3759-4ca8-afd6-2d6e0770d3c3"
         ],
         "main_article_id": "da603bc8-3af7-4637-aed2-95dd02b2fe88",
@@ -1571,16 +1409,12 @@
         "cluster_id": "495b2b57-47c6-4fc4-a84c-0625fc01146d",
         "articles_id": [
             "62d2517f-691d-488a-bc1e-8e4153c504b4",
-            "f431fd23-10fb-4144-992a-b1363fdaf4a6",
-            "99d66352-c848-43e9-88d6-38e02d05acdd",
             "a98ec347-ae65-472b-8f06-b887aa2f744d",
-            "5b677c57-ea39-4467-bd0a-59c5354b40a9",
             "a7da7976-f351-4652-8943-d076e607b285",
             "79a29832-610a-463d-86ff-8b4d14b76e5b",
             "48988308-88cd-44ca-b2c2-02157b684751",
             "9439e806-7256-4d78-a20b-e1dd505d999d",
             "3d2a5cff-9809-42d3-a7da-819ecc013bf9",
-            "6a7c06c6-81b2-4ae7-b48e-9a9ce16f3357",
             "adb16914-c5a1-448e-ac45-e06a30e5d938",
             "88efb4ac-fab2-403e-a9ed-091265a5640a",
             "2325f493-2723-4b67-90b0-a750183f7528"
@@ -1610,20 +1444,18 @@
     {
         "cluster_id": "a8918eea-69e6-4c7d-bda8-b7d41526e33e",
         "articles_id": [
-            "a0977517-daf4-42f9-8a83-cf239d842882",
             "bd857208-fa4a-443f-aa7d-bc36b9aed93e",
             "ef1c0f89-565f-4833-b411-4afc28d13320",
             "1fcbffcc-7fa3-4bf8-b11a-f0caa6f95240",
             "e13a9c84-0280-4a7e-910a-eab0d15398ed",
             "4a3a35ce-73cc-4c8c-a6b4-6d38ae05892a",
             "a69d7445-b797-43df-826c-c07200ec2cbd",
-            "c08f615a-8ade-4433-9b50-01b45a9de57a",
             "70ef1c95-690d-4ef3-8da8-79ef7615d0eb",
             "7e47af93-295c-4f40-aa36-db14d88456f3",
             "8dd40d8c-819a-4817-8241-aac0d1ba2ff4",
             "33f0594c-36f8-4f25-bd52-7b8daa865e71"
         ],
-        "main_article_id": "a0977517-daf4-42f9-8a83-cf239d842882",
+        "main_article_id": "33f0594c-36f8-4f25-bd52-7b8daa865e71",
         "creation_time": "2023-08-06T13:12:00.445000",
         "last_updated": "2023-08-08T11:48:01.968000",
         "domains": [
@@ -1646,19 +1478,13 @@
     {
         "cluster_id": "7afcfe01-4856-4c44-8dda-4769675d3c56",
         "articles_id": [
-            "0ba45b31-d9ac-4800-b594-7faf7483c223",
             "2d91963f-e0a6-4c65-afba-dfbf7476f3f7",
             "66b65fe4-6aa6-4dc7-a41d-b868bd9414e6",
-            "1c4c1b44-254c-4c3a-9d93-e3f0cda445d4",
-            "2d1694dd-af57-4bcd-b1f4-86f44d648521",
-            "6ad3a484-8e79-495f-b2e9-831b622b7871",
             "13e1ebf3-7042-406c-ae8a-cacd862497c4",
-            "db6a8438-2348-4325-8b79-8531a9321f5c",
             "7dcafb94-ce84-47aa-86a3-3388a1951816",
-            "666458b3-ecfd-42b7-b37b-4339db990e0b",
-            "988fb128-3992-49c9-b5e0-54b117c06eef"
+            "666458b3-ecfd-42b7-b37b-4339db990e0b"
         ],
-        "main_article_id": "0ba45b31-d9ac-4800-b594-7faf7483c223",
+        "main_article_id": "2d91963f-e0a6-4c65-afba-dfbf7476f3f7",
         "creation_time": "2023-08-06T13:12:02.164000",
         "last_updated": "2023-08-08T11:47:39.036000",
         "domains": [
@@ -1680,22 +1506,15 @@
     {
         "cluster_id": "152494de-2f53-47ad-9c30-b39fb69e0255",
         "articles_id": [
-            "47c01210-f3ac-4100-a23a-6b4e6c64ba39",
-            "81794fdf-1021-4f01-811c-0a7f444f30f1",
-            "ef3001e7-288d-4905-ad91-1c1ae62aad07",
             "1b232875-ff48-4bc8-90b0-9cc3506fcb9b",
             "ee8d00ca-3d5c-448a-b8bd-bffbc10e7644",
             "2312a548-0246-42d4-a116-137d051156af",
             "f0d8459b-2eae-4d8e-a45e-301d9c40d1de",
             "324334c1-efd2-41f9-a373-2fc6f9808b27",
-            "2390e4dc-1b0b-4807-a997-d7dabc995cc8",
             "e44e6ee7-d565-4514-8757-68e2e7c1977d",
-            "7e20b9f8-7566-4369-8298-8275ab5a283c",
-            "a59050d2-0b70-4e67-85fc-fd1cc49603c3",
-            "9de1030e-82c9-4ac9-9590-b9a87bcc0d32",
             "6bbb1108-d512-46f7-8727-2be731d5737e"
         ],
-        "main_article_id": "47c01210-f3ac-4100-a23a-6b4e6c64ba39",
+        "main_article_id": "ee8d00ca-3d5c-448a-b8bd-bffbc10e7644",
         "creation_time": "2023-08-06T13:12:03.858000",
         "last_updated": "2023-08-08T11:44:15.812000",
         "domains": [
@@ -1718,13 +1537,9 @@
     {
         "cluster_id": "3feddee2-8109-4993-814d-fe8f139b61c1",
         "articles_id": [
-            "01946f76-e315-4896-b604-ab8cd30afd6a",
-            "519a2709-3aa3-4a6b-bc78-dfc8909f00d4",
             "3df72dfc-60a1-4770-be61-16fc96bc347f",
             "3889ac2d-acd9-411e-abe7-5810b4740e77",
-            "28d6f185-5aa6-4d8d-bfc6-fdb828013e18",
             "2cf2973d-29e3-45a2-8ad3-a2d57c3c974e",
-            "9e146199-4fdd-42fb-b8df-5381a2eb28f4",
             "47e2f8a4-21fb-4a3b-911c-1376bf2143d7",
             "ec874249-eee4-4849-b2a0-f63f81faf8b8",
             "10fd6f9e-cbce-4321-b46a-5ed5397c635f",
@@ -1732,7 +1547,7 @@
             "3c99bb6e-4d94-4e3f-b1a3-e134827a4a15",
             "c5369c5c-1a77-42c6-b2e1-bbd5f4c76ada"
         ],
-        "main_article_id": "01946f76-e315-4896-b604-ab8cd30afd6a",
+        "main_article_id": "10fd6f9e-cbce-4321-b46a-5ed5397c635f",
         "creation_time": "2023-08-06T13:12:05.622000",
         "last_updated": "2023-08-07T01:17:24.512000",
         "domains": [
@@ -1756,19 +1571,14 @@
     {
         "cluster_id": "7fe43c69-674d-4c35-979a-575f0eec6f9d",
         "articles_id": [
-            "5edd5c06-7da0-4015-a6a1-2075cb2cadb4",
             "667dd416-e429-49c3-99c4-91e88ab6a99a",
-            "a8c8350b-c890-47cf-9211-d87b7cbcd9df",
-            "1f13404a-98b1-4e5c-802f-29ec2b8d76b5",
             "2a8bbf24-5642-4714-845b-07bc1a569cfc",
             "dfb17185-c744-4dae-8c82-f33671783a22",
-            "e7fd6d81-b5cd-4563-a9fa-9e882c727612",
-            "12761e09-d123-4e34-957a-8eabc13367d4",
             "e811e057-f759-46e6-84d3-83cfa6dab82c",
             "21a176d3-bcfb-4c3a-9298-12a098ae0fff",
             "4e1be01d-506f-42f4-b76d-609fe6b0c190"
         ],
-        "main_article_id": "5edd5c06-7da0-4015-a6a1-2075cb2cadb4",
+        "main_article_id": "e811e057-f759-46e6-84d3-83cfa6dab82c",
         "creation_time": "2023-08-06T13:12:07.315000",
         "last_updated": "2023-08-08T11:47:05.594000",
         "domains": [
@@ -1793,11 +1603,9 @@
             "d9d729bf-93c4-4dd6-b538-72b6b057455e",
             "df590510-ca6f-4207-8f32-2b06c1e02a8d",
             "6fda144e-8e08-47ac-a4e3-2d36140575f9",
-            "23420fd7-5d36-4e4f-ac00-efcc705a0c37",
             "625ca851-53cc-4b6b-90db-40cda65241d7",
             "18c01b04-30e7-45f4-97f1-178ba9dbf458",
-            "2a3facf6-fb0a-442a-9d58-505c3fe2da5f",
-            "833cbc52-ff86-425c-b258-7a10920293da"
+            "2a3facf6-fb0a-442a-9d58-505c3fe2da5f"
         ],
         "main_article_id": "d9d729bf-93c4-4dd6-b538-72b6b057455e",
         "creation_time": "2023-08-06T13:12:14.169000",
@@ -1818,14 +1626,9 @@
         "cluster_id": "1589e8d7-9cee-4348-aef6-adcba6dc465d",
         "articles_id": [
             "ce2c23ef-50c4-4259-ae26-1099e913a93e",
-            "0d4ea4e8-c1c4-4e73-a489-f9697d578f91",
             "224db40f-02a1-406f-b4d2-31ded73cca4b",
             "c409ff79-c1f2-4adf-b448-68bf38cc7347",
-            "430b47c3-249b-46d4-aae4-17be9bea0891",
             "4aaccc20-8d6a-4c93-9585-63159dda1a3c",
-            "e238b8cf-3a36-458b-a6c5-698aeab1cfe9",
-            "9bc1151e-b201-41bb-9074-37fe76192e48",
-            "88b3692f-3cee-4d1a-a149-28fb92020354",
             "6542e463-b3c0-4faf-8204-f744c21e39d1",
             "85bade4c-1f35-4875-977c-1e5b97d59b6f"
         ],
@@ -1854,11 +1657,8 @@
             "bf3f3c22-0327-40cd-8cb7-1570923aed88",
             "cb41ea4f-f204-439b-862e-b3233a25c972",
             "df60d378-5d05-4330-9ccc-681734f81d98",
-            "bb430006-423b-458a-9514-c11cfc684d15",
-            "59b90fa2-74e1-45bd-a09b-1a503e1c7e45",
             "7da78763-b9ae-4457-bfd0-eccaed36cbfb",
             "23e07a0b-59ad-4da3-9232-d6c5684a7211",
-            "5d412c2c-c349-4ee8-afd5-384c0fd7861b",
             "f2d916cf-0513-49a4-938b-3ffaca78327b",
             "f570980d-dc1b-4723-b444-c67ab419f657"
         ],
@@ -1884,16 +1684,12 @@
             "fd10688d-9201-44ae-adbe-b4a42c222dc2",
             "e12d1976-66fe-4463-9fb2-f5d934875167",
             "1a2060dd-6a27-44c7-9c44-42f737d16ab9",
-            "0233ef9d-8994-4373-aa6c-38b7d10ffe37",
             "407a6806-d979-42b7-a5e3-beebea1e272e",
             "e4782300-f07c-4ffc-8ab3-da2b4e590e69",
-            "867c9651-cb60-4220-8789-5b6d0ae53e6a",
             "a68a695a-9bd3-4e3c-b2d7-a24324feec79",
-            "63963b13-ddd6-407b-b0a9-1a99021499d7",
             "13e79a5a-4f7e-454b-81aa-729abc8d0cf0",
             "d6132289-a697-4bac-bf56-68a7a853911b",
             "30c439c1-21df-4a93-96c3-3371100fbeaf",
-            "b5f8e743-56bd-4e73-abd5-00591d252d64",
             "13ecf067-5fce-4b03-92a6-04efcc80795a"
         ],
         "main_article_id": "fd10688d-9201-44ae-adbe-b4a42c222dc2",
@@ -1919,9 +1715,6 @@
             "38e62f92-7604-4829-99ad-bc4fcc5d5f78",
             "5d7aa22a-8a16-40eb-811b-b4b57c992dcb",
             "f612867c-0fd8-4721-95c5-4c46af1f594c",
-            "1dc064a7-ea54-4539-9115-7c8241a6da2b",
-            "59e6017c-b1cf-47b2-89c1-234074c03f35",
-            "4473b73f-bac9-4621-80bc-07147b43e79a",
             "09323112-bf88-4735-823c-bc918f7faa40",
             "ce8e041e-127d-4233-a07d-b1b8059bff32"
         ],
@@ -1948,15 +1741,11 @@
         "articles_id": [
             "e60a8086-9d30-4e57-96a8-c8d2f97bdb0b",
             "c5480daf-6848-4101-b22a-bfe9ee28da8b",
-            "ef0b754f-b6b1-4bc8-a31a-a351a4730d62",
-            "212a4dd0-1562-4ab4-ab7f-301cb79fa72b",
             "5e585390-5613-46a7-8c6a-d3e90233d267",
             "233db69a-6337-4eaa-a030-3008959b5b67",
             "c5619607-b764-45f9-a258-5c75058ee2f0",
             "79bc907e-82f2-4907-989e-0d94c9e5c318",
-            "b6aa23c2-0880-40f7-b8ac-bfb63ea76b49",
-            "4bc37db5-7529-4461-85ce-2338041a90ee",
-            "83153f5e-6505-4be2-b3c7-48d69a5b826f"
+            "b6aa23c2-0880-40f7-b8ac-bfb63ea76b49"
         ],
         "main_article_id": "e60a8086-9d30-4e57-96a8-c8d2f97bdb0b",
         "creation_time": "2023-08-06T13:12:31.582000",
@@ -1970,19 +1759,14 @@
     {
         "cluster_id": "8de23d27-9c0a-44b6-8d76-6e44a3f7b10d",
         "articles_id": [
-            "06542de0-6e18-4f39-9172-cf2870a0d0f7",
-            "de669f56-128c-483c-8284-44ec99059371",
-            "e6d4a4b3-a56f-44e4-96d7-67fc7b5d4d48",
             "ff46e7d1-d1b6-42e4-be75-bd993e54cbb8",
             "dc3c6769-a787-4a96-9d54-c32d7b8d8ebc",
             "5907e329-6199-4597-802f-3ff611174308",
             "634428ea-af42-43c8-ad2e-9646af144a47",
             "780215e1-e827-4fd2-9d5c-039bd47dae8e",
-            "afb881f2-5093-4328-9424-bafcbf3203a8",
-            "83e8cd7b-dc48-4dd2-83fe-7ba5e1db5dfe",
             "25d1b115-97e3-4f97-a77e-65d01b3bca5d"
         ],
-        "main_article_id": "06542de0-6e18-4f39-9172-cf2870a0d0f7",
+        "main_article_id": "780215e1-e827-4fd2-9d5c-039bd47dae8e",
         "creation_time": "2023-08-06T13:12:34.419000",
         "last_updated": "2023-08-06T19:16:33.867000",
         "domains": [
@@ -2005,12 +1789,8 @@
         "cluster_id": "0d4459a6-9af0-4e98-aa94-4638dc4884a4",
         "articles_id": [
             "46b1bf94-d726-4c79-bbbe-e5f8e1034943",
-            "b23dff5d-493b-4188-9a47-12ac93086c51",
-            "7e9217c7-7206-4393-8248-4875ceaed234",
-            "f16f5616-9785-44c0-9faa-484bd37d2c40",
             "a7d64b51-ec7f-4a73-bdc5-bec37886a0e0",
             "940fefcc-31be-4314-bb60-a307f73d3a57",
-            "4fefe8c5-7456-4e55-b698-543deeb3d864",
             "683186e8-a140-4aac-9175-cac7a57f9fa4",
             "9d59a77f-0dcf-406e-967b-c649bdc3a55e",
             "ff0d6d9f-1a02-4016-8aa5-b29cec62de7e",
@@ -2030,14 +1810,11 @@
         "cluster_id": "ce6c6da0-2a3d-487e-81fd-be6dc5f93f9b",
         "articles_id": [
             "3f6192a9-3ae9-479b-af48-d4eeca1567a2",
-            "c414b54e-3c52-47f6-ac04-14d197d4b68f",
             "a3c47a05-ee60-448c-999a-39883d5766c3",
             "33082710-0989-4034-93cb-104a19b13f5e",
-            "6898237e-74cf-4340-ae3e-315dba3cfdc4",
             "75bef416-adaa-48ec-8bb4-02e09e422efd",
             "8fd398f0-0e32-4f65-ac14-70e1e75b9899",
             "ecb1844b-c41c-481f-9f3c-a5484335a382",
-            "6329ed85-3867-4a88-afd1-1ee6e3b01a22",
             "71dc6b85-7163-41e5-8e78-16e96bab0f02",
             "621f1517-e28d-4813-893f-6d4db354ff5f"
         ],
@@ -2065,15 +1842,13 @@
             "76e75047-9d86-407a-b74c-9ec0363f705f",
             "6832ada8-8721-4654-8718-c57e6e3de0ae",
             "bcfea92d-23d4-463a-b160-b6aa8bf96a4f",
-            "0f20c6eb-1c62-403b-953a-9d20733f2c47",
             "507feef5-19a8-4520-9baf-01df65368400",
             "cd5612c6-c68f-4f95-abd0-ac5bf202727c",
             "dd5df0bd-bf7c-446e-b0a9-58a360142541",
             "235c42c5-744f-4289-9344-9a7e139775de",
             "7dd7c83e-4a41-4fbe-a613-3ff259c3373c",
             "9764b355-982d-40cc-b052-b8362b099ac1",
-            "e5ce0b9a-34aa-4b8a-b72b-08e680353b24",
-            "46e984b7-246a-4483-9f7d-35ce731edc48"
+            "e5ce0b9a-34aa-4b8a-b72b-08e680353b24"
         ],
         "main_article_id": "76e75047-9d86-407a-b74c-9ec0363f705f",
         "creation_time": "2023-08-06T13:12:53.673000",
@@ -2091,17 +1866,12 @@
             "5b2fc71b-f130-4f25-9f38-602ac72f8c3c",
             "79e14d19-23c0-4d3f-adcf-a5896f4ca2bd",
             "6b5f39e9-115e-4d2a-84ef-46a1b754d48e",
-            "7b88a21f-001d-4822-8dfa-6ba613aa2311",
             "0b6f3b23-88ff-4c02-ac74-f0a6b80a6e01",
             "41c0d142-2720-47b1-8b87-83584966d78b",
-            "b793e7e4-5bd6-4f99-a372-96178a0c7acb",
             "a524109f-ab36-4b25-acf3-4f0b7b2a8689",
-            "b97e343f-78a8-4fe6-b872-d3d93cd4a0b0",
             "25cf3bbc-dcdb-46b3-9d8e-1b4fd06e60ee",
             "3096a42d-d630-4f8e-9c0c-8b1fdcea940d",
-            "47f8fbba-9c1b-43f6-9b95-c83f011e0163",
-            "81033db8-07ce-4610-809c-b7c14878a5d1",
-            "d9a16df3-f582-4197-8955-92b502a0bdee"
+            "81033db8-07ce-4610-809c-b7c14878a5d1"
         ],
         "main_article_id": "5b2fc71b-f130-4f25-9f38-602ac72f8c3c",
         "creation_time": "2023-08-06T13:13:03.763000",
@@ -2125,18 +1895,14 @@
     {
         "cluster_id": "2e209608-37d7-4237-9041-ceea7cf3f449",
         "articles_id": [
-            "89e648d1-94d4-480d-8fc3-103a66dba8f5",
-            "b1c3049a-612e-4df2-99f2-9cbf8d7a323a",
             "6019414f-10b6-4d5a-89ee-2689aaf29d57",
             "a1cff5ad-efdd-4d31-98ac-9225226b76a5",
-            "eac06e85-25ea-4615-9b9f-9f2e66304f22",
-            "0ecb3cf5-0f37-4c7e-b615-f58f2ab7c48e",
             "35492801-848a-4d0b-973b-393679c066c9",
             "cbc53054-c04f-4ef6-8c4e-59a3bac0ef31",
             "a7c10be5-074b-4ae8-8f01-9eb978aa4dd8",
             "959560b4-28eb-4fe4-90b4-f45852b498f4"
         ],
-        "main_article_id": "89e648d1-94d4-480d-8fc3-103a66dba8f5",
+        "main_article_id": "a1cff5ad-efdd-4d31-98ac-9225226b76a5",
         "creation_time": "2023-08-06T13:13:07.289000",
         "last_updated": "2023-08-06T19:16:15.189000",
         "domains": [
@@ -2158,13 +1924,8 @@
         "articles_id": [
             "1b0b474d-ff51-4376-90b0-e3c64ba67c1a",
             "11508fe4-fd0a-418b-82bf-1fe805db61ce",
-            "15cf996b-bb63-4fd1-9626-72d82a31c48f",
-            "6a3aba87-6d84-4a39-9cd8-e8b65cea2bfb",
-            "c67d550f-84da-4fcd-bdc4-2de39d82ea3a",
             "cee10802-cc44-47b3-af21-6e752983319b",
-            "04ae3ad2-7457-40ca-9263-bd3f0d2241c8",
             "2278f47b-06d8-4938-9781-0c5eb4d73dd6",
-            "c0273aef-3f64-48de-87c6-4eca02f309e7",
             "fde8ef23-4ecf-4247-bdf3-d07abeeeb94d"
         ],
         "main_article_id": "1b0b474d-ff51-4376-90b0-e3c64ba67c1a",
@@ -2190,15 +1951,11 @@
         "articles_id": [
             "a7be5cc9-18f9-46f9-8573-4f308d858e8c",
             "6aa87fa2-fb60-4c57-9f16-c9ade41952d4",
-            "8130909a-037b-4625-abe5-5ee5afe4f527",
             "e4be6a92-f5f5-4233-a9c5-4cc5e561c4d7",
-            "a1843e39-c8d0-488d-91a6-4d93f5fdf953",
             "ed6b7b8b-2595-4e15-a409-e98d51c6edb0",
             "41049f6e-e602-4ee8-8159-c2624aa0306a",
             "aa9b25e4-d7b8-47a1-8fb4-fd7327f19a4f",
             "d87c31a0-393d-4c22-851d-dcbe26662a53",
-            "8319b282-ab52-44b3-98f3-ac0da9eab23c",
-            "b73fdfc4-657e-4ffc-9c5a-2a53c7187ace",
             "f59eb362-2ef7-4933-a879-7f584d77991c",
             "adf85c09-4ade-4e3d-8ae2-7530b004c04e"
         ],
@@ -2227,12 +1984,9 @@
         "articles_id": [
             "61985a47-d49f-43cf-863f-c92ffe80cb81",
             "2716d21e-f96c-4e50-8e0a-590e78110ab3",
-            "6712848c-6044-4857-837c-5075e9df4e48",
             "dede7dff-4ee1-4233-b14f-56d539a253a2",
             "4ccb5254-7ad5-4440-8749-48376f996382",
-            "3b1b61d4-bc07-45d0-b5ca-8c2fe0e7b5a5",
-            "f103054f-fdc8-4356-aa5b-07131403ed5a",
-            "0ef1a2ff-c757-4c71-808a-336c6036b419"
+            "3b1b61d4-bc07-45d0-b5ca-8c2fe0e7b5a5"
         ],
         "main_article_id": "61985a47-d49f-43cf-863f-c92ffe80cb81",
         "creation_time": "2023-08-06T13:13:19.277000",
@@ -2252,21 +2006,15 @@
     {
         "cluster_id": "e76f2f60-7145-43cc-9c22-683b39ff2b7a",
         "articles_id": [
-            "a5e8a948-886d-49e1-ae72-a922abab2d59",
-            "28d1fdf6-9d21-4237-953f-f6d628f5f430",
             "1f35dd0b-5ec5-4066-8078-5224679dd7f5",
             "62e7ac45-aaab-4e1a-aec6-801f88db603b",
-            "bda4eb50-2ab0-4fa5-805b-ae734d145319",
             "df859b18-490a-4235-a2a7-2661d7e0b2a3",
             "37e62d7b-2a42-4c45-bb86-2b8c2abb6771",
             "1304a8d9-be4f-44d8-a611-df55792a4a99",
-            "f26f0470-4e10-4d5a-8cfa-10ffffdc0934",
-            "d9fdccaa-b807-4a59-a627-ecd6da17c86c",
             "20bf2c17-18e7-4e8b-a4b3-5f3a9c97e08f",
-            "e508c9c4-5341-4916-a37a-edbef5e92bfa",
             "0ea1ad73-de79-4596-875b-6b6a7aa04b94"
         ],
-        "main_article_id": "a5e8a948-886d-49e1-ae72-a922abab2d59",
+        "main_article_id": "62e7ac45-aaab-4e1a-aec6-801f88db603b",
         "creation_time": "2023-08-06T13:13:22.770000",
         "last_updated": "2023-08-08T11:43:50.073000",
         "domains": [
@@ -2289,13 +2037,9 @@
             "640976c7-5788-4699-9ec9-f99244149462",
             "ef9ae6f9-c9e9-4b80-80e8-357ca7c50f28",
             "26222a4d-fee8-4c1a-89bf-08e075604e4e",
-            "aa4072e0-6612-4adf-8171-f1cac7382171",
             "dceb52a7-6fb3-4e2a-a56b-ae9c7012b4de",
-            "3e46ee4e-999c-4797-881e-90e0867d4739",
-            "0f4f25f9-9fb9-46b9-b9e9-43a09840176e",
             "39c43390-337b-442e-8a9a-ce5dba6fddf8",
             "a1394ad3-bdcb-431a-957f-10c0116eaef2",
-            "739f5466-6c71-438b-8754-b9e9bc160337",
             "64abd4f9-7c16-4b0b-9f7a-912f997baa31",
             "a062fc23-8000-4278-b326-7d2290a8e086",
             "193db43e-67d2-4689-9364-dc7216b535c0"
@@ -2326,14 +2070,10 @@
             "f02514ed-278b-46a7-9cc1-9bf8b8338d04",
             "72ec4086-3ba7-4a22-80ea-d5b4994ec739",
             "858131b0-3023-443e-8eae-7d9295f8148a",
-            "df849f60-4fa1-47fe-aa33-69a228a59460",
             "d23e173f-35e7-4f77-a5e6-94343d0f547d",
             "5def1411-d9e4-4c1a-9b38-3712e8bdbcf6",
             "080cb1a3-76ee-4c75-bb69-0eebc64c6472",
-            "e5b166f9-4973-4b1f-8ff1-56bed7fb943d",
-            "e089450d-a368-4b93-9347-3dc1b910a7f8",
             "bc36f065-7c18-4e48-9978-ac47083967d2",
-            "70588aed-5994-46f6-b429-57b468246383",
             "8d46e0df-9eb8-4e99-b79c-fc78eaf57d0d"
         ],
         "main_article_id": "f02514ed-278b-46a7-9cc1-9bf8b8338d04",
@@ -2361,13 +2101,8 @@
             "b9effade-0a92-4687-a2db-c303a3e43389",
             "0d276df2-6115-4672-aadd-4b069bd47c65",
             "aa426b15-42ae-4156-94e2-4b7c2b87c554",
-            "ef75e838-77df-46fa-aa31-128a46abd29c",
             "6d8f2a93-cf7e-44ce-b3e0-c05210be133f",
-            "9800de17-9dfb-4637-936f-8edf42fdada6",
-            "903c7b04-cf61-4c51-96a7-f4aa23d2677c",
             "d4d892eb-7b74-449f-be60-b016f83ceae4",
-            "43b3f7ea-2d0b-43a6-9bec-e64fabc10dcc",
-            "93ab9384-c54a-425f-8d87-dddf8afe2b95",
             "db3b40b0-b1a1-4f0a-8502-f6dbcaf15407"
         ],
         "main_article_id": "b9effade-0a92-4687-a2db-c303a3e43389",
@@ -2392,20 +2127,16 @@
     {
         "cluster_id": "87a25e50-7af9-4a6a-a270-4e8b71e9c87b",
         "articles_id": [
-            "2155d90d-b943-421a-9a7b-4f8ed750ada4",
             "872947ae-30eb-4dfb-8a32-7abcdb8a8a3d",
-            "12eeaeb9-420d-4c63-95b6-87205405e774",
             "971ddfcf-8e5d-4000-97b1-784448c36b06",
             "22e116cb-d8de-48f5-8755-335b0c8e9ff4",
             "366c97eb-f329-4cd9-9aac-314b0396b926",
-            "8c3161db-74d5-4d3b-9d84-2b54a6163052",
             "f70834ab-ed19-4bc2-b3eb-cee35d95c287",
             "9ccc05c1-08b6-462b-ae02-ba255b8070f2",
             "638716d8-422d-480d-af95-a1294dfab132",
-            "6d071a6c-0476-47fb-ba52-6298f0d9d949",
             "cfe485ed-87bb-4c09-990c-3666b090a77f"
         ],
-        "main_article_id": "2155d90d-b943-421a-9a7b-4f8ed750ada4",
+        "main_article_id": "cfe485ed-87bb-4c09-990c-3666b090a77f",
         "creation_time": "2023-08-06T13:13:43.934000",
         "last_updated": "2023-08-08T11:44:01.982000",
         "domains": [
@@ -2429,15 +2160,12 @@
         "cluster_id": "badd5047-0b68-497c-be0e-8f7c24ea145a",
         "articles_id": [
             "8d27eafc-cec1-4b66-b7a1-c0e341053493",
-            "4b23b592-351f-4ba7-a327-83d2b6f02766",
             "589a27b3-d09b-4995-9bd0-7dbefc44b823",
             "a782244f-9a39-4eca-9a18-c9e892d4b457",
             "c60daab5-9be0-4737-ae0e-eaeaea24f756",
             "a199d830-3c37-44c5-888f-1b13ddc9c6b4",
             "3ee2049c-1f56-4235-a792-c449a88ec284",
             "8f07e6bc-4265-43f1-9198-8b72d6d2ec5a",
-            "b987af83-c891-4d25-8eb2-297b93ed3090",
-            "ad086b2e-aac0-4c2a-9791-d121d0387d8d",
             "5e2886a3-9eee-479c-b13f-df53043cb26d",
             "ab20dc51-0e19-460f-b95a-6383bf1b1d11",
             "0d63b860-0249-4161-8d80-9d8dd59e1aba"
@@ -2460,17 +2188,14 @@
     {
         "cluster_id": "cb9af82d-6ea6-43fb-9207-ba369da272cc",
         "articles_id": [
-            "68bbf062-c2c3-47fd-8c13-b279c8767658",
             "ec4d09f6-6c50-4fc0-a3ab-ce5468b2ee85",
             "a34c72b0-a97e-4395-8195-30491f453bde",
             "650b5e9f-76a8-4b0b-8e1e-657188f9551f",
-            "846036a1-d616-4908-9c51-be2afbc54623",
             "bbf4d935-da2d-4bde-af25-af0d31602fb3",
-            "78e092ba-1c37-4d8b-889d-e0ab8332e76d",
             "db4f4e8a-c570-4469-b234-f44321f314ee",
             "1e103124-3ac5-4b95-a36e-1c775225eb6a"
         ],
-        "main_article_id": "68bbf062-c2c3-47fd-8c13-b279c8767658",
+        "main_article_id": "ec4d09f6-6c50-4fc0-a3ab-ce5468b2ee85",
         "creation_time": "2023-08-06T13:13:50.883000",
         "last_updated": "2023-08-06T19:16:31.399000",
         "domains": [
@@ -2484,19 +2209,15 @@
     {
         "cluster_id": "214377f5-8930-46a1-8bfa-20ee43205cba",
         "articles_id": [
-            "40e7fc58-fd1b-4706-b2da-59fd6a0ae4c0",
             "7b7ab4a1-61f9-45d9-9aac-c207f254292a",
-            "53ba150a-851d-4ee8-9d34-b509f7b01f8f",
-            "8fa89773-fccd-4a55-bf14-f00056a3b9f4",
             "c4892dff-9c37-4a01-8b6b-872c064615ac",
             "39c4cf70-35c1-4d89-8d85-375446e00ccc",
             "9036fbbc-2b29-40f6-9fcf-7b40dbc31f1f",
             "fb739762-9ff7-4cb9-9570-dad5e3f5ca77",
             "c689f021-8e1a-4c6c-87f3-9e90f4d1b6d7",
-            "afd70718-9033-4d78-aab9-67cd7a888b86",
             "379093d8-188f-42ff-82c3-5a706b95114f"
         ],
-        "main_article_id": "40e7fc58-fd1b-4706-b2da-59fd6a0ae4c0",
+        "main_article_id": "7b7ab4a1-61f9-45d9-9aac-c207f254292a",
         "creation_time": "2023-08-06T13:14:03.243000",
         "last_updated": "2023-08-08T11:47:28.132000",
         "domains": [
@@ -2518,20 +2239,14 @@
     {
         "cluster_id": "17521b3a-cc86-45e2-ad3c-e3271a0d0087",
         "articles_id": [
-            "abe53862-293e-4d05-a530-54f9381d603b",
             "3237202c-9438-4e9d-ae77-18525360cc86",
-            "6c48b544-1796-452c-862d-ddd9178c36df",
-            "e25e0ab2-3b0d-4b2d-8b0e-86b884863192",
-            "ed349605-807f-4c7f-9db6-81fcdfbc9e75",
             "ddf9c035-3603-46d0-b218-6e2a596ebfed",
             "5ea2d618-0d35-41e8-9b81-dfa5df82e0db",
             "535103a4-368e-4216-96f4-e45a900639e3",
-            "538351ee-b267-47d9-af05-dac6f55b8def",
             "64d65cb1-43d1-4ba9-9c84-31a7ba9998d0",
-            "ddcf06e7-7ee6-4a93-9964-12f70f89ed45",
-            "953d910d-b347-4786-b8c4-c461bdf5e424"
+            "ddcf06e7-7ee6-4a93-9964-12f70f89ed45"
         ],
-        "main_article_id": "abe53862-293e-4d05-a530-54f9381d603b",
+        "main_article_id": "64d65cb1-43d1-4ba9-9c84-31a7ba9998d0",
         "creation_time": "2023-08-06T13:14:06.475000",
         "last_updated": "2023-08-08T11:47:07.102000",
         "domains": [
@@ -2555,10 +2270,8 @@
         "cluster_id": "f8ec00ef-8a17-45ac-967a-d1dcd102784e",
         "articles_id": [
             "2d266758-4113-4a47-959d-266c6f29ba4b",
-            "b45775ac-2978-4f05-944b-c0aeb599bc49",
             "57ca7643-7ec3-420c-8bcf-eeafb529d046",
             "ac6bf8f6-cd05-4ac5-90c5-7809ee619bec",
-            "575f4584-4294-490e-a52b-ebe554e767a7",
             "4970ee52-f1d1-4199-bfb5-8fb1c85b5e9d",
             "05a51e8f-dc88-4d07-aa7b-fa5109a12567",
             "3374c00e-6b83-4434-9a2c-8f46d23053ea"
@@ -2583,21 +2296,15 @@
         "cluster_id": "6e14bcec-66eb-4df9-9423-389ed5583d90",
         "articles_id": [
             "34a9b763-c91b-4788-a6cb-554e6907f98f",
-            "2f2c5de4-3919-443b-baa3-f84c5e270d1a",
             "a4873ba7-98ba-42fe-a4b9-edba0040943c",
             "e82529bb-87f8-4bbd-959f-1da54e2c5ed9",
             "dd2e68ee-6df9-4e49-8c51-6bc095c92723",
             "048d3160-400f-4244-88f9-274b5e599c10",
             "f94898f4-df84-4da2-9327-40172ca04ac0",
-            "1a062721-0e17-467e-8d25-667f82c6cd03",
-            "c708aa73-38a6-42dd-8ebd-b19ad3720f0a",
-            "bf85d29a-25e9-40f1-80e8-67586318de3d",
             "12db735f-a18f-4bb9-aa60-a77db044f717",
             "18ab2c90-fc70-4935-9cf4-ed42d88ac2e1",
             "1ec521ba-2d6a-46fc-b622-5f9233409438",
-            "2eaf8eb2-ca66-4f83-b91e-10b54f0c093d",
-            "d14c695e-c3a2-4597-955b-217aea3eee4f",
-            "58edad21-8359-4b2f-b708-3c16f8ec8a1c"
+            "d14c695e-c3a2-4597-955b-217aea3eee4f"
         ],
         "main_article_id": "34a9b763-c91b-4788-a6cb-554e6907f98f",
         "creation_time": "2023-08-06T13:14:13.848000",
@@ -2625,7 +2332,6 @@
     {
         "cluster_id": "5349d648-9df8-4eca-b709-971915c41a5a",
         "articles_id": [
-            "5e11c999-c562-4668-ab57-8aac082dda51",
             "a426bdc2-2d9c-4126-b191-c4e1dd0b054e",
             "95642022-119c-4049-b12a-eab2d268668c",
             "c0e6cccb-f882-42eb-a74f-7ba11fc96582",
@@ -2635,11 +2341,9 @@
             "901bb0fb-b68f-43db-94b6-bf6e8b248cb8",
             "c048d8ef-5ea8-4af7-9239-61b00c043a88",
             "ec02d355-b318-4507-bea1-9d2efc9e0503",
-            "df7ee214-0a1a-436d-a020-dcf906037167",
-            "28de8a58-c57c-445a-9704-6303142b7f34",
-            "c5729547-3b79-46c4-bcfe-9b36206647ab"
+            "df7ee214-0a1a-436d-a020-dcf906037167"
         ],
-        "main_article_id": "5e11c999-c562-4668-ab57-8aac082dda51",
+        "main_article_id": "c0e6cccb-f882-42eb-a74f-7ba11fc96582",
         "creation_time": "2023-08-06T13:14:17.431000",
         "last_updated": "2023-08-08T11:47:33.162000",
         "domains": [
@@ -2667,11 +2371,7 @@
             "d77d14de-f819-4d22-aa8b-1647f7d34276",
             "0e969f3e-7699-4b12-9b8f-9e83fbe789cb",
             "dc3a2ac9-ebfb-4d66-8334-d179076e3572",
-            "5abae74b-5af6-44ef-8097-17e6e03a89c3",
-            "59244d78-9d0b-425b-8e4a-8ea7197e4521",
             "e3af36ed-a43a-499e-a63a-e77c5a3ad9be",
-            "3b164797-01a1-487a-80ba-ae15a4034a53",
-            "151f5b5b-aef5-495c-998b-d21742f50d5d",
             "e1db28ea-b5ef-4df7-a733-4e62e0673df6"
         ],
         "main_article_id": "252af7b3-9525-4e87-a43e-4dce9279e6cd",
@@ -2687,10 +2387,7 @@
         "cluster_id": "d46d4b8d-e33c-448c-a52d-78ad272d6d12",
         "articles_id": [
             "ab3dc0a2-e0b4-4b8e-8e95-3462bf2a2202",
-            "c30cecb7-4566-4f95-9ab4-c46167d90821",
-            "5fe331dc-608d-4843-b079-03a426e4a000",
-            "62df5704-3f93-4cce-88da-99e672f27b11",
-            "6d80a2ee-02bd-4cff-a337-f884f0419512"
+            "62df5704-3f93-4cce-88da-99e672f27b11"
         ],
         "main_article_id": "ab3dc0a2-e0b4-4b8e-8e95-3462bf2a2202",
         "creation_time": "2023-08-06T13:14:26.044000",
@@ -2707,24 +2404,17 @@
         "cluster_id": "7811e500-907a-4c66-882d-86ea63cc9489",
         "articles_id": [
             "ba00d3d0-165c-446c-b739-abfc392af4ec",
-            "03cdf573-0f41-46cd-a2b0-2d29e782489a",
             "1f61b2f9-3945-4a2e-964a-864740a0b592",
-            "dd48e882-e570-46be-ac1a-1a3e6f74a268",
             "e7633b57-fb38-4691-901b-3487d6d69c61",
-            "7b7fb063-c095-43c9-b2c5-0b25b6e1467d",
-            "80270181-22fc-41c1-9652-a6aefe52504e",
             "6a311e2e-ee1a-4cba-b7f1-47a0095a71d0",
-            "727e08f3-6d19-45a5-92fa-2024f0242a93",
             "fce0c1c6-f32d-4b8b-87fc-b8170f3fd0a9",
             "2de13c33-22bd-4d9b-854e-48b08df81b61",
             "3b0d97fe-ccae-4aa8-a7c7-448a2324810b",
             "4624dc7a-487d-4206-8312-bd07833bc503",
-            "38d3f6ef-1255-4f51-b4ff-38ed4570f8af",
             "b10c66d2-938d-465d-9294-1c9ab2449123",
             "02713552-b5f1-4913-9505-d2206b11247b",
             "4559cf7b-30d9-4b00-aac5-0cc53a9f8e72",
-            "2205b3cb-0b3d-4f38-8af1-53ca19ad0fed",
-            "a4bccba0-3eda-4271-8fdb-f7eb54c619de"
+            "2205b3cb-0b3d-4f38-8af1-53ca19ad0fed"
         ],
         "main_article_id": "ba00d3d0-165c-446c-b739-abfc392af4ec",
         "creation_time": "2023-08-06T13:14:31.390000",
@@ -2757,15 +2447,12 @@
         "cluster_id": "434d0f75-d297-4696-add7-5116eb1a7a4d",
         "articles_id": [
             "aeb79409-50d7-4b78-81a7-330beda3dead",
-            "f37ef245-7f74-4b28-a04a-13d6668f254a",
             "9583d0d6-2462-429a-a9cb-6874f73be5fb",
             "e7dce2f8-c370-41c0-a0e8-94751fe35c8e",
-            "7fd2be53-713d-4ada-9506-945003eb4507",
             "31f45dee-d2b2-48ce-b673-f33d7c7029e5",
             "ea11a853-51ed-4cd3-b0e1-fc49d5568cb3",
             "18ba510f-fd90-49a0-9b65-c045ed3b15b1",
             "e0e6fe6d-a1ff-4f90-97bb-b656068e787a",
-            "b95fcdf4-4500-4b8c-8192-4b4a5dee3565",
             "a2938af7-4264-4a95-b0bf-ad3929599437",
             "053920a2-59cb-4608-8b7c-5dd45b7b24fc"
         ],
@@ -2794,14 +2481,10 @@
         "articles_id": [
             "6317b7a3-01a0-466c-950f-5f8f7ea9b787",
             "49ea7ca9-1834-42fa-971d-acc3ad1eae1b",
-            "99d4d433-3198-4bab-9364-f2b6bda0529a",
             "bd8d3a04-5902-4396-a925-0e231f11196c",
             "2e9dfd2c-41fe-4018-be9c-92b53a76c631",
-            "3547725c-1acc-4445-beda-df95385c255f",
             "a8c5c4ca-961f-436f-8d70-9dfdeeebb698",
-            "5f1a3fd1-5242-48d9-9cdc-f2c0be1fdf5c",
             "14601a4b-e507-4c35-ab64-75bf92ee63ee",
-            "11491a1c-7002-4e53-8696-f98e8919da3f",
             "72b8c48a-427f-40ca-8c17-9a621e8913a0",
             "ffa1f667-6674-4c5c-a8ea-629f804e65b7"
         ],
@@ -2819,17 +2502,13 @@
     {
         "cluster_id": "a2bf03bf-044c-4dc1-9f00-ad40fb6c7fed",
         "articles_id": [
-            "a297b169-baea-4441-b3cb-8c999c22cf8e",
-            "41e0a669-b5a2-4718-8904-c5799fafad0e",
             "823422f8-e50a-41d5-aeb2-953fba26b79b",
             "f6d424a4-a296-42a1-af26-376ec0d0f8c9",
-            "90d9367c-36e6-40d4-9ba6-b81e510d271d",
-            "545d5e09-2c7b-4df7-827a-69669451c237",
             "d8781976-9b5b-4f06-966f-f100c831c06f",
             "a2f5aff1-13f9-4dd7-90f4-372479484bdc",
             "408d8044-74fc-4c0f-a300-148c5df621a9"
         ],
-        "main_article_id": "a297b169-baea-4441-b3cb-8c999c22cf8e",
+        "main_article_id": "408d8044-74fc-4c0f-a300-148c5df621a9",
         "creation_time": "2023-08-06T19:15:37.682000",
         "last_updated": "2023-08-06T19:15:37.696000",
         "domains": [
@@ -2848,18 +2527,14 @@
         "articles_id": [
             "a880def7-c5c8-4d99-9f73-ae63cfb4162c",
             "dc720d23-7971-4d30-b8ce-3602560c6920",
-            "fa1d543c-0ecc-4518-b5a1-1fbf9a25adb7",
             "fbcf8937-684e-4d7d-a10e-4dcafb614e94",
             "ca618061-fa43-4a11-ab15-293fad9bb4d2",
             "1b37f0a3-4d05-466f-a613-9955871d178b",
             "db43cdd2-1ff5-4cb4-8c09-841db492a869",
             "4f885e8e-5328-408c-bb77-0fe0b97f2845",
             "17fa55a2-78fa-425c-b5ef-b579a5fb2efb",
-            "53439c00-9a35-4b10-8641-15eef2f66c4a",
             "33d43bc4-3ac5-4ef1-93fa-fe1a22c554d9",
-            "03aac1ac-ed6d-4bcd-8ab0-3d1f12d64b0a",
-            "cffde0a7-23ee-444b-a67d-f76d55c6386e",
-            "f2311611-dd95-4e38-96e0-23892fc149ba"
+            "cffde0a7-23ee-444b-a67d-f76d55c6386e"
         ],
         "main_article_id": "a880def7-c5c8-4d99-9f73-ae63cfb4162c",
         "creation_time": "2023-08-06T19:15:42.220000",
@@ -2887,15 +2562,10 @@
         "articles_id": [
             "db16374b-0e04-4f04-98bb-aca5d47e5cb9",
             "5384e9f4-43d4-467d-809e-d329ca34484f",
-            "f1f1662f-a20e-4dff-9c26-c38a71370d94",
             "0fe582a1-0562-4143-91c1-eef7019fb605",
             "09f27079-98d5-4d71-a962-7d651782af84",
-            "690a3cc3-18ba-4de4-bacb-5a13af43c779",
-            "a3d83425-0b9d-46e3-835d-4a3e14b8e130",
-            "b6731a9b-a90d-43fd-a492-d56cad329c2d",
             "df2a1a53-3ec9-45be-83a3-3eda29fa5d2f",
             "59c69ac0-a40f-4684-887a-5ad66c1b67c1",
-            "fda0ef00-9877-4ad7-a7a9-f276e16d85a4",
             "fba5f4ac-a8a5-47c9-91c9-2203d1e17a3d",
             "fce8e187-d114-4074-a83a-7a0b182eef8b",
             "292c800e-5187-4052-8763-8358a1da01a9"
@@ -2922,19 +2592,9 @@
         "cluster_id": "b778d35d-9dda-477a-8312-9b932f8aeea2",
         "articles_id": [
             "b88b2660-127e-4c1d-98df-03ce59d7b2ee",
-            "14dc98f7-467d-4e2f-bdf3-3e018e1a86cc",
-            "e454ae2f-d154-454c-8d7c-84be072f359f",
             "fc2de313-aab7-4448-a0be-6f8bedecb396",
             "d9d894cd-6794-41b2-8d37-7523f7a764a7",
-            "f7164f62-4a49-4366-a12e-bd6b43c86582",
-            "1a8fcec4-a565-4f46-ad4a-4b27bc69c95d",
-            "fef10c77-ca8a-4abd-9320-fb2683080bae",
-            "48a1f1fc-a38c-48c6-a613-1d28c4dd9053",
-            "583a8f49-3333-471a-abe7-664ac2176dd0",
-            "e3f054e7-aff3-4dc7-8235-d51542577bef",
-            "10d71416-2f40-4921-89ac-891af74308a1",
-            "73776f33-728d-4645-8c0c-0c7e43e70041",
-            "3c6d5ff5-e100-4938-9597-cb031a8dcb37"
+            "583a8f49-3333-471a-abe7-664ac2176dd0"
         ],
         "main_article_id": "b88b2660-127e-4c1d-98df-03ce59d7b2ee",
         "creation_time": "2023-08-06T19:15:48.266000",
@@ -2961,19 +2621,15 @@
     {
         "cluster_id": "1dfff8d8-1835-4c16-96f0-f46b7a56375b",
         "articles_id": [
-            "1b2d2ef7-c6d1-43c8-a51b-eaa9fd0c480f",
-            "09b63feb-878a-4432-906d-3fd558928f31",
-            "2f8ad842-b227-48c7-9123-e8de4f319ca8",
             "fa53073a-11cc-4754-8e33-332bdb9a2790",
             "c55c598c-a354-4978-ab5f-7b1b48a95eda",
             "aebe2ea8-9547-4592-a59c-247e22d82365",
             "706d1397-0100-47f3-9dab-229f7746ff46",
-            "3431b455-3567-42a6-a229-dd518de44e79",
             "08c932d6-9964-4075-b691-afe897876cda",
             "155ae5a2-8e42-4ad7-b59a-07f336b7af46",
             "87a0f07d-4b7c-47d0-8998-649316898d99"
         ],
-        "main_article_id": "1b2d2ef7-c6d1-43c8-a51b-eaa9fd0c480f",
+        "main_article_id": "c55c598c-a354-4978-ab5f-7b1b48a95eda",
         "creation_time": "2023-08-06T19:16:00.323000",
         "last_updated": "2023-08-07T01:17:52.173000",
         "domains": [
@@ -2993,17 +2649,11 @@
         "cluster_id": "53353e58-9a56-4530-9bab-7fd32211ff81",
         "articles_id": [
             "3ba3eb8f-6e18-4a98-8883-fb568c8a7b90",
-            "bc08013a-0f77-43f5-ae04-73529d461aeb",
-            "75199fb0-3091-491d-a8df-6bf30c99d8a2",
             "04835d45-60a0-413b-bec8-28e49000dec4",
             "ee127ecf-73d3-4e72-9960-38b0902b922c",
             "cf49e479-de6d-442b-9d9d-53b9038419ce",
-            "8e318d11-a01a-4cff-a458-c6529e4809be",
             "b0e0f71d-e142-41bd-8be4-4533c3e428f8",
-            "d49055a0-2532-4ca3-adbe-3fe9b652df31",
-            "dad46b83-61c1-41d9-b9bb-d4db0af7ad29",
-            "cef51412-a5d5-4af0-b194-86e9a5e1d09d",
-            "057e31fd-5ad2-419a-baef-2b5d5a5f5154"
+            "d49055a0-2532-4ca3-adbe-3fe9b652df31"
         ],
         "main_article_id": "3ba3eb8f-6e18-4a98-8883-fb568c8a7b90",
         "creation_time": "2023-08-06T19:16:01.169000",
@@ -3030,15 +2680,12 @@
         "articles_id": [
             "097d4fc6-4a81-43da-9395-539213f11b1c",
             "ee2d825e-ffcf-48cd-8330-de93ef0fbb33",
-            "0be8b16d-1f00-4d85-865e-9232c6ef41d8",
             "56434e08-ebe2-4e4c-bb19-1bc1cdc633db",
             "eef3fac3-9773-4127-b90e-2d53fd412931",
             "b88885b6-0f59-4505-b07d-59f0bfa4b6fb",
             "313044cf-716b-4676-a36e-111853c19f62",
             "dc24c6e4-590e-4c6b-b758-77f212d7c109",
-            "dfbc7134-3557-44ff-b1f6-a26ee36ce3bd",
             "5b4df5a3-dd52-4765-b6fa-de74f628161b",
-            "188b44c0-8543-4f1b-9020-79f0eeaa274c",
             "96f5672a-65c0-429e-89df-053722ba7335"
         ],
         "main_article_id": "097d4fc6-4a81-43da-9395-539213f11b1c",
@@ -3064,14 +2711,11 @@
         "cluster_id": "22273e8f-436b-45b3-af63-9b8a867a9b63",
         "articles_id": [
             "8cf91403-489b-49f8-86ac-374810100e07",
-            "3ccaf61c-0d7a-488e-80ba-a51c500ad7c7",
             "412463bc-9c4d-4ba0-ad6d-5b282f6a390c",
-            "002f9553-1ffb-4641-9f92-945f2f3017cd",
             "c1af5d84-8bb4-4478-8704-7d2a74a8d9ef",
             "54d3400f-7d22-4983-8d73-b8980b2d6f82",
             "0c09b23d-1419-4d4e-bf48-56f9656358f8",
-            "2e5121a2-6e4b-41bc-8545-a6e1e73a4975",
-            "04bc5b88-b730-4267-901b-aa5508f39a01"
+            "2e5121a2-6e4b-41bc-8545-a6e1e73a4975"
         ],
         "main_article_id": "8cf91403-489b-49f8-86ac-374810100e07",
         "creation_time": "2023-08-06T19:16:06.931000",
@@ -3096,16 +2740,12 @@
             "decc0f24-6f60-49c2-8566-133ba6e1f1b8",
             "31633cb7-5348-46b8-b326-6f0d53d4f7c7",
             "19e3a42a-9608-4f29-b793-ec2ce1db5066",
-            "13b0abf0-38b4-4f34-80cb-116307a9e8ec",
             "49db9637-9c41-4f11-bc4f-c76c7e246235",
             "2923c422-703e-4d98-981a-6e8abb1e77e7",
             "b2647a9e-1fcc-4436-a2ae-6bb7389cb6ef",
             "ad52ffd3-ff74-4cf2-857f-5148cb5dd7e0",
             "f5f16680-b9cb-4d63-a84c-f7b7251fbea7",
-            "d4f2af5d-89da-49d7-a03c-f06b35b730f0",
-            "d21c946b-5dc9-4f59-8f1a-411c80bc613f",
-            "1e6cec0f-e25c-4eb1-9e00-b8f7a15ffd5c",
-            "618d4068-6fd6-4add-bd36-8bfee26f5500"
+            "d21c946b-5dc9-4f59-8f1a-411c80bc613f"
         ],
         "main_article_id": "decc0f24-6f60-49c2-8566-133ba6e1f1b8",
         "creation_time": "2023-08-06T19:16:08.909000",
@@ -3137,8 +2777,7 @@
             "8a16ef32-b6f2-473a-8d49-375bc48d76a5",
             "c7025908-feda-4039-b69e-29431fe9e539",
             "df605e08-4fc0-489f-91dc-105c055da891",
-            "8b5c9462-f47c-4ab5-9bfb-df7b2af64879",
-            "039ed32f-51ca-4052-96ec-42164510a6a3"
+            "8b5c9462-f47c-4ab5-9bfb-df7b2af64879"
         ],
         "main_article_id": "7dc39f0f-9f84-4605-bac9-4c64f58494ab",
         "creation_time": "2023-08-06T19:16:11.203000",
@@ -3160,19 +2799,14 @@
     {
         "cluster_id": "23152020-a9d8-444b-8e76-55484db775eb",
         "articles_id": [
-            "d3cf2e2e-831f-4610-852a-e2c7965feb5e",
             "c744183c-6b6e-4425-83eb-8aa00c22fb0b",
             "980e343c-2a64-4051-a036-2a62b56a16c1",
             "7080dd82-09b9-4b70-b7ed-fafbd1c739d7",
             "70587622-25d4-4030-86a3-5924d4e0b283",
             "f679067d-6783-44b0-b90e-12decc8a2c44",
-            "3ebe295e-d5c5-490f-ab30-660ac92d4100",
-            "8bd892ea-4f9d-4b91-bacb-74e18bc92d3b",
-            "8e11eaf5-3d7f-42b7-8390-d16b3a799068",
-            "efaf0339-0904-4341-9309-ac6c92c136b2",
-            "abd10d7f-6709-4ed9-9038-85d64b5c1d37"
+            "8bd892ea-4f9d-4b91-bacb-74e18bc92d3b"
         ],
-        "main_article_id": "d3cf2e2e-831f-4610-852a-e2c7965feb5e",
+        "main_article_id": "70587622-25d4-4030-86a3-5924d4e0b283",
         "creation_time": "2023-08-06T19:16:12.750000",
         "last_updated": "2023-08-08T11:43:58.855000",
         "domains": [
@@ -3196,9 +2830,6 @@
         "articles_id": [
             "ce0fbffd-a03b-4a61-96b9-5e16711439fe",
             "d2d04cc1-657c-4c36-beb1-50015759a889",
-            "8f10468c-7190-45a0-a688-4f79a1f2a525",
-            "fa637a3b-b89c-4d65-8806-3802e4fabc12",
-            "14284e5e-ab26-4a37-aaa4-18b1742018f7",
             "083eb0c2-e1c5-4708-8f10-e2ff3943f737",
             "fbba452e-c0ee-415e-8436-57cef4a532f8",
             "3c3c2def-9a24-40b4-a7e1-e1071826833b",
@@ -3222,20 +2853,16 @@
     {
         "cluster_id": "b2960487-ca0e-45fb-b32f-e56bd38d6e25",
         "articles_id": [
-            "be5551bf-3dd7-4ccf-9258-f87f65c5b3ff",
             "faa15567-1074-460e-9db4-56fa4bc18f4e",
             "68440896-5cba-46c6-88ff-55c57cae4e30",
             "b3e03989-b23d-4c0d-9f0b-04be632758b5",
             "8b041c60-d096-4fcc-9ba7-27ab8b1a71e7",
             "44f0863d-ac95-47a6-8f75-d4f9a7116910",
             "04437d85-9c61-4055-a38b-1f85383ae1a5",
-            "679f6b17-1ca0-4be8-8c69-ad8d1d06c366",
             "a179c960-3b25-4b13-817d-644233140f02",
-            "68a0425d-c3e6-4cc6-b3ce-93b8d1922042",
-            "8b829bd9-fc3a-46a1-94f1-108de266c6b2",
-            "f10fef43-30ca-43f2-85cf-0e28309d698e"
+            "68a0425d-c3e6-4cc6-b3ce-93b8d1922042"
         ],
-        "main_article_id": "be5551bf-3dd7-4ccf-9258-f87f65c5b3ff",
+        "main_article_id": "8b041c60-d096-4fcc-9ba7-27ab8b1a71e7",
         "creation_time": "2023-08-06T19:16:17.568000",
         "last_updated": "2023-08-08T11:47:12.893000",
         "domains": [
@@ -3264,8 +2891,7 @@
             "f8c68bf2-8e99-444d-8b42-1a78bd5319fe",
             "abac044b-3d53-4636-b4a0-5dbd90c49fb2",
             "bc217aa3-0369-4dda-8b5c-d6fb36bfda34",
-            "e02d644a-318e-4a92-8fc2-88fabbd8faa7",
-            "a623614f-3c5c-4903-b65b-3cbed6398fb6"
+            "e02d644a-318e-4a92-8fc2-88fabbd8faa7"
         ],
         "main_article_id": "bc0b91f5-4fe4-48d5-933f-0cbf2dc4160e",
         "creation_time": "2023-08-06T19:16:18.458000",
@@ -3287,13 +2913,8 @@
         "cluster_id": "748b68c4-650f-497b-b079-43706d3b7e20",
         "articles_id": [
             "10013213-e332-40bf-b0fb-c38c920fb38f",
-            "dbaad490-c8bd-481a-a7f0-aff7cce915f7",
-            "1d015035-58e8-440d-b9e4-3832aceb4054",
             "47432a93-3b06-49a3-8586-c9b099571f7a",
             "f0015213-e0a3-46d9-90b0-8c92e05879e7",
-            "673a0a81-a5db-44e3-a1df-39bcf3f39e43",
-            "cbf52790-2c9f-48c9-9161-26a458e5cf81",
-            "4ffdd731-398e-4482-8ce4-f655a7ef3662",
             "d0ae070b-7258-4656-8997-815d919955c9",
             "cd30bbaa-4878-4e84-b789-df2700040b1a"
         ],
@@ -3317,23 +2938,17 @@
     {
         "cluster_id": "b360a14e-2e36-4a74-8b04-c38c0fad2e75",
         "articles_id": [
-            "80fb1161-8467-4479-8d3f-437f089abf91",
             "fb7b5032-5eb7-473f-b6e2-ab1df2f6feb4",
-            "e1ebe35f-8d74-4d24-955d-e151634a2473",
-            "a49f8a00-38b9-4b0b-8f43-e3ebec706af4",
             "d5e43263-e0e7-4624-9a6a-ed41c867944c",
-            "0eb2cfe2-4f09-4fa8-9c0c-ae02682b7ff5",
             "bff601e8-dd28-471f-a259-e35f353e837b",
             "b27e5c0e-3329-44c1-ad4b-9785357bcd20",
             "c065aa14-6355-4f0a-b4fb-88333f6cffc3",
             "c9d42207-0245-4b80-9b6d-002facfba396",
             "d2e4a614-ed7a-4320-aecf-e12fe2ef40b8",
-            "5a2e5274-1801-4f71-b6ba-1f0864d9fdd0",
-            "ea74c4dc-655a-4db6-ba62-9cd7491ac46b",
             "98ec83f0-4926-4057-af7a-57e944c173b8",
             "76665fc1-28af-4a4f-90ab-aea31d19d523"
         ],
-        "main_article_id": "80fb1161-8467-4479-8d3f-437f089abf91",
+        "main_article_id": "98ec83f0-4926-4057-af7a-57e944c173b8",
         "creation_time": "2023-08-06T19:16:21.737000",
         "last_updated": "2023-08-08T11:47:15.861000",
         "domains": [
@@ -3348,12 +2963,9 @@
         "articles_id": [
             "7500097f-572d-4e7f-9d2a-7903927d0830",
             "24f196a5-3960-4186-b455-55f9862cd329",
-            "0655aab2-82af-4e0e-a899-cd991e8a5dfa",
             "65e6920c-1521-495f-81c7-56b22f601b39",
-            "a4dfaf2e-9884-41f0-a7ec-90028cb70dc9",
             "f02e07a3-0ed6-44ef-95cc-4340dce9e2d1",
             "f206673b-d058-45c9-af3c-4ad5a76843bc",
-            "a526a713-f66e-4bb1-ab0a-8ef072a9086f",
             "b2ab23af-aa06-41fa-b31d-6cd57f25e334",
             "a1196aad-1805-4321-97cb-6518c992e7a8",
             "7686309f-f9ce-4391-9902-5eb71cadade1"
@@ -3383,13 +2995,10 @@
             "8813786c-14f6-4d23-ba88-b83933d15046",
             "8fcd2a7a-7899-4da1-9f38-f11dc644e6b2",
             "59519ea5-4149-4322-9729-93e92743cbb6",
-            "40504723-e9e3-40f6-b0bd-57435ca0ec6b",
             "d7097321-bc34-4248-9e2a-38bb5b2535bd",
-            "5b4263e4-5471-4e54-b868-e28241ea6eb0",
             "6130ee12-68ca-45ed-897e-eda49ff1e7b3",
             "42d26b23-caab-4569-a1e9-1b6558f888fc",
-            "9d577992-f7f9-46f5-bf1e-bafc8ba696c9",
-            "3cece7cc-48f7-4f33-9d5b-6f7a4874bce1"
+            "9d577992-f7f9-46f5-bf1e-bafc8ba696c9"
         ],
         "main_article_id": "8813786c-14f6-4d23-ba88-b83933d15046",
         "creation_time": "2023-08-06T19:16:24.404000",
@@ -3413,16 +3022,12 @@
         "cluster_id": "1e70b447-0b14-41b7-949b-a45cf68e88d1",
         "articles_id": [
             "45fd71e0-00ee-41e2-b945-10d217980efa",
-            "16f9e9e0-7b62-49b8-be0f-7c029a1d5f35",
             "3c466130-41a1-4e1f-8800-f8beac00c4ee",
             "9950a055-52e2-4cf2-bc77-775138dbb69d",
             "57cb8b03-ee88-4c34-ac56-87a4c192cc0a",
             "8827a26e-5dfc-4402-818e-33b49c20258d",
-            "b850321f-21a7-49e4-9225-89eaeff3d926",
             "80087dff-4cbb-43e6-a0aa-8139a0645a34",
             "024c4fb9-5687-42f3-816a-ee2f337bc651",
-            "68af3c3c-1b62-431b-a94d-ec61a78edf93",
-            "f91d6c70-329c-4d6f-8558-37a3ead67f35",
             "a86a772e-0766-44a5-829c-6da7c57740b9"
         ],
         "main_article_id": "45fd71e0-00ee-41e2-b945-10d217980efa",
@@ -3447,14 +3052,12 @@
     {
         "cluster_id": "4677cfd8-c538-4ad0-be71-0e177b04271f",
         "articles_id": [
-            "2b9832cd-56b9-4a88-b9e2-8b7da5574a12",
             "eda69d3c-c839-4158-a2a1-7cb9f287012d",
             "b9a27994-7e1b-44bb-a15c-fe13ae951846",
             "93b44dce-6db8-493a-bae6-115b8593891d",
-            "137e6ee0-6165-4e15-a66f-62fe09953060",
-            "4abe6ec7-ad81-4c86-a6b4-5c9591e4d0ad"
+            "137e6ee0-6165-4e15-a66f-62fe09953060"
         ],
-        "main_article_id": "2b9832cd-56b9-4a88-b9e2-8b7da5574a12",
+        "main_article_id": "93b44dce-6db8-493a-bae6-115b8593891d",
         "creation_time": "2023-08-06T19:16:32.233000",
         "last_updated": "2023-08-06T19:16:32.242000",
         "domains": [
@@ -3472,15 +3075,10 @@
         "cluster_id": "345183a1-1339-427d-bbbe-531762943e40",
         "articles_id": [
             "37390d4e-3eb3-4162-93e7-bc286bb300c0",
-            "9b51a41f-069d-4794-b49b-dba7d282d226",
             "053770d2-fbf0-42e1-b7ea-1cd2a37b5d65",
             "244bff68-85cd-45a2-9cf5-b8e776178b21",
             "35c72cc8-ba63-42ed-b369-31dd625af719",
-            "f67bc398-8a3c-4d2b-b15d-4bcb9a92b3a8",
-            "7148d901-230f-4044-9198-8c29c3fdd1a2",
             "23af6dfb-7aa1-48ac-926c-388c73336f81",
-            "be2e9911-7b11-4a37-80f9-623a42e01691",
-            "849313c7-6eaa-47dd-8db9-614e9e48b0cc",
             "469501d4-b6da-4b26-969c-c468d1151563"
         ],
         "main_article_id": "37390d4e-3eb3-4162-93e7-bc286bb300c0",
@@ -3506,11 +3104,8 @@
         "cluster_id": "d75b7747-2467-4d1b-b090-9c8a6129ee65",
         "articles_id": [
             "8a13ff6d-eb9b-4def-a307-efbbeac65c84",
-            "4a66542e-bbb5-44cd-9b1b-1d47fb16b0e4",
-            "2c89f55a-4149-4123-a5eb-1f6610f77507",
             "43938244-c16b-472c-8fe4-96d2e20600c9",
             "99c85aca-fd4d-4c96-a0f3-73af520d74bc",
-            "daba450e-6763-48bd-bdac-9ca0d7d2a921",
             "bc372a68-c0bb-4b94-bac7-8567c8b330e5",
             "90538eb4-289f-4a8c-ae0c-92780e52526a"
         ],
@@ -3533,13 +3128,9 @@
             "8b43ca9e-7d49-4d37-a757-8ed952532976",
             "5ddce260-23be-449a-8632-5574c42a71f9",
             "520923c5-8511-4336-98e9-5a7f6096fe21",
-            "ec3afd5b-a72c-4283-9878-3561c7b2c5e5",
             "25b975a3-5449-4cdf-9a02-fe859151f9c7",
-            "9cb7720c-614e-4d7d-9a71-18ce7cb11615",
             "c36f6d67-4920-416a-b5e5-ed5a72905d1b",
             "6593ff24-8013-4a12-896b-7220328d1f06",
-            "0e9a3e40-6207-46bc-925e-fc79d8a29d32",
-            "bc46622f-26d6-425e-ab75-be8c55e6bec7",
             "1117c677-6b04-4a1d-84c8-4e113a9ac84c",
             "690a4785-3815-43e8-b215-bc8ede86d610"
         ],
@@ -3563,11 +3154,9 @@
         "cluster_id": "a30fd2e2-9509-4878-8e68-d1d0e582abaa",
         "articles_id": [
             "8330750e-d8a6-4c61-af4c-94ef0be7d3f5",
-            "46d241b7-7de0-4fbc-9226-c307963c32e8",
             "6ee0498f-3fcd-4325-ae3e-a904aaa9c28d",
             "fed7a6f3-7f5a-41b9-a46f-f408997818d8",
             "c6e31739-865a-4cfb-8d10-d9370000481f",
-            "d9111d2f-177a-4d4e-be19-ce8f126bb0bb",
             "42f7e584-7cba-414e-979d-506b381e6637",
             "09c1fa50-9b86-4a7d-8246-dc8e6eedebe4"
         ],
@@ -3593,10 +3182,8 @@
             "c899d019-8235-4e35-837b-f7e1d9b3d42d",
             "6112e2ee-c993-43b7-89c6-9693c285b071",
             "43d1652d-25fc-480d-addf-8273162b5b6d",
-            "19402234-81e0-4b76-a0ad-cb2e9d3a25fe",
             "84cb52d2-8835-4543-a9c2-fef2c349f719",
             "03834757-8a68-4f84-8ec2-6684344c7383",
-            "eef088c4-2d00-4b6a-b5f1-8c71cfd6a3a3",
             "31f7cb39-e1f1-4406-8eda-f8242d472afa",
             "39e698f8-ed02-460b-bc49-894fec5d5257"
         ],
@@ -3620,20 +3207,12 @@
     {
         "cluster_id": "6b3ca746-0698-4603-ab11-f967055005aa",
         "articles_id": [
-            "95f73447-552e-494b-afb6-3d8d1c6a0c7c",
-            "77f6d4ec-7c3b-45d0-a7bf-704a46dc2f39",
-            "adcefa75-823d-4fc9-9f95-4b9f3c0df50b",
-            "9e5e75ba-df19-4dbb-8814-1938f4f9e064",
-            "4118cbb0-971a-4c93-b47a-2fe11264b4f6",
             "e8f8766d-fb07-44fa-a7d8-f39063f99f27",
             "dd5d8b92-4bc3-4e76-bbde-1d059248ee06",
-            "f7c18a52-1be7-4c18-8e3b-9986c67a5343",
-            "ea0f9867-7826-4af3-a079-0aa8d202d13e",
             "1bc59558-7216-4cac-a132-e7e91a7e2f81",
-            "52aaadc2-494c-4508-8dfd-7053bef60c81",
-            "98edd6d2-eab3-45b8-830e-6cdeabbc71c7"
+            "52aaadc2-494c-4508-8dfd-7053bef60c81"
         ],
-        "main_article_id": "95f73447-552e-494b-afb6-3d8d1c6a0c7c",
+        "main_article_id": "e8f8766d-fb07-44fa-a7d8-f39063f99f27",
         "creation_time": "2023-08-06T19:16:55.582000",
         "last_updated": "2023-08-08T11:47:26.681000",
         "domains": [
@@ -3657,7 +3236,6 @@
         "cluster_id": "a5ad64b1-ee66-450f-a300-95d8578ed962",
         "articles_id": [
             "72ec2dd3-c132-4408-a43b-3e1a8f0c1b4b",
-            "d49e7acf-9a8c-4b0f-bf0a-171fbeaac66a",
             "f142a65c-01f5-4238-86de-04b52d57729f",
             "cfeaf282-efe7-423a-9f46-8d9d5fc09794"
         ],
@@ -3677,14 +3255,8 @@
         "cluster_id": "026fe1a4-3d80-4562-a177-3893c43f69cd",
         "articles_id": [
             "76336f08-c31f-4ea9-9b9d-4519d59153a9",
-            "5fe37c1b-3f35-4456-a94c-2298d0861a88",
-            "2dd1a109-7b62-4825-9519-ffd043408f95",
             "0c3c5019-85ac-491e-ae50-2d1baf1170c3",
-            "07b27dc4-a939-4f94-88a9-a59599b5434d",
-            "88111080-5f98-49eb-b1ac-bd38474f79c7",
-            "80b7d364-1ed0-44e9-b51d-fbbe37dc48bd",
-            "ad727aeb-61e5-4f8f-a984-d2d988de3cfa",
-            "67c18537-ce15-4617-bb60-c142ea7da616"
+            "80b7d364-1ed0-44e9-b51d-fbbe37dc48bd"
         ],
         "main_article_id": "76336f08-c31f-4ea9-9b9d-4519d59153a9",
         "creation_time": "2023-08-07T01:17:30.024000",
@@ -3707,13 +3279,11 @@
         "articles_id": [
             "8b5eca30-72c8-4ed2-a0f3-c1cb8d955ced",
             "e94332ca-327b-4d13-9f73-348362d589c8",
-            "9c4b0456-9a1c-4f1c-91ee-7d80db62c9e4",
             "517ca4c1-a36d-4bea-8d24-d2e75befe758",
             "1a4be55b-9be0-4717-8c44-ce3829ca06d1",
             "885c23ee-c5bf-4d20-ba5c-2692d75a179d",
             "d198ef5e-478f-449a-ae55-4f280a2b71ec",
-            "3ca0ce72-37cf-4d48-ab50-afcdf3e6dc7c",
-            "a162adca-2a0d-4cd7-b0ad-5a154f7fde1c"
+            "3ca0ce72-37cf-4d48-ab50-afcdf3e6dc7c"
         ],
         "main_article_id": "8b5eca30-72c8-4ed2-a0f3-c1cb8d955ced",
         "creation_time": "2023-08-07T01:17:57.737000",
@@ -3736,16 +3306,13 @@
         "cluster_id": "4be6216e-5e76-43e0-a227-6bf91e13fd23",
         "articles_id": [
             "dfe3d283-e815-4491-a8be-03fe087dda80",
-            "7baa211b-6834-4adf-a3ed-dfe51613d36a",
             "e99eeb10-26d5-4b86-b182-1a55725161b9",
-            "b88771e8-c3ad-4598-81b2-b2c0dc0549aa",
             "8225e22c-ea63-465b-ac2f-ccea234c2a33",
             "5453a68d-f6cd-431d-92e5-dca5478f5c94",
             "fa0b846d-1e77-4a5a-b729-d89525693f26",
             "64062385-50f7-402e-b877-52377f097528",
             "26f221d2-fc63-4b8c-bd2b-07e47eb16b04",
             "d278f1a4-253e-4d81-b55b-6511eea13937",
-            "8d83f131-9c21-4203-99e4-2d538094e659",
             "40fd3e62-3578-4c96-9635-c45699c24c43"
         ],
         "main_article_id": "dfe3d283-e815-4491-a8be-03fe087dda80",
@@ -3770,19 +3337,14 @@
     {
         "cluster_id": "2bf15198-7dfd-4364-a287-4ab66d9540c5",
         "articles_id": [
-            "8018ee07-4c5c-4f61-a0f2-02665b8dea23",
             "17f15fac-e7f1-41f3-8bbe-471a2603143b",
             "9955c6b5-9e34-473a-981f-c1f3d8433e08",
-            "910b7356-f88d-46de-b041-94d2fd12ac06",
             "a7fc6cd9-1662-4632-8da4-248c61d05011",
             "f5799365-6d09-472e-b75a-bbe6eaa4f46b",
-            "e8cc7346-c30a-41f5-9463-fad049d0bb1d",
             "164ef0c5-3583-4575-b640-4113f1ddd533",
-            "69f7ee6e-0692-40fb-a852-ed1762d6c7b3",
-            "1f3a808a-3784-4fdc-afd4-77e3540ed920",
             "ee53b017-6320-433e-a09b-e3166a02094c"
         ],
-        "main_article_id": "8018ee07-4c5c-4f61-a0f2-02665b8dea23",
+        "main_article_id": "a7fc6cd9-1662-4632-8da4-248c61d05011",
         "creation_time": "2023-08-07T01:18:35.056000",
         "last_updated": "2023-08-08T11:44:09.824000",
         "domains": [
@@ -3803,17 +3365,12 @@
     {
         "cluster_id": "64036e3e-b764-4aca-8133-77e5fe8c58c6",
         "articles_id": [
-            "1d7c3a6a-6ddc-4c11-a199-d4038642122b",
-            "22d578aa-284f-4e92-857a-537436b26bbb",
             "5b8e5d8a-169e-4e05-a2c5-a438d4fd1d0f",
             "f3131f13-a45a-406f-9d48-adfbf17d65aa",
-            "768ff415-3190-46c9-9ddd-7586b4b3a9d2",
-            "53d74ffc-2c62-4f73-8f71-37e5d3b903f9",
-            "d10c288b-7eb2-455a-89d0-92e4a6c5bb5f",
             "dda162c0-65ef-4bbb-bc82-93b2d0b7fc00",
             "4d4d3380-823e-4d09-b3b8-84b5a5fd69aa"
         ],
-        "main_article_id": "1d7c3a6a-6ddc-4c11-a199-d4038642122b",
+        "main_article_id": "dda162c0-65ef-4bbb-bc82-93b2d0b7fc00",
         "creation_time": "2023-08-08T11:44:28.868000",
         "last_updated": "2023-08-08T11:44:28.889000",
         "domains": [
@@ -3855,15 +3412,13 @@
     {
         "cluster_id": "28373987-af7e-4d67-a9cf-e1fa2b7d05e6",
         "articles_id": [
-            "e5fe9bb2-66cb-484c-978f-9dc69409b941",
             "edacc224-3bdf-4c7c-a134-3f3ad6538c6f",
             "f29fb443-005c-4b43-8475-16a2a80e1ce6",
-            "b051af5b-ad94-4abf-8d75-c39381f3cb8b",
             "9deb163a-9e25-4088-92d1-dba93c9535b8",
             "287f6969-889b-4649-921f-b71c7637cd24",
             "26ca94b7-0890-43f3-8bc4-0809d16c3eb6"
         ],
-        "main_article_id": "e5fe9bb2-66cb-484c-978f-9dc69409b941",
+        "main_article_id": "26ca94b7-0890-43f3-8bc4-0809d16c3eb6",
         "creation_time": "2023-08-08T11:44:35.986000",
         "last_updated": "2023-08-08T11:44:36.011000",
         "domains": [
@@ -3883,12 +3438,9 @@
         "articles_id": [
             "90605692-5e6b-414d-9d76-a935916d5fdb",
             "2b9b4e6d-7e8d-4991-b5f8-8eaf5b6cb0fa",
-            "efa1f95f-cdd8-4d4d-80d6-2177febc7de2",
             "0d4ca54a-b013-4182-8f57-efa2b5ce6ae9",
             "0e390875-4069-499b-95f5-9dbe738a3ab4",
             "1b4dd5a4-fcb4-4670-a3ec-b830db778c74",
-            "f080abcd-a081-468e-af56-c00f1fc52698",
-            "1394805d-c476-4116-b47c-29b42cd130da",
             "68b6640b-5139-4c97-a97c-fa814a211a16"
         ],
         "main_article_id": "90605692-5e6b-414d-9d76-a935916d5fdb",
@@ -3912,12 +3464,9 @@
         "cluster_id": "f4c5525a-8a6b-479f-9f25-d1887447a352",
         "articles_id": [
             "a85632ff-0999-4e2d-9c9b-1b45dd977c3c",
-            "89fc5063-4979-40bf-aa6d-9498e5c029be",
-            "849bf135-d8dc-4f1f-8272-49d81a9812d6",
             "1cb94414-434b-4e44-90ba-6ecdc2a01f1e",
             "920df1d6-81aa-4d86-aaba-b1fd80f7509c",
             "b61b514c-5211-40c2-8a00-f47e397fb8c4",
-            "2ef520e4-71f5-4d54-a1b0-eb14389ed814",
             "910b66bb-a548-4894-91a2-b381a8143243",
             "7b31bcb0-af64-4ab2-b318-273a129a77cc"
         ],
@@ -3956,16 +3505,13 @@
     {
         "cluster_id": "7fb73c9a-01af-4c34-bd63-3751ebecba53",
         "articles_id": [
-            "df0848c7-6bf2-4fa9-ad05-95b7650cd620",
             "46c7b5ce-0af5-4661-a93a-26006d27a86a",
-            "3c853883-98e9-4a74-bb1e-167d52d70bc5",
             "3ed570f7-da7c-4c61-94d7-e845f2abdc99",
             "2ad8d756-b596-4392-b122-f2b7b30706bd",
-            "bf05f096-2c1c-4162-bdd8-84a52f271e63",
             "4ae9426a-21c0-44a9-b9fa-d2da2756baee",
             "a70c41c6-1987-4958-a0bf-32b3a842b335"
         ],
-        "main_article_id": "df0848c7-6bf2-4fa9-ad05-95b7650cd620",
+        "main_article_id": "2ad8d756-b596-4392-b122-f2b7b30706bd",
         "creation_time": "2023-08-08T11:48:25.735000",
         "last_updated": "2023-08-08T11:48:25.762000",
         "domains": [
@@ -3984,17 +3530,13 @@
     {
         "cluster_id": "e9453c94-0113-46ea-920f-608000e8170e",
         "articles_id": [
-            "1d6dbfcc-a4dd-4198-976c-7b0bd8fb4228",
             "83c0135a-a988-4eba-88a6-2a74567f638c",
             "935234cd-5fff-4901-ab05-a4ff5b6a2831",
             "4f39cc4d-b9a0-40ce-a6e0-ddc431ce563b",
             "b25c1732-99fb-46d6-bdec-555dd32a10fa",
-            "1a10ed0e-2a23-485f-99b6-af95d66d6b58",
-            "efbbe1c8-c7a7-46ba-936b-54df3e8bb988",
-            "3459bfd9-d5cb-4314-ae4c-d62962e3ead4",
             "1897d295-bf13-46ff-9265-5122d4e410cd"
         ],
-        "main_article_id": "1d6dbfcc-a4dd-4198-976c-7b0bd8fb4228",
+        "main_article_id": "1897d295-bf13-46ff-9265-5122d4e410cd",
         "creation_time": "2023-08-08T11:48:27.254000",
         "last_updated": "2023-08-08T11:48:27.280000",
         "domains": [
