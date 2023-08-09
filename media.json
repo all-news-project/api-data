@@ -1373,5 +1373,20 @@
         "media": "The Ohio State University News",
         "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news.osu.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "file_path": "/home/user/allnews/server/download/The Ohio State University News.png"
+    },
+    {
+        "media": "EIN News",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.einnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/EIN News.png"
+    },
+    {
+        "media": "News8000.com - WKBT",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news8000.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/News8000.com - WKBT.png"
+    },
+    {
+        "media": "KCENTV.com",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.kcentv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/KCENTV.com.png"
     }
 ]
