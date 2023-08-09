@@ -1388,5 +1388,35 @@
         "media": "KCENTV.com",
         "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.kcentv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "file_path": "/home/user/allnews/server/download/KCENTV.com.png"
+    },
+    {
+        "media": "NC Newsline",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://ncnewsline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/NC Newsline.png"
+    },
+    {
+        "media": "Mondaq News Alerts",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.mondaq.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Mondaq News Alerts.png"
+    },
+    {
+        "media": "4029tv",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.4029tv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/4029tv.png"
+    },
+    {
+        "media": "Kansas Reflector",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://kansasreflector.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Kansas Reflector.png"
+    },
+    {
+        "media": "KTSM 9 News",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ktsm.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/KTSM 9 News.png"
+    },
+    {
+        "media": "The International Foundation for Electoral Systems",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ifes.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/The International Foundation for Electoral Systems.png"
     }
 ]
