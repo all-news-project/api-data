@@ -1518,5 +1518,90 @@
         "media": "Canada's National Observer",
         "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.nationalobserver.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "file_path": "/home/user/allnews/server/download/Canada's National Observer.png"
+    },
+    {
+        "media": "RacingGamesGG",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://racinggames.gg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/RacingGamesGG.png"
+    },
+    {
+        "media": "Channel 4 News",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.channel4.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Channel 4 News.png"
+    },
+    {
+        "media": "Resilience",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.resilience.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Resilience.png"
+    },
+    {
+        "media": "Fagen wasanni",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fagenwasanni.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Fagen wasanni.png"
+    },
+    {
+        "media": "United Nations",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://press.un.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/United Nations.png"
+    },
+    {
+        "media": "POZ",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.poz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/POZ.png"
+    },
+    {
+        "media": "After School Africa",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.afterschoolafrica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/After School Africa.png"
+    },
+    {
+        "media": "MERIP",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://merip.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/MERIP.png"
+    },
+    {
+        "media": "Amtrak Media",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://media.amtrak.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Amtrak Media.png"
+    },
+    {
+        "media": "Naval News",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.navalnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Naval News.png"
+    },
+    {
+        "media": "Wisconsin Public Radio",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wpr.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Wisconsin Public Radio.png"
+    },
+    {
+        "media": "Mad in America",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.madinamerica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Mad in America.png"
+    },
+    {
+        "media": "University of Calgary",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://ucalgary.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/University of Calgary.png"
+    },
+    {
+        "media": "WKMG News 6 & ClickOrlando",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.clickorlando.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/WKMG News 6 & ClickOrlando.png"
+    },
+    {
+        "media": "Nonprofit Quarterly",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://nonprofitquarterly.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Nonprofit Quarterly.png"
+    },
+    {
+        "media": "jacksonlewis.com",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jacksonlewis.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/jacksonlewis.com.png"
+    },
+    {
+        "media": "AnOther Magazine",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.anothermag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/AnOther Magazine.png"
     }
 ]
