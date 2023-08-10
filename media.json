@@ -1683,5 +1683,40 @@
         "media": "LJ INFOdocket",
         "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.infodocket.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "file_path": "/home/user/allnews/server/download/LJ INFOdocket.png"
+    },
+    {
+        "media": "EdSource",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://edsource.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/EdSource.png"
+    },
+    {
+        "media": "ESPN.co.uk",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.espn.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/ESPN.co.uk.png"
+    },
+    {
+        "media": "1819 News",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://1819news.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/1819 News.png"
+    },
+    {
+        "media": "The Japan Times",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.japantimes.co.jp&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/The Japan Times.png"
+    },
+    {
+        "media": "Premium Times",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.premiumtimesng.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Premium Times.png"
+    },
+    {
+        "media": "The Daily Times",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.weirtondailytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/The Daily Times.png"
+    },
+    {
+        "media": "The Spinoff",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thespinoff.co.nz&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/The Spinoff.png"
     }
 ]
