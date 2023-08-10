@@ -1638,5 +1638,50 @@
         "media": "Bulletin of the Atomic Scientists",
         "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://thebulletin.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "file_path": "/home/user/allnews/server/download/Bulletin of the Atomic Scientists.png"
+    },
+    {
+        "media": "news.azpm.org",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news.azpm.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/news.azpm.org.png"
+    },
+    {
+        "media": "Pulitzer Center on Crisis Reporting",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://pulitzercenter.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Pulitzer Center on Crisis Reporting.png"
+    },
+    {
+        "media": "Hampshire Chronicle",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.hampshirechronicle.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Hampshire Chronicle.png"
+    },
+    {
+        "media": "Williams Mullen",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.williamsmullen.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Williams Mullen.png"
+    },
+    {
+        "media": "Irish Examiner",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.irishexaminer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Irish Examiner.png"
+    },
+    {
+        "media": "Greenville News",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.greenvilleonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Greenville News.png"
+    },
+    {
+        "media": "Scientific American",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.scientificamerican.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Scientific American.png"
+    },
+    {
+        "media": "MidCoast Council",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.midcoast.nsw.gov.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/MidCoast Council.png"
+    },
+    {
+        "media": "LJ INFOdocket",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.infodocket.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/LJ INFOdocket.png"
     }
 ]
