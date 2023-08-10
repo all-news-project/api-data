@@ -1718,5 +1718,80 @@
         "media": "The Spinoff",
         "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thespinoff.co.nz&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "file_path": "/home/user/allnews/server/download/The Spinoff.png"
+    },
+    {
+        "media": "Recharge",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.rechargenews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Recharge.png"
+    },
+    {
+        "media": "Spotlight News",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://spotlightnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Spotlight News.png"
+    },
+    {
+        "media": "Kentucky Teacher",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kentuckyteacher.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Kentucky Teacher.png"
+    },
+    {
+        "media": "KABC-TV",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://abc7.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/KABC-TV.png"
+    },
+    {
+        "media": "NHRA.com",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.nhra.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/NHRA.com.png"
+    },
+    {
+        "media": "Bitter Winter",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://bitterwinter.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Bitter Winter.png"
+    },
+    {
+        "media": "Morgan Lewis",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.morganlewis.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Morgan Lewis.png"
+    },
+    {
+        "media": "MR Online",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://mronline.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/MR Online.png"
+    },
+    {
+        "media": "GBH News",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wgbh.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/GBH News.png"
+    },
+    {
+        "media": "Jacksonville Free Press",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://jacksonvillefreepress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Jacksonville Free Press.png"
+    },
+    {
+        "media": "Santa Clara University",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.scu.edu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Santa Clara University.png"
+    },
+    {
+        "media": "Hotel Management",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.hotelmanagement.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Hotel Management.png"
+    },
+    {
+        "media": "DCist",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://dcist.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/DCist.png"
+    },
+    {
+        "media": "NBC Sports",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nbcsports.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/NBC Sports.png"
+    },
+    {
+        "media": "OnlySky Media",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://onlysky.media&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/OnlySky Media.png"
     }
 ]
