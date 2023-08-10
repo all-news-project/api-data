@@ -1603,5 +1603,40 @@
         "media": "AnOther Magazine",
         "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.anothermag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "file_path": "/home/user/allnews/server/download/AnOther Magazine.png"
+    },
+    {
+        "media": "The Philadelphia Inquirer",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.inquirer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/The Philadelphia Inquirer.png"
+    },
+    {
+        "media": "Cureus",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cureus.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Cureus.png"
+    },
+    {
+        "media": "Equality Now",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equalitynow.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Equality Now.png"
+    },
+    {
+        "media": "TN Journal",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://onthehill.tnjournal.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/TN Journal.png"
+    },
+    {
+        "media": "Military.com",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.military.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Military.com.png"
+    },
+    {
+        "media": "Houston Chronicle ",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.houstonchronicle.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Houston Chronicle .png"
+    },
+    {
+        "media": "Bulletin of the Atomic Scientists",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://thebulletin.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Bulletin of the Atomic Scientists.png"
     }
 ]
