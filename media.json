@@ -1833,5 +1833,40 @@
         "media": "BioSpace",
         "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.biospace.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "file_path": "/home/user/allnews/server/download/BioSpace.png"
+    },
+    {
+        "media": "CA.gov",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cde.ca.gov&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/CA.gov.png"
+    },
+    {
+        "media": "City Journal",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.city-journal.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/City Journal.png"
+    },
+    {
+        "media": "AZPM",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://news.azpm.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/AZPM.png"
+    },
+    {
+        "media": "WABE 90.1 FM",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.wabe.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/WABE 90.1 FM.png"
+    },
+    {
+        "media": "Nikkei Asia",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://asia.nikkei.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Nikkei Asia.png"
+    },
+    {
+        "media": "Warren County Record",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.warrencountyrecord.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Warren County Record.png"
+    },
+    {
+        "media": "Young America's Foundation",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://yaf.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Young America's Foundation.png"
     }
 ]
