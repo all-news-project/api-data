@@ -1793,5 +1793,45 @@
         "media": "OnlySky Media",
         "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://onlysky.media&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "file_path": "/home/user/allnews/server/download/OnlySky Media.png"
+    },
+    {
+        "media": "Sioux City Journal",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://siouxcityjournal.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Sioux City Journal.png"
+    },
+    {
+        "media": "Worcester Telegram",
+        "src": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.telegram.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Worcester Telegram.png"
+    },
+    {
+        "media": "Global News",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://globalnews.ca&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/Global News.png"
+    },
+    {
+        "media": "The Arizona Republic",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.azcentral.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/The Arizona Republic.png"
+    },
+    {
+        "media": "WTOK",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.wtok.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/WTOK.png"
+    },
+    {
+        "media": "The Lancet",
+        "src": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thelancet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/The Lancet.png"
+    },
+    {
+        "media": "NRDC (Natural Resources Defense Council)",
+        "src": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nrdc.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/NRDC (Natural Resources Defense Council).png"
+    },
+    {
+        "media": "BioSpace",
+        "src": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.biospace.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "file_path": "/home/user/allnews/server/download/BioSpace.png"
     }
 ]
